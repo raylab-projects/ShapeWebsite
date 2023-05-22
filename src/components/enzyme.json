@@ -1,0 +1,68 @@
+[
+    {
+        "presets": ["@babel/preset-react"]
+      },      
+    {
+        "serial": 1,
+        "pdb": "6MDP",
+        "protein": "Vesicle-fusing ATPase",
+        "files": "heyo"
+    },
+    {
+        "serial": 2,
+        "pdb": "3EBQ",
+        "protein": "Desumoylating isopeptidase 1",
+        "files": "heyo"
+      
+
+    },
+    {
+        "serial": 3,
+        "pdb": "2IBI",
+        "protein": "Ubiquitin carboxyl-terminal hydrolase 2",
+        "files": "heyo"
+
+    },
+    {
+        "serial": 4,
+        "pdb": "2AAO",
+        "protein": "Calcium-dependent protein kinase 1",
+        "files": "heyo"
+    },
+    {
+        "serial": 5,
+        "pdb": "6F8F",
+        "protein": "Speckle-type POZ protein",
+        "files": "heyo"
+    },
+    {
+        "serial": 6,
+        "pdb": "6NPF",
+        "protein": "Enolase",
+        "files": "heyo"
+    },
+    {
+        "serial": 7,
+        "pdb": "3VMM",
+        "protein": "Alanine--anticapsin ligase",
+        "files": "heyo"
+    },
+    {
+        "serial": 8,
+        "pdb": "6ZEH",
+        "protein": "Serine/threonine-protein phosphatase PP1-alpha catalytic subunit",
+        "files": "heyo"
+    },
+    {
+        "serial": 9,
+        "pdb": "3TX8",
+        "protein": "Succinyl-diaminopimelate desuccinylase",
+        "files": "heyo"
+    },
+    {
+        "serial": 10,
+        "pdb": "2C4J",
+        "protein": "Glutathione S-transferase Mu 2",
+        "files": "heyo"
+    }
+]

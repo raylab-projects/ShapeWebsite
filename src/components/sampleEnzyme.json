@@ -1,0 +1,2687 @@
+[
+    {
+        "serial": 1,
+        "pdb": "6MDP",
+        "protein": "Vesicle-fusing ATPase"
+    },
+    {
+        "serial": 2,
+        "pdb": "3EBQ",
+        "protein": "Desumoylating isopeptidase 1"
+    },
+    {
+        "serial": 3,
+        "pdb": "2IBI",
+        "protein": "Ubiquitin carboxyl-terminal hydrolase 2"
+    },
+    {
+        "serial": 4,
+        "pdb": "2AAO",
+        "protein": "Calcium-dependent protein kinase 1"
+    },
+    {
+        "serial": 5,
+        "pdb": "6F8F",
+        "protein": "Speckle-type POZ protein"
+    },
+    {
+        "serial": 6,
+        "pdb": "6NPF",
+        "protein": "Enolase"
+    },
+    {
+        "serial": 7,
+        "pdb": "3VMM",
+        "protein": "Alanine--anticapsin ligase"
+    },
+    {
+        "serial": 8,
+        "pdb": "6ZEH",
+        "protein": "Serine/threonine-protein phosphatase PP1-alpha catalytic subunit"
+    },
+    {
+        "serial": 9,
+        "pdb": "3TX8",
+        "protein": "Succinyl-diaminopimelate desuccinylase"
+    },
+    {
+        "serial": 10,
+        "pdb": "2C4J",
+        "protein": "Glutathione S-transferase Mu 2"
+    },
+    {
+        "serial": 11,
+        "pdb": "5LBK",
+        "protein": "Copper-transporting ATPase PAA2, chloroplastic"
+    },
+    {
+        "serial": 12,
+        "pdb": "7C8D",
+        "protein": "Spike glycoprotein"
+    },
+    {
+        "serial": 13,
+        "pdb": "2I0E",
+        "protein": "protein kinase C beta type"
+    },
+    {
+        "serial": 14,
+        "pdb": "4YH7",
+        "protein": "Interleukin-1 receptor accessory protein-like 1"
+    },
+    {
+        "serial": 15,
+        "pdb": "2G62",
+        "protein": "Serine/threonine-protein phosphatase 2A activator"
+    },
+    {
+        "serial": 16,
+        "pdb": "2ZVA",
+        "protein": "Tyrosine-protein kinase Lyn"
+    },
+    {
+        "serial": 17,
+        "pdb": "6RK9",
+        "protein": "Coagulation factor X"
+    },
+    {
+        "serial": 18,
+        "pdb": "2A97",
+        "protein": "Botulinum neurotoxin type F"
+    },
+    {
+        "serial": 19,
+        "pdb": "4JAX",
+        "protein": "Hexokinase"
+    },
+    {
+        "serial": 20,
+        "pdb": "4K2M",
+        "protein": "3-oxo-glucose-6-phosphate:glutamate aminotransferase"
+    },
+    {
+        "serial": 21,
+        "pdb": "3N57",
+        "protein": "Natriuretic peptides A"
+    },
+    {
+        "serial": 22,
+        "pdb": "4CHB",
+        "protein": "Kelch-like protein 2"
+    },
+    {
+        "serial": 23,
+        "pdb": "6QO0",
+        "protein": "Sulfur oxygenase/reductase"
+    },
+    {
+        "serial": 24,
+        "pdb": "2AJ0",
+        "protein": "Probable cadmium-transporting ATPase"
+    },
+    {
+        "serial": 25,
+        "pdb": "5IIQ",
+        "protein": "Vacuolar transporter chaperone complex subunit 4"
+    },
+    {
+        "serial": 26,
+        "pdb": "4BKF",
+        "protein": "Ephrin type-A receptor 4"
+    },
+    {
+        "serial": 27,
+        "pdb": "4ZHT",
+        "protein": "Bifunctional UDP-N-acetylglucosamine 2-epimerase/N-acetylmannosamine kinase"
+    },
+    {
+        "serial": 28,
+        "pdb": "5JJS",
+        "protein": "Genome polyprotein"
+    },
+    {
+        "serial": 29,
+        "pdb": "4U9S",
+        "protein": "Na(+)-translocating NADH-quinone reductase subunit C"
+    },
+    {
+        "serial": 30,
+        "pdb": "1LUF",
+        "protein": "Muscle, skeletal receptor tyrosine protein kinase"
+    },
+    {
+        "serial": 31,
+        "pdb": "3HDN",
+        "protein": "Serine/threonine-protein kinase Sgk1"
+    },
+    {
+        "serial": 32,
+        "pdb": "1GOD",
+        "protein": "Basic phospholipase A2 homolog GodMT-II"
+    },
+    {
+        "serial": 33,
+        "pdb": "3QXS",
+        "protein": "ATP-dependent dethiobiotin synthetase BioD"
+    },
+    {
+        "serial": 34,
+        "pdb": "3EVG",
+        "protein": "Genome polyprotein"
+    },
+    {
+        "serial": 35,
+        "pdb": "3UPI",
+        "protein": "Genome polyprotein"
+    },
+    {
+        "serial": 36,
+        "pdb": "5HMA",
+        "protein": "Probable membrane transporter protein MamO"
+    },
+    {
+        "serial": 37,
+        "pdb": "2ZJO",
+        "protein": "Genome polyprotein"
+    },
+    {
+        "serial": 38,
+        "pdb": "2B69",
+        "protein": "UDP-glucuronic acid decarboxylase 1"
+    },
+    {
+        "serial": 39,
+        "pdb": "3HVQ",
+        "protein": "Neurabin-1"
+    },
+    {
+        "serial": 40,
+        "pdb": "2C0Y",
+        "protein": "Cathepsin S"
+    },
+    {
+        "serial": 41,
+        "pdb": "4UMW",
+        "protein": "Zinc/cadmium/lead-transporting P-type ATPase"
+    },
+    {
+        "serial": 42,
+        "pdb": "6V9I",
+        "protein": "Immunoglobulin G-binding protein G"
+    },
+    {
+        "serial": 43,
+        "pdb": "4ADP",
+        "protein": "Genome polyprotein"
+    },
+    {
+        "serial": 44,
+        "pdb": "1T6I",
+        "protein": "Superoxide dismutase [Ni]"
+    },
+    {
+        "serial": 45,
+        "pdb": "6TTK",
+        "protein": "Segment polarity protein dishevelled homolog DVL-1"
+    },
+    {
+        "serial": 46,
+        "pdb": "4MJN",
+        "protein": "ATP synthase subunit c, chloroplastic"
+    },
+    {
+        "serial": 47,
+        "pdb": "3SKX",
+        "protein": "Copper-exporting P-type ATPase B"
+    },
+    {
+        "serial": 48,
+        "pdb": "1ZO0",
+        "protein": "Ornithine decarboxylase antizyme 1"
+    },
+    {
+        "serial": 49,
+        "pdb": "3M7F",
+        "protein": "E3 ubiquitin-protein ligase NEDD4"
+    },
+    {
+        "serial": 50,
+        "pdb": "4RPV",
+        "protein": "Serine/threonine-protein kinase pim-1"
+    },
+    {
+        "serial": 51,
+        "pdb": "6TMY",
+        "protein": "Phospholipase A2 crotoxin basic subunit CBd"
+    },
+    {
+        "serial": 52,
+        "pdb": "3KYD",
+        "protein": "Small ubiquitin-related modifier 1"
+    },
+    {
+        "serial": 53,
+        "pdb": "2V4J",
+        "protein": "Sulfite reductase, dissimilatory-type subunit gamma"
+    },
+    {
+        "serial": 54,
+        "pdb": "3WHI",
+        "protein": "Subtilisin E"
+    },
+    {
+        "serial": 55,
+        "pdb": "6HOZ",
+        "protein": "ADP-ribosylhydrolase ARH3"
+    },
+    {
+        "serial": 56,
+        "pdb": "3TAU",
+        "protein": "Guanylate kinase"
+    },
+    {
+        "serial": 57,
+        "pdb": "3PNB",
+        "protein": "Phosphopantetheine adenylyltransferase"
+    },
+    {
+        "serial": 58,
+        "pdb": "2ZL4",
+        "protein": "ATP-dependent Clp protease proteolytic subunit"
+    },
+    {
+        "serial": 59,
+        "pdb": "1TG6",
+        "protein": "ATP-dependent Clp protease proteolytic subunit, mitochondrial"
+    },
+    {
+        "serial": 60,
+        "pdb": "1S96",
+        "protein": "Guanylate kinase"
+    },
+    {
+        "serial": 61,
+        "pdb": "4CH9",
+        "protein": "Serine/threonine-protein kinase WNK4"
+    },
+    {
+        "serial": 62,
+        "pdb": "4CZU",
+        "protein": "CBL-interacting serine/threonine-protein kinase 23"
+    },
+    {
+        "serial": 63,
+        "pdb": "1PPA",
+        "protein": "Basic phospholipase A2 homolog AppP2"
+    },
+    {
+        "serial": 64,
+        "pdb": "3AZC",
+        "protein": "Cytochrome b6-f complex iron-sulfur subunit"
+    },
+    {
+        "serial": 65,
+        "pdb": "3GYX",
+        "protein": "Adenylylsulfate reductase subunit alpha"
+    },
+    {
+        "serial": 66,
+        "pdb": "4TOT",
+        "protein": "Peptidyl-prolyl cis-trans isomerase F, mitochondrial"
+    },
+    {
+        "serial": 67,
+        "pdb": "4DCF",
+        "protein": "Basic phospholipase A2 homolog 2"
+    },
+    {
+        "serial": 68,
+        "pdb": "5D9H",
+        "protein": "STE20/SPS1-related proline-alanine-rich protein kinase"
+    },
+    {
+        "serial": 69,
+        "pdb": "5HU3",
+        "protein": "Calcium/calmodulin-dependent protein kinase type II alpha chain"
+    },
+    {
+        "serial": 70,
+        "pdb": "1TEV",
+        "protein": "UMP-CMP kinase"
+    },
+    {
+        "serial": 71,
+        "pdb": "4UCH",
+        "protein": "Nitric oxide synthase, brain"
+    },
+    {
+        "serial": 72,
+        "pdb": "5LOL",
+        "protein": "Glutathione S-transferase DHAR2"
+    },
+    {
+        "serial": 73,
+        "pdb": "2E5Y",
+        "protein": "ATP synthase epsilon chain"
+    },
+    {
+        "serial": 74,
+        "pdb": "6Q45",
+        "protein": "ATP synthase subunit alpha"
+    },
+    {
+        "serial": 75,
+        "pdb": "3HVO",
+        "protein": "Genome polyprotein"
+    },
+    {
+        "serial": 76,
+        "pdb": "2OSH",
+        "protein": "Acidic phospholipase A2 natratoxin"
+    },
+    {
+        "serial": 77,
+        "pdb": "1Q3I",
+        "protein": "Sodium/potassium-transporting ATPase subunit alpha-2"
+    },
+    {
+        "serial": 78,
+        "pdb": "1WR7",
+        "protein": "E3 ubiquitin-protein ligase NEDD4-like"
+    },
+    {
+        "serial": 79,
+        "pdb": "5VFN",
+        "protein": "Basic phospholipase A2 homolog BnSP-7"
+    },
+    {
+        "serial": 80,
+        "pdb": "3A1F",
+        "protein": "Cytochrome b-245 heavy chain"
+    },
+    {
+        "serial": 81,
+        "pdb": "3FFZ",
+        "protein": "Botulinum neurotoxin type E"
+    },
+    {
+        "serial": 82,
+        "pdb": "1GMZ",
+        "protein": "Basic phospholipase A2 homolog piratoxin-3"
+    },
+    {
+        "serial": 83,
+        "pdb": "3HKW",
+        "protein": "Genome polyprotein"
+    },
+    {
+        "serial": 84,
+        "pdb": "6DU2",
+        "protein": "protein-serine/threonine phosphatase"
+    },
+    {
+        "serial": 85,
+        "pdb": "2Z6D",
+        "protein": "Phototropin-2"
+    },
+    {
+        "serial": 86,
+        "pdb": "2I0U",
+        "protein": "Basic phospholipase A2 chain HDP-1P"
+    },
+    {
+        "serial": 87,
+        "pdb": "2DQ7",
+        "protein": "Tyrosine-protein kinase Fyn"
+    },
+    {
+        "serial": 88,
+        "pdb": "1X7P",
+        "protein": "23S rRNA (uridine(2479)-2'-O)-methyltransferase"
+    },
+    {
+        "serial": 89,
+        "pdb": "5BQN",
+        "protein": "Botulinum neurotoxin type D"
+    },
+    {
+        "serial": 90,
+        "pdb": "2R9V",
+        "protein": "ATP synthase subunit alpha"
+    },
+    {
+        "serial": 91,
+        "pdb": "1P5Q",
+        "protein": "Peptidyl-prolyl cis-trans isomerase FKBP4"
+    },
+    {
+        "serial": 92,
+        "pdb": "5HFU",
+        "protein": "Hexokinase-2"
+    },
+    {
+        "serial": 93,
+        "pdb": "3TR0",
+        "protein": "Guanylate kinase"
+    },
+    {
+        "serial": 94,
+        "pdb": "2CXV",
+        "protein": "Genome polyprotein"
+    },
+    {
+        "serial": 95,
+        "pdb": "2ONI",
+        "protein": "E3 ubiquitin-protein ligase NEDD4-like"
+    },
+    {
+        "serial": 96,
+        "pdb": "2ROP",
+        "protein": "Copper-transporting ATPase 2"
+    },
+    {
+        "serial": 97,
+        "pdb": "6KMN",
+        "protein": "Deferrochelatase"
+    },
+    {
+        "serial": 98,
+        "pdb": "5LBD",
+        "protein": "Copper-transporting ATPase PAA1, chloroplastic"
+    },
+    {
+        "serial": 99,
+        "pdb": "2CJQ",
+        "protein": "Genome polyprotein"
+    },
+    {
+        "serial": 100,
+        "pdb": "5JBN",
+        "protein": "Phosphopantetheine adenylyltransferase"
+    },
+    {
+        "serial": 101,
+        "pdb": "2RQ0",
+        "protein": "Prostaglandin-H2 D-isomerase"
+    },
+    {
+        "serial": 102,
+        "pdb": "2ABH",
+        "protein": "Phosphate-binding protein PstS"
+    },
+    {
+        "serial": 103,
+        "pdb": "4BYG",
+        "protein": "Copper-exporting P-type ATPase"
+    },
+    {
+        "serial": 104,
+        "pdb": "6VFX",
+        "protein": "ATP-dependent Clp protease ATP-binding subunit ClpX"
+    },
+    {
+        "serial": 105,
+        "pdb": "6J1Z",
+        "protein": "NEDD4-like E3 ubiquitin-protein ligase WWP2"
+    },
+    {
+        "serial": 106,
+        "pdb": "2H8H",
+        "protein": "Proto-oncogene tyrosine-protein kinase Src"
+    },
+    {
+        "serial": 107,
+        "pdb": "2XH5",
+        "protein": "RAC-beta serine/threonine-protein kinase"
+    },
+    {
+        "serial": 108,
+        "pdb": "3GHN",
+        "protein": "A disintegrin and metalloproteinase with thrombospondin motifs 13"
+    },
+    {
+        "serial": 109,
+        "pdb": "6EJ8",
+        "protein": "protein AMBP"
+    },
+    {
+        "serial": 110,
+        "pdb": "1XHK",
+        "protein": "Archaeal Lon protease"
+    },
+    {
+        "serial": 111,
+        "pdb": "3BB1",
+        "protein": "Translocase of chloroplast 34"
+    },
+    {
+        "serial": 112,
+        "pdb": "1XFB",
+        "protein": "Fructose-bisphosphate aldolase C"
+    },
+    {
+        "serial": 113,
+        "pdb": "2OFG",
+        "protein": "Zinc-transporting ATPase"
+    },
+    {
+        "serial": 114,
+        "pdb": "4N0G",
+        "protein": "protein phosphatase 2C 37"
+    },
+    {
+        "serial": 115,
+        "pdb": "4QUM",
+        "protein": "Tyrosine-protein phosphatase non-receptor type 3"
+    },
+    {
+        "serial": 116,
+        "pdb": "5WE8",
+        "protein": "Serine/threonine-protein kinase WNK1"
+    },
+    {
+        "serial": 117,
+        "pdb": "5W1T",
+        "protein": "RNA polymerase sigma factor RpoD"
+    },
+    {
+        "serial": 118,
+        "pdb": "3SOM",
+        "protein": "Cyanocobalamin reductase / alkylcobalamin dealkylase"
+    },
+    {
+        "serial": 119,
+        "pdb": "3SZG",
+        "protein": "Glutamine-dependent NAD(+) synthetase"
+    },
+    {
+        "serial": 120,
+        "pdb": "3UJZ",
+        "protein": "Metalloprotease StcE"
+    },
+    {
+        "serial": 121,
+        "pdb": "6NMP",
+        "protein": "Cytochrome c oxidase subunit 1"
+    },
+    {
+        "serial": 122,
+        "pdb": "2XBF",
+        "protein": "E3 ubiquitin-protein ligase NEDD4"
+    },
+    {
+        "serial": 123,
+        "pdb": "6U3X",
+        "protein": "Proprotein convertase subtilisin/kexin type 9"
+    },
+    {
+        "serial": 124,
+        "pdb": "4JA7",
+        "protein": "Serine/threonine-protein phosphatase 5"
+    },
+    {
+        "serial": 125,
+        "pdb": "2HC9",
+        "protein": "Leucine aminopeptidase 1"
+    },
+    {
+        "serial": 126,
+        "pdb": "4X7Q",
+        "protein": "Serine/threonine-protein kinase pim-2"
+    },
+    {
+        "serial": 127,
+        "pdb": "6BAB",
+        "protein": "Calcium/calmodulin-dependent protein kinase type II subunit delta"
+    },
+    {
+        "serial": 128,
+        "pdb": "1Z8R",
+        "protein": "Genome polyprotein"
+    },
+    {
+        "serial": 129,
+        "pdb": "4Q4L",
+        "protein": "ATP synthase subunit beta 1"
+    },
+    {
+        "serial": 130,
+        "pdb": "2WZQ",
+        "protein": "Genome polyprotein"
+    },
+    {
+        "serial": 131,
+        "pdb": "2HDA",
+        "protein": "Tyrosine-protein kinase Yes"
+    },
+    {
+        "serial": 132,
+        "pdb": "3ZUU",
+        "protein": "Serine/threonine-protein kinase SRK2E"
+    },
+    {
+        "serial": 133,
+        "pdb": "4B6F",
+        "protein": "Genome polyprotein"
+    },
+    {
+        "serial": 134,
+        "pdb": "5DRB",
+        "protein": "Serine/threonine-protein kinase WNK1"
+    },
+    {
+        "serial": 135,
+        "pdb": "7KSM",
+        "protein": "Lon protease homolog, mitochondrial"
+    },
+    {
+        "serial": 136,
+        "pdb": "6LNM",
+        "protein": "Amyloid-beta A4 precursor protein-binding family A member 1"
+    },
+    {
+        "serial": 137,
+        "pdb": "5W4S",
+        "protein": "protein kinase C alpha type"
+    },
+    {
+        "serial": 138,
+        "pdb": "5ELG",
+        "protein": "Glutathione S-transferase DHAR1, mitochondrial"
+    },
+    {
+        "serial": 139,
+        "pdb": "1SKY",
+        "protein": "ATP synthase subunit beta"
+    },
+    {
+        "serial": 140,
+        "pdb": "4IN5",
+        "protein": "Reaction center protein H chain"
+    },
+    {
+        "serial": 141,
+        "pdb": "3PFQ",
+        "protein": "protein kinase C beta type"
+    },
+    {
+        "serial": 142,
+        "pdb": "1Z0W",
+        "protein": "Archaeal Lon protease"
+    },
+    {
+        "serial": 143,
+        "pdb": "1ZPU",
+        "protein": "Iron transport multicopper oxidase FET3"
+    },
+    {
+        "serial": 144,
+        "pdb": "5Z91",
+        "protein": "Ferritin, mitochondrial"
+    },
+    {
+        "serial": 145,
+        "pdb": "6P6Z",
+        "protein": "Genome polyprotein"
+    },
+    {
+        "serial": 146,
+        "pdb": "5GOU",
+        "protein": "Ferritin heavy chain"
+    },
+    {
+        "serial": 147,
+        "pdb": "1CM8",
+        "protein": "Mitogen-activated protein kinase 12"
+    },
+    {
+        "serial": 148,
+        "pdb": "1Y4L",
+        "protein": "Basic phospholipase A2 homolog 2"
+    },
+    {
+        "serial": 149,
+        "pdb": "3UNO",
+        "protein": "Bacterioferritin BfrB"
+    },
+    {
+        "serial": 150,
+        "pdb": "6TTZ",
+        "protein": "ATP-dependent Clp protease proteolytic subunit"
+    },
+    {
+        "serial": 151,
+        "pdb": "4MVT",
+        "protein": "E3 SUMO-protein ligase PIAS3"
+    },
+    {
+        "serial": 152,
+        "pdb": "1Y0V",
+        "protein": "Calmodulin-1"
+    },
+    {
+        "serial": 153,
+        "pdb": "5DN6",
+        "protein": "DUF1476 domain-containing protein"
+    },
+    {
+        "serial": 154,
+        "pdb": "5I35",
+        "protein": "Atypical kinase COQ8A, mitochondrial"
+    },
+    {
+        "serial": 155,
+        "pdb": "1I5H",
+        "protein": "Amiloride-sensitive sodium channel subunit beta"
+    },
+    {
+        "serial": 156,
+        "pdb": "2J41",
+        "protein": "Guanylate kinase"
+    },
+    {
+        "serial": 157,
+        "pdb": "2BDW",
+        "protein": "Calcium/calmodulin-dependent protein kinase type II"
+    },
+    {
+        "serial": 158,
+        "pdb": "1TRB",
+        "protein": "Thioredoxin reductase"
+    },
+    {
+        "serial": 159,
+        "pdb": "1LVG",
+        "protein": "Guanylate kinase"
+    },
+    {
+        "serial": 160,
+        "pdb": "5LIH",
+        "protein": "protein kinase C iota type"
+    },
+    {
+        "serial": 161,
+        "pdb": "1XR6",
+        "protein": "Genome polyprotein"
+    },
+    {
+        "serial": 162,
+        "pdb": "4V0R",
+        "protein": "Genome polyprotein"
+    },
+    {
+        "serial": 163,
+        "pdb": "2YQP",
+        "protein": "Probable ATP-dependent RNA helicase DDX59"
+    },
+    {
+        "serial": 164,
+        "pdb": "1GMI",
+        "protein": "protein kinase C epsilon type"
+    },
+    {
+        "serial": 165,
+        "pdb": "3CRR",
+        "protein": "tRNA dimethylallyltransferase"
+    },
+    {
+        "serial": 166,
+        "pdb": "5GRB",
+        "protein": "Genome polyprotein"
+    },
+    {
+        "serial": 167,
+        "pdb": "3FQL",
+        "protein": "Genome polyprotein"
+    },
+    {
+        "serial": 168,
+        "pdb": "5VZJ",
+        "protein": "Exosome complex component RRP43"
+    },
+    {
+        "serial": 169,
+        "pdb": "5AJP",
+        "protein": "Mucin-5AC"
+    },
+    {
+        "serial": 170,
+        "pdb": "4AZV",
+        "protein": "O-antigen chain terminator bifunctional methyltransferase/kinase WbdD"
+    },
+    {
+        "serial": 171,
+        "pdb": "1ROU",
+        "protein": "Peptidyl-prolyl cis-trans isomerase FKBP4"
+    },
+    {
+        "serial": 172,
+        "pdb": "6NUI",
+        "protein": "Guanylate kinase"
+    },
+    {
+        "serial": 173,
+        "pdb": "3GYG",
+        "protein": "Kanosamine-6-phosphate phosphatase"
+    },
+    {
+        "serial": 174,
+        "pdb": "1FX0",
+        "protein": "ATP synthase subunit beta, chloroplastic"
+    },
+    {
+        "serial": 175,
+        "pdb": "5CCV",
+        "protein": "Genome polyprotein"
+    },
+    {
+        "serial": 176,
+        "pdb": "4E1G",
+        "protein": "Prostaglandin G/H synthase 2"
+    },
+    {
+        "serial": 177,
+        "pdb": "5ZX5",
+        "protein": "Transient receptor potential cation channel subfamily M member 7"
+    },
+    {
+        "serial": 178,
+        "pdb": "3WNW",
+        "protein": "Ferritin heavy chain"
+    },
+    {
+        "serial": 179,
+        "pdb": "6E4W",
+        "protein": "5'-AMP-activated protein kinase catalytic subunit alpha-1"
+    },
+    {
+        "serial": 180,
+        "pdb": "4CEJ",
+        "protein": "ATP-dependent helicase/deoxyribonuclease subunit B"
+    },
+    {
+        "serial": 181,
+        "pdb": "4OZ5",
+        "protein": "Heme-degrading monooxygenase HmoB"
+    },
+    {
+        "serial": 182,
+        "pdb": "1KFX",
+        "protein": "Calpain small subunit 1"
+    },
+    {
+        "serial": 183,
+        "pdb": "2WTB",
+        "protein": "Peroxisomal fatty acid beta-oxidation multifunctional protein MFP2"
+    },
+    {
+        "serial": 184,
+        "pdb": "3HB3",
+        "protein": "Ig kappa chain V-V region MOPC 149"
+    },
+    {
+        "serial": 185,
+        "pdb": "5IEE",
+        "protein": "Glucosidase 2 subunit beta"
+    },
+    {
+        "serial": 186,
+        "pdb": "3PZV",
+        "protein": "Endoglucanase"
+    },
+    {
+        "serial": 187,
+        "pdb": "6HXB",
+        "protein": "Sarcoplasmic/endoplasmic reticulum calcium ATPase 2"
+    },
+    {
+        "serial": 188,
+        "pdb": "6OV8",
+        "protein": "Peptidase B"
+    },
+    {
+        "serial": 189,
+        "pdb": "6DUM",
+        "protein": "Aldehyde dehydrogenase 1A1"
+    },
+    {
+        "serial": 190,
+        "pdb": "6E9L",
+        "protein": "cAMP-dependent protein kinase catalytic subunit alpha"
+    },
+    {
+        "serial": 191,
+        "pdb": "6F1G",
+        "protein": "Intracellular endo-alpha-(1->5)-L-arabinanase"
+    },
+    {
+        "serial": 192,
+        "pdb": "6D3A",
+        "protein": "ADP-ribosylhydrolase ARH3"
+    },
+    {
+        "serial": 193,
+        "pdb": "5IPZ",
+        "protein": "Carbonic anhydrase 4"
+    },
+    {
+        "serial": 194,
+        "pdb": "3QYB",
+        "protein": "TBC1 domain family member 4"
+    },
+    {
+        "serial": 195,
+        "pdb": "5LG6",
+        "protein": "Aminopeptidase N"
+    },
+    {
+        "serial": 196,
+        "pdb": "4AUB",
+        "protein": "L-glyceraldehyde 3-phosphate reductase"
+    },
+    {
+        "serial": 197,
+        "pdb": "4N6O",
+        "protein": "Cystatin-M"
+    },
+    {
+        "serial": 198,
+        "pdb": "1WER",
+        "protein": "Ras GTPase-activating protein 1"
+    },
+    {
+        "serial": 199,
+        "pdb": "1ASZ",
+        "protein": "Aspartate--tRNA ligase, cytoplasmic"
+    },
+    {
+        "serial": 200,
+        "pdb": "6B2U",
+        "protein": "Acyl-CoA:acyl-CoA alkyltransferase"
+    },
+    {
+        "serial": 201,
+        "pdb": "3R77",
+        "protein": "Phenazine biosynthesis protein PhzD"
+    },
+    {
+        "serial": 202,
+        "pdb": "2QTY",
+        "protein": "ADP-ribosylhydrolase ARH3"
+    },
+    {
+        "serial": 203,
+        "pdb": "2OOR",
+        "protein": "NAD(P) transhydrogenase subunit beta"
+    },
+    {
+        "serial": 204,
+        "pdb": "3ZIA",
+        "protein": "ATP synthase subunit beta, mitochondrial"
+    },
+    {
+        "serial": 205,
+        "pdb": "3CDI",
+        "protein": "Polyribonucleotide nucleotidyltransferase"
+    },
+    {
+        "serial": 206,
+        "pdb": "2HG4",
+        "protein": "6-deoxyerythronolide-B synthase EryA3, modules 5 and 6"
+    },
+    {
+        "serial": 207,
+        "pdb": "6ZN0",
+        "protein": "cAMP-dependent protein kinase catalytic subunit alpha"
+    },
+    {
+        "serial": 208,
+        "pdb": "2GDZ",
+        "protein": "15-hydroxyprostaglandin dehydrogenase [NAD(+)]"
+    },
+    {
+        "serial": 209,
+        "pdb": "2HFK",
+        "protein": "Narbonolide/10-deoxymethynolide synthase PikA4, module 6"
+    },
+    {
+        "serial": 210,
+        "pdb": "3RDE",
+        "protein": "Polyunsaturated fatty acid lipoxygenase ALOX15"
+    },
+    {
+        "serial": 211,
+        "pdb": "6BRT",
+        "protein": "AB hydrolase-1 domain-containing protein"
+    },
+    {
+        "serial": 212,
+        "pdb": "1OX6",
+        "protein": "Imidazole glycerol phosphate synthase hisHF"
+    },
+    {
+        "serial": 213,
+        "pdb": "6XRP",
+        "protein": "Rhomboid protease GlpG"
+    },
+    {
+        "serial": 214,
+        "pdb": "2DX0",
+        "protein": "1-phosphatidylinositol 4,5-bisphosphate phosphodiesterase gamma-2"
+    },
+    {
+        "serial": 215,
+        "pdb": "2FVL",
+        "protein": "Aldo-keto reductase family 1 member C4"
+    },
+    {
+        "serial": 216,
+        "pdb": "3AXI",
+        "protein": "Oligo-1,6-glucosidase IMA1"
+    },
+    {
+        "serial": 217,
+        "pdb": "3F8U",
+        "protein": "Tapasin"
+    },
+    {
+        "serial": 218,
+        "pdb": "1GYT",
+        "protein": "Cytosol aminopeptidase"
+    },
+    {
+        "serial": 219,
+        "pdb": "5AZC",
+        "protein": "Phosphatidylglycerol--prolipoprotein diacylglyceryl transferase"
+    },
+    {
+        "serial": 220,
+        "pdb": "4CNX",
+        "protein": "Carbonic anhydrase 2"
+    },
+    {
+        "serial": 221,
+        "pdb": "1T9H",
+        "protein": "Small ribosomal subunit biogenesis GTPase RsgA"
+    },
+    {
+        "serial": 222,
+        "pdb": "4UPB",
+        "protein": "Inducible lysine decarboxylase"
+    },
+    {
+        "serial": 223,
+        "pdb": "1TCO",
+        "protein": "Peptidyl-prolyl cis-trans isomerase FKBP1A"
+    },
+    {
+        "serial": 224,
+        "pdb": "4XE5",
+        "protein": "Sodium/potassium-transporting ATPase subunit beta"
+    },
+    {
+        "serial": 225,
+        "pdb": "1CTP",
+        "protein": "cAMP-dependent protein kinase catalytic subunit alpha"
+    },
+    {
+        "serial": 226,
+        "pdb": "6BUB",
+        "protein": "Phosphatidylinositol 4-phosphate 3-kinase C2 domain-containing subunit alpha"
+    },
+    {
+        "serial": 227,
+        "pdb": "3RQS",
+        "protein": "Hydroxyacyl-coenzyme A dehydrogenase, mitochondrial"
+    },
+    {
+        "serial": 228,
+        "pdb": "5TXF",
+        "protein": "Phosphatidylcholine-sterol acyltransferase"
+    },
+    {
+        "serial": 229,
+        "pdb": "1Z8F",
+        "protein": "Guanylate kinase"
+    },
+    {
+        "serial": 230,
+        "pdb": "5L1N",
+        "protein": "NAD(P)H coenzyme A polysulfide/persulfide reductase"
+    },
+    {
+        "serial": 231,
+        "pdb": "1LKD",
+        "protein": "Biphenyl-2,3-diol 1,2-dioxygenase"
+    },
+    {
+        "serial": 232,
+        "pdb": "5VEU",
+        "protein": "Cytochrome P450 3A5"
+    },
+    {
+        "serial": 233,
+        "pdb": "1MWZ",
+        "protein": "Zinc/cadmium/lead-transporting P-type ATPase"
+    },
+    {
+        "serial": 234,
+        "pdb": "2O23",
+        "protein": "3-hydroxyacyl-CoA dehydrogenase type-2"
+    },
+    {
+        "serial": 235,
+        "pdb": "2FEW",
+        "protein": "PTS system mannitol-specific EIICBA component"
+    },
+    {
+        "serial": 236,
+        "pdb": "1PZ1",
+        "protein": "Aldo-keto reductase YhdN"
+    },
+    {
+        "serial": 237,
+        "pdb": "3ZNC",
+        "protein": "Carbonic anhydrase 4"
+    },
+    {
+        "serial": 238,
+        "pdb": "1Z7Y",
+        "protein": "Cysteine synthase 1"
+    },
+    {
+        "serial": 239,
+        "pdb": "4EMM",
+        "protein": "ATP-dependent Clp protease proteolytic subunit"
+    },
+    {
+        "serial": 240,
+        "pdb": "1UR3",
+        "protein": "Oxidoreductase YdhF"
+    },
+    {
+        "serial": 241,
+        "pdb": "2INF",
+        "protein": "Uroporphyrinogen decarboxylase"
+    },
+    {
+        "serial": 242,
+        "pdb": "4KWB",
+        "protein": "Putative signal peptide peptidase SppA"
+    },
+    {
+        "serial": 243,
+        "pdb": "6GTG",
+        "protein": "CRISPR-associated endonuclease Cas12a"
+    },
+    {
+        "serial": 244,
+        "pdb": "1LQA",
+        "protein": "protein tas"
+    },
+    {
+        "serial": 245,
+        "pdb": "3UG7",
+        "protein": "Putative arsenical pump-driving ATPase"
+    },
+    {
+        "serial": 246,
+        "pdb": "4II9",
+        "protein": "UDP-N-acetylmuramoylpentapeptide-lysine N(6)-alanyltransferase"
+    },
+    {
+        "serial": 247,
+        "pdb": "6F5D",
+        "protein": "ATP synthase subunit gamma, mitochondrial"
+    },
+    {
+        "serial": 248,
+        "pdb": "3T62",
+        "protein": "Chymotrypsinogen A"
+    },
+    {
+        "serial": 249,
+        "pdb": "1X13",
+        "protein": "NAD(P) transhydrogenase subunit alpha"
+    },
+    {
+        "serial": 250,
+        "pdb": "3KL5",
+        "protein": "Glucuronoxylanase XynC"
+    },
+    {
+        "serial": 251,
+        "pdb": "1D4O",
+        "protein": "NAD(P) transhydrogenase, mitochondrial"
+    },
+    {
+        "serial": 252,
+        "pdb": "5G1S",
+        "protein": "ATP-dependent Clp protease proteolytic subunit"
+    },
+    {
+        "serial": 253,
+        "pdb": "3I6D",
+        "protein": "Coproporphyrinogen III oxidase"
+    },
+    {
+        "serial": 254,
+        "pdb": "3FEM",
+        "protein": "Pyridoxal 5'-phosphate synthase subunit SNZ1"
+    },
+    {
+        "serial": 255,
+        "pdb": "3J4R",
+        "protein": "cAMP-dependent protein kinase catalytic subunit alpha"
+    },
+    {
+        "serial": 256,
+        "pdb": "7BQW",
+        "protein": "L-methionine gamma-lyase"
+    },
+    {
+        "serial": 257,
+        "pdb": "2B3R",
+        "protein": "Phosphatidylinositol 4-phosphate 3-kinase C2 domain-containing subunit alpha"
+    },
+    {
+        "serial": 258,
+        "pdb": "3DHP",
+        "protein": "Alpha-amylase 1A"
+    },
+    {
+        "serial": 259,
+        "pdb": "2K72",
+        "protein": "Matrix metalloproteinase-23"
+    },
+    {
+        "serial": 260,
+        "pdb": "1Z2E",
+        "protein": "Arsenate reductase"
+    },
+    {
+        "serial": 261,
+        "pdb": "5X3F",
+        "protein": "cAMP-dependent protein kinase catalytic subunit alpha"
+    },
+    {
+        "serial": 262,
+        "pdb": "1T0A",
+        "protein": "2-C-methyl-D-erythritol 2,4-cyclodiphosphate synthase"
+    },
+    {
+        "serial": 263,
+        "pdb": "2YF0",
+        "protein": "Myotubularin-related protein 6"
+    },
+    {
+        "serial": 264,
+        "pdb": "6VFF",
+        "protein": "Double-stranded RNA-specific editase 1"
+    },
+    {
+        "serial": 265,
+        "pdb": "1QVJ",
+        "protein": "ADP-ribose pyrophosphatase, mitochondrial"
+    },
+    {
+        "serial": 266,
+        "pdb": "2WOO",
+        "protein": "ATPase get3"
+    },
+    {
+        "serial": 267,
+        "pdb": "5W81",
+        "protein": "Cystic fibrosis transmembrane conductance regulator"
+    },
+    {
+        "serial": 268,
+        "pdb": "2PHH",
+        "protein": "p-hydroxybenzoate hydroxylase"
+    },
+    {
+        "serial": 269,
+        "pdb": "5O9U",
+        "protein": "Calcineurin B-like protein 4"
+    },
+    {
+        "serial": 270,
+        "pdb": "6O0Z",
+        "protein": "CRISPR-associated endonuclease Cas9/Csn1"
+    },
+    {
+        "serial": 271,
+        "pdb": "6IAO",
+        "protein": "Bifunctional cytochrome P450/NADPH--P450 reductase"
+    },
+    {
+        "serial": 272,
+        "pdb": "5V5F",
+        "protein": "protein RISC-INTERACTING CLEARING 3'-5' EXORIBONUCLEASE 1"
+    },
+    {
+        "serial": 273,
+        "pdb": "3GA4",
+        "protein": "Dolichyl-diphosphooligosaccharide--protein glycosyltransferase subunit OST6"
+    },
+    {
+        "serial": 274,
+        "pdb": "2WYM",
+        "protein": "Probable L-ascorbate-6-phosphate lactonase UlaG"
+    },
+    {
+        "serial": 275,
+        "pdb": "6IQR",
+        "protein": "Tail-specific protease"
+    },
+    {
+        "serial": 276,
+        "pdb": "4F4Q",
+        "protein": "Decaprenylphosphoryl-beta-D-ribose oxidase"
+    },
+    {
+        "serial": 277,
+        "pdb": "1QKI",
+        "protein": "Glucose-6-phosphate 1-dehydrogenase"
+    },
+    {
+        "serial": 278,
+        "pdb": "1QZ2",
+        "protein": "Heat shock protein HSP 90-beta"
+    },
+    {
+        "serial": 279,
+        "pdb": "1NPM",
+        "protein": "Kallikrein-8"
+    },
+    {
+        "serial": 280,
+        "pdb": "6PRX",
+        "protein": "Branched-chain-amino-acid aminotransferase, mitochondrial"
+    },
+    {
+        "serial": 281,
+        "pdb": "1V04",
+        "protein": "Serum paraoxonase/arylesterase 1"
+    },
+    {
+        "serial": 282,
+        "pdb": "3DEF",
+        "protein": "Translocase of chloroplast 33, chloroplastic"
+    },
+    {
+        "serial": 283,
+        "pdb": "3IBG",
+        "protein": "ATPase get3"
+    },
+    {
+        "serial": 284,
+        "pdb": "1O9H",
+        "protein": "23S rRNA (guanine(2535)-N(1))-methyltransferase"
+    },
+    {
+        "serial": 285,
+        "pdb": "6ZTX",
+        "protein": "Catalase HPII"
+    },
+    {
+        "serial": 286,
+        "pdb": "4TN5",
+        "protein": "PTS system fructose-like EIIB component 3"
+    },
+    {
+        "serial": 287,
+        "pdb": "1BG3",
+        "protein": "Hexokinase-1"
+    },
+    {
+        "serial": 288,
+        "pdb": "5E3A",
+        "protein": "Proenkephalin-A"
+    },
+    {
+        "serial": 289,
+        "pdb": "1SD9",
+        "protein": "Arsenate reductase"
+    },
+    {
+        "serial": 290,
+        "pdb": "4QFF",
+        "protein": "Matrix protein 1"
+    },
+    {
+        "serial": 291,
+        "pdb": "2KZR",
+        "protein": "Ubiquitin thioesterase OTU1"
+    },
+    {
+        "serial": 292,
+        "pdb": "2LFE",
+        "protein": "E3 ubiquitin-protein ligase HECW2"
+    },
+    {
+        "serial": 293,
+        "pdb": "4JB4",
+        "protein": "Cytochrome c peroxidase, mitochondrial"
+    },
+    {
+        "serial": 294,
+        "pdb": "2YJV",
+        "protein": "Regulator of ribonuclease activity A"
+    },
+    {
+        "serial": 295,
+        "pdb": "6G8B",
+        "protein": "Aminopeptidase N"
+    },
+    {
+        "serial": 296,
+        "pdb": "2I7A",
+        "protein": "Calpain-13"
+    },
+    {
+        "serial": 297,
+        "pdb": "3IWV",
+        "protein": "5-hydroxyisourate hydrolase"
+    },
+    {
+        "serial": 298,
+        "pdb": "2D1I",
+        "protein": "Cysteine protease ATG4B"
+    },
+    {
+        "serial": 299,
+        "pdb": "5F1A",
+        "protein": "Prostaglandin G/H synthase 2"
+    },
+    {
+        "serial": 300,
+        "pdb": "5BN1",
+        "protein": "Acetylxylan esterase"
+    },
+    {
+        "serial": 301,
+        "pdb": "4WO7",
+        "protein": "Foldase protein PrsA"
+    },
+    {
+        "serial": 302,
+        "pdb": "1ZSX",
+        "protein": "Voltage-gated potassium channel subunit beta-2"
+    },
+    {
+        "serial": 303,
+        "pdb": "1PJ7",
+        "protein": "Dimethylglycine oxidase"
+    },
+    {
+        "serial": 304,
+        "pdb": "5J1S",
+        "protein": "Torsin-1A"
+    },
+    {
+        "serial": 305,
+        "pdb": "1FLG",
+        "protein": "Quinoprotein ethanol dehydrogenase"
+    },
+    {
+        "serial": 306,
+        "pdb": "5DL1",
+        "protein": "ATP-dependent Clp protease proteolytic subunit"
+    },
+    {
+        "serial": 307,
+        "pdb": "2C6X",
+        "protein": "Citrate synthase 1"
+    },
+    {
+        "serial": 308,
+        "pdb": "3FVF",
+        "protein": "Prostasin"
+    },
+    {
+        "serial": 309,
+        "pdb": "1SJ2",
+        "protein": "Catalase-peroxidase"
+    },
+    {
+        "serial": 310,
+        "pdb": "2MZI",
+        "protein": "Matrilysin"
+    },
+    {
+        "serial": 311,
+        "pdb": "6HVW",
+        "protein": "Probable proteasome subunit alpha type-7"
+    },
+    {
+        "serial": 312,
+        "pdb": "1HI9",
+        "protein": "D-aminopeptidase"
+    },
+    {
+        "serial": 313,
+        "pdb": "4BOZ",
+        "protein": "Polyubiquitin-C"
+    },
+    {
+        "serial": 314,
+        "pdb": "5DJQ",
+        "protein": "Cbb3-type cytochrome c oxidase subunit CcoN1"
+    },
+    {
+        "serial": 315,
+        "pdb": "2VNU",
+        "protein": "Exosome complex exonuclease DIS3"
+    },
+    {
+        "serial": 316,
+        "pdb": "6VOO",
+        "protein": "ATP synthase subunit beta, chloroplastic"
+    },
+    {
+        "serial": 317,
+        "pdb": "2KYR",
+        "protein": "PTS system fructose-like EIIB component 1"
+    },
+    {
+        "serial": 318,
+        "pdb": "4CFF",
+        "protein": "5'-AMP-activated protein kinase subunit gamma-1"
+    },
+    {
+        "serial": 319,
+        "pdb": "5GPJ",
+        "protein": "Pyrophosphate-energized vacuolar membrane proton pump"
+    },
+    {
+        "serial": 320,
+        "pdb": "6ZWO",
+        "protein": "Serine/threonine-protein kinase mTOR"
+    },
+    {
+        "serial": 321,
+        "pdb": "6EOP",
+        "protein": "Small ubiquitin-related modifier 1"
+    },
+    {
+        "serial": 322,
+        "pdb": "5WGZ",
+        "protein": "Flavin-dependent halogenase malA"
+    },
+    {
+        "serial": 323,
+        "pdb": "2XI3",
+        "protein": "Genome polyprotein"
+    },
+    {
+        "serial": 324,
+        "pdb": "2JZH",
+        "protein": "PTS system mannose-specific EIIAB component"
+    },
+    {
+        "serial": 325,
+        "pdb": "5M2B",
+        "protein": "Proteasome subunit beta type-1"
+    },
+    {
+        "serial": 326,
+        "pdb": "2EOB",
+        "protein": "1-phosphatidylinositol 4,5-bisphosphate phosphodiesterase gamma-2"
+    },
+    {
+        "serial": 327,
+        "pdb": "3DOF",
+        "protein": "ADP-ribosylation factor-like protein 2"
+    },
+    {
+        "serial": 328,
+        "pdb": "3GOQ",
+        "protein": "Coproporphyrin III ferrochelatase"
+    },
+    {
+        "serial": 329,
+        "pdb": "6CZ5",
+        "protein": "ATP-dependent RNA helicase DDX3X"
+    },
+    {
+        "serial": 330,
+        "pdb": "6S5T",
+        "protein": "Calmodulin-2"
+    },
+    {
+        "serial": 331,
+        "pdb": "1MQR",
+        "protein": "Xylan alpha-(1->2)-glucuronosidase"
+    },
+    {
+        "serial": 332,
+        "pdb": "5UAI",
+        "protein": "Methionyl-tRNA formyltransferase"
+    },
+    {
+        "serial": 333,
+        "pdb": "5LHD",
+        "protein": "Aminopeptidase N"
+    },
+    {
+        "serial": 334,
+        "pdb": "3TLM",
+        "protein": "Sarcoplasmic/endoplasmic reticulum calcium ATPase 1"
+    },
+    {
+        "serial": 335,
+        "pdb": "4PXQ",
+        "protein": "D-glucuronyl C5-epimerase B"
+    },
+    {
+        "serial": 336,
+        "pdb": "4O6F",
+        "protein": "Estrogen receptor"
+    },
+    {
+        "serial": 337,
+        "pdb": "3RLH",
+        "protein": "Dermonecrotic toxin LiSicTox-alphaIA1a"
+    },
+    {
+        "serial": 338,
+        "pdb": "1E3W",
+        "protein": "3-hydroxyacyl-CoA dehydrogenase type-2"
+    },
+    {
+        "serial": 339,
+        "pdb": "1GPR",
+        "protein": "PTS system glucose-specific EIICBA component"
+    },
+    {
+        "serial": 340,
+        "pdb": "2F43",
+        "protein": "ATP synthase subunit beta, mitochondrial"
+    },
+    {
+        "serial": 341,
+        "pdb": "5ZMF",
+        "protein": "ATPase ARSA1"
+    },
+    {
+        "serial": 342,
+        "pdb": "6Y3C",
+        "protein": "Prostaglandin G/H synthase 1"
+    },
+    {
+        "serial": 343,
+        "pdb": "6O2P",
+        "protein": "Cystic fibrosis transmembrane conductance regulator"
+    },
+    {
+        "serial": 344,
+        "pdb": "5ZMW",
+        "protein": "Sarcoplasmic/endoplasmic reticulum calcium ATPase 1"
+    },
+    {
+        "serial": 345,
+        "pdb": "7JGA",
+        "protein": "ATP synthase epsilon chain"
+    },
+    {
+        "serial": 346,
+        "pdb": "1IIB",
+        "protein": "PTS system N,N'-diacetylchitobiose-specific EIIB component"
+    },
+    {
+        "serial": 347,
+        "pdb": "4JOD",
+        "protein": "Lysophosphatidic acid phosphatase type 6"
+    },
+    {
+        "serial": 348,
+        "pdb": "4L2O",
+        "protein": "Aldehyde dehydrogenase, dimeric NADP-preferring"
+    },
+    {
+        "serial": 349,
+        "pdb": "2A7U",
+        "protein": "ATP synthase subunit delta"
+    },
+    {
+        "serial": 350,
+        "pdb": "6U5Z",
+        "protein": "Lon protease"
+    },
+    {
+        "serial": 351,
+        "pdb": "2IEJ",
+        "protein": "protein farnesyltransferase/geranylgeranyltransferase type-1 subunit alpha"
+    },
+    {
+        "serial": 352,
+        "pdb": "6EXI",
+        "protein": "Adenosylhomocysteinase"
+    },
+    {
+        "serial": 353,
+        "pdb": "4QWW",
+        "protein": "Acetylcholinesterase"
+    },
+    {
+        "serial": 354,
+        "pdb": "3KD5",
+        "protein": "DNA-directed DNA polymerase"
+    },
+    {
+        "serial": 355,
+        "pdb": "1U31",
+        "protein": "NAD(P) transhydrogenase, mitochondrial"
+    },
+    {
+        "serial": 356,
+        "pdb": "6R6U",
+        "protein": "Cis-aconitate decarboxylase"
+    },
+    {
+        "serial": 357,
+        "pdb": "1FFT",
+        "protein": "Cytochrome bo(3) ubiquinol oxidase subunit 1"
+    },
+    {
+        "serial": 358,
+        "pdb": "4A0R",
+        "protein": "Bifunctional dethiobiotin synthetase/7,8-diamino-pelargonic acid aminotransferase, mitochondrial"
+    },
+    {
+        "serial": 359,
+        "pdb": "5XH7",
+        "protein": "CRISPR-associated endonuclease Cas12a"
+    },
+    {
+        "serial": 360,
+        "pdb": "7BW1",
+        "protein": "3-oxo-5-alpha-steroid 4-dehydrogenase 2"
+    },
+    {
+        "serial": 361,
+        "pdb": "3FBA",
+        "protein": "2-C-methyl-D-erythritol 2,4-cyclodiphosphate synthase"
+    },
+    {
+        "serial": 362,
+        "pdb": "2P85",
+        "protein": "Cytochrome P450 2A13"
+    },
+    {
+        "serial": 363,
+        "pdb": "1N6F",
+        "protein": "Tricorn protease"
+    },
+    {
+        "serial": 364,
+        "pdb": "4RET",
+        "protein": "Sodium/potassium-transporting ATPase subunit alpha-1"
+    },
+    {
+        "serial": 365,
+        "pdb": "1FLE",
+        "protein": "Chymotrypsin-like elastase family member 1"
+    },
+    {
+        "serial": 366,
+        "pdb": "2W2X",
+        "protein": "Ras-related C3 botulinum toxin substrate 2"
+    },
+    {
+        "serial": 367,
+        "pdb": "6KOE",
+        "protein": "Quinol oxidase subunit 1"
+    },
+    {
+        "serial": 368,
+        "pdb": "1JF8",
+        "protein": "Arsenate reductase"
+    },
+    {
+        "serial": 369,
+        "pdb": "4M8D",
+        "protein": "Isatin hydrolase"
+    },
+    {
+        "serial": 370,
+        "pdb": "4GDX",
+        "protein": "Glutathione hydrolase 1 proenzyme"
+    },
+    {
+        "serial": 371,
+        "pdb": "3CED",
+        "protein": "Methionine import ATP-binding protein MetN 2"
+    },
+    {
+        "serial": 372,
+        "pdb": "2R48",
+        "protein": "PTS system mannose-specific EIIBCA component"
+    },
+    {
+        "serial": 373,
+        "pdb": "2QSW",
+        "protein": "Methionine import ATP-binding protein MetN 2"
+    },
+    {
+        "serial": 374,
+        "pdb": "4J09",
+        "protein": "Acyl-[acyl-carrier-protein]--UDP-N-acetylglucosamine O-acyltransferase"
+    },
+    {
+        "serial": 375,
+        "pdb": "2R4Q",
+        "protein": "PTS system fructose-specific EIIABC component"
+    },
+    {
+        "serial": 376,
+        "pdb": "4F4C",
+        "protein": "Multidrug resistance protein pgp-1"
+    },
+    {
+        "serial": 377,
+        "pdb": "5C59",
+        "protein": "Macrolide export ATP-binding/permease protein MacB"
+    },
+    {
+        "serial": 378,
+        "pdb": "4G1U",
+        "protein": "Hemin transport system permease protein HmuU"
+    },
+    {
+        "serial": 379,
+        "pdb": "7DD0",
+        "protein": "Teichoic acids export ATP-binding protein TagH"
+    },
+    {
+        "serial": 380,
+        "pdb": "6UZL",
+        "protein": "ATP-dependent lipid A-core flippase"
+    },
+    {
+        "serial": 381,
+        "pdb": "5JMC",
+        "protein": "Botulinum neurotoxin type A"
+    },
+    {
+        "serial": 382,
+        "pdb": "5OCH",
+        "protein": "Mitochondrial potassium channel ATP-binding subunit"
+    },
+    {
+        "serial": 383,
+        "pdb": "1II9",
+        "protein": "Arsenical pump-driving ATPase"
+    },
+    {
+        "serial": 384,
+        "pdb": "1AX3",
+        "protein": "PTS system glucose-specific EIICBA component"
+    },
+    {
+        "serial": 385,
+        "pdb": "4RFS",
+        "protein": "Energy-coupling factor transporter ATP-binding protein EcfA1"
+    },
+    {
+        "serial": 386,
+        "pdb": "6SH5",
+        "protein": "Mitochondrial chaperone BCS1"
+    },
+    {
+        "serial": 387,
+        "pdb": "1PIX",
+        "protein": "Glutaconyl-CoA decarboxylase subunit alpha"
+    },
+    {
+        "serial": 388,
+        "pdb": "3ZQ6",
+        "protein": "Putative arsenical pump-driving ATPase"
+    },
+    {
+        "serial": 389,
+        "pdb": "3FVQ",
+        "protein": "Fe(3+) ions import ATP-binding protein FbpC"
+    },
+    {
+        "serial": 390,
+        "pdb": "3PIH",
+        "protein": "UvrABC system protein A"
+    },
+    {
+        "serial": 391,
+        "pdb": "4HUQ",
+        "protein": "Energy-coupling factor transporter ATP-binding protein EcfA1"
+    },
+    {
+        "serial": 392,
+        "pdb": "6S7T",
+        "protein": "Dolichyl-diphosphooligosaccharide--protein glycosyltransferase subunit 1"
+    },
+    {
+        "serial": 393,
+        "pdb": "3UQC",
+        "protein": "Probable peptidoglycan biosynthesis protein MviN"
+    },
+    {
+        "serial": 394,
+        "pdb": "6YIR",
+        "protein": "Oligosaccharides import ATP-binding protein MsmX"
+    },
+    {
+        "serial": 395,
+        "pdb": "1WCR",
+        "protein": "PTS system N,N'-diacetylchitobiose-specific EIIA component"
+    },
+    {
+        "serial": 396,
+        "pdb": "3ZUA",
+        "protein": "Alpha-hemolysin translocation ATP-binding protein HlyB"
+    },
+    {
+        "serial": 397,
+        "pdb": "4MKI",
+        "protein": "Energy-coupling factor transporter ATP-binding protein EcfA2"
+    },
+    {
+        "serial": 398,
+        "pdb": "2QRR",
+        "protein": "Methionine import ATP-binding protein MetN"
+    },
+    {
+        "serial": 399,
+        "pdb": "4HLU",
+        "protein": "Energy-coupling factor transporter ATP-binding protein EcfA2"
+    },
+    {
+        "serial": 400,
+        "pdb": "6ZMR",
+        "protein": "ATP synthase subunit b"
+    },
+    {
+        "serial": 401,
+        "pdb": "4M8G",
+        "protein": "Tumor suppressor candidate 3"
+    },
+    {
+        "serial": 402,
+        "pdb": "3GWI",
+        "protein": "Magnesium-transporting ATPase, P-type 1"
+    },
+    {
+        "serial": 403,
+        "pdb": "2PCL",
+        "protein": "Lipoprotein-releasing system ATP-binding protein LolD"
+    },
+    {
+        "serial": 404,
+        "pdb": "4AU8",
+        "protein": "Cyclin-dependent kinase 5"
+    },
+    {
+        "serial": 405,
+        "pdb": "2C4F",
+        "protein": "Coagulation factor VII"
+    },
+    {
+        "serial": 406,
+        "pdb": "2WK3",
+        "protein": "Amyloid-beta precursor protein"
+    },
+    {
+        "serial": 407,
+        "pdb": "5WEH",
+        "protein": "Cytochrome c oxidase subunit 1"
+    },
+    {
+        "serial": 408,
+        "pdb": "6C26",
+        "protein": "Dolichyl-diphosphooligosaccharide--protein glycosyltransferase subunit WBP1"
+    },
+    {
+        "serial": 409,
+        "pdb": "3VX8",
+        "protein": "Autophagy-related protein 3"
+    },
+    {
+        "serial": 410,
+        "pdb": "4XES",
+        "protein": "Endolysin"
+    },
+    {
+        "serial": 411,
+        "pdb": "5TXE",
+        "protein": "Lasso peptide isopeptidase AtxE2"
+    },
+    {
+        "serial": 412,
+        "pdb": "7KYA",
+        "protein": "Alkylphosphocholine resistance protein LEM3"
+    },
+    {
+        "serial": 413,
+        "pdb": "6S7O",
+        "protein": "Dolichyl-diphosphooligosaccharide--protein glycosyltransferase subunit 1"
+    },
+    {
+        "serial": 414,
+        "pdb": "6UCV",
+        "protein": "Mitochondrial import receptor subunit TOM40"
+    },
+    {
+        "serial": 415,
+        "pdb": "6MI7",
+        "protein": "Lipopolysaccharide export system ATP-binding protein LptB"
+    },
+    {
+        "serial": 416,
+        "pdb": "6XKW",
+        "protein": "Ubiquinol-cytochrome c reductase iron-sulfur subunit"
+    },
+    {
+        "serial": 417,
+        "pdb": "4ILW",
+        "protein": "Stromelysin-2"
+    },
+    {
+        "serial": 418,
+        "pdb": "1A6J",
+        "protein": "Nitrogen regulatory protein"
+    },
+    {
+        "serial": 419,
+        "pdb": "2XTZ",
+        "protein": "Guanine nucleotide-binding protein alpha-1 subunit"
+    },
+    {
+        "serial": 420,
+        "pdb": "2JO1",
+        "protein": "Phospholemman"
+    },
+    {
+        "serial": 421,
+        "pdb": "4YOF",
+        "protein": "Oxygen sensor histidine kinase response regulator DevS/DosS"
+    },
+    {
+        "serial": 422,
+        "pdb": "1D5R",
+        "protein": "Phosphatidylinositol 3,4,5-trisphosphate 3-phosphatase and dual-specificity protein phosphatase PTEN"
+    },
+    {
+        "serial": 423,
+        "pdb": "2VWI",
+        "protein": "Serine/threonine-protein kinase OSR1"
+    },
+    {
+        "serial": 424,
+        "pdb": "3A9Q",
+        "protein": "Ferritin-4, chloroplastic"
+    },
+    {
+        "serial": 425,
+        "pdb": "5TKV",
+        "protein": "CTP synthase"
+    },
+    {
+        "serial": 426,
+        "pdb": "3IW4",
+        "protein": "protein kinase C alpha type"
+    },
+    {
+        "serial": 427,
+        "pdb": "5KCV",
+        "protein": "RAC-alpha serine/threonine-protein kinase"
+    },
+    {
+        "serial": 428,
+        "pdb": "5XGO",
+        "protein": "Bacterioferritin"
+    },
+    {
+        "serial": 429,
+        "pdb": "5GLF",
+        "protein": "Transitional endoplasmic reticulum ATPase"
+    },
+    {
+        "serial": 430,
+        "pdb": "2WV5",
+        "protein": "Genome polyprotein"
+    },
+    {
+        "serial": 431,
+        "pdb": "1L6J",
+        "protein": "Matrix metalloproteinase-9"
+    },
+    {
+        "serial": 432,
+        "pdb": "6KWX",
+        "protein": "Proteasome activator complex subunit 4"
+    },
+    {
+        "serial": 433,
+        "pdb": "5EW5",
+        "protein": "Colicin-E9"
+    },
+    {
+        "serial": 434,
+        "pdb": "6J4M",
+        "protein": "Ferritin-2, chloroplastic"
+    },
+    {
+        "serial": 435,
+        "pdb": "1KSJ",
+        "protein": "Retinal rod rhodopsin-sensitive cGMP 3',5'-cyclic phosphodiesterase subunit delta"
+    },
+    {
+        "serial": 436,
+        "pdb": "6DU3",
+        "protein": "RE1-silencing transcription factor"
+    },
+    {
+        "serial": 437,
+        "pdb": "1TLL",
+        "protein": "Nitric oxide synthase, brain"
+    },
+    {
+        "serial": 438,
+        "pdb": "3KTK",
+        "protein": "ATP-dependent Clp protease proteolytic subunit"
+    },
+    {
+        "serial": 439,
+        "pdb": "4XD7",
+        "protein": "ATP synthase subunit alpha"
+    },
+    {
+        "serial": 440,
+        "pdb": "6FOC",
+        "protein": "ATP synthase epsilon chain"
+    },
+    {
+        "serial": 441,
+        "pdb": "4OS8",
+        "protein": "Prostaglandin-H2 D-isomerase"
+    },
+    {
+        "serial": 442,
+        "pdb": "4GNB",
+        "protein": "Regucalcin"
+    },
+    {
+        "serial": 443,
+        "pdb": "4MN8",
+        "protein": "BRASSINOSTEROID INSENSITIVE 1-associated receptor kinase 1"
+    },
+    {
+        "serial": 444,
+        "pdb": "1MO8",
+        "protein": "Sodium/potassium-transporting ATPase subunit alpha-1"
+    },
+    {
+        "serial": 445,
+        "pdb": "3UF4",
+        "protein": "Tyrosine-protein kinase Fyn"
+    },
+    {
+        "serial": 446,
+        "pdb": "1P6T",
+        "protein": "Copper-exporting P-type ATPase"
+    },
+    {
+        "serial": 447,
+        "pdb": "3M6A",
+        "protein": "Lon protease 1"
+    },
+    {
+        "serial": 448,
+        "pdb": "4OAV",
+        "protein": "2-5A-dependent ribonuclease"
+    },
+    {
+        "serial": 449,
+        "pdb": "4DA1",
+        "protein": "protein phosphatase 1K, mitochondrial"
+    },
+    {
+        "serial": 450,
+        "pdb": "4F4J",
+        "protein": "Guanylate kinase"
+    },
+    {
+        "serial": 451,
+        "pdb": "4FXY",
+        "protein": "Neurolysin, mitochondrial"
+    },
+    {
+        "serial": 452,
+        "pdb": "3Q7H",
+        "protein": "ATP-dependent Clp protease proteolytic subunit"
+    },
+    {
+        "serial": 453,
+        "pdb": "3BY8",
+        "protein": "Sensor histidine kinase DcuS"
+    },
+    {
+        "serial": 454,
+        "pdb": "2IJD",
+        "protein": "Genome polyprotein"
+    },
+    {
+        "serial": 455,
+        "pdb": "5ZWL",
+        "protein": "ATP synthase epsilon chain"
+    },
+    {
+        "serial": 456,
+        "pdb": "2KGJ",
+        "protein": "Periplasmic chaperone PpiD"
+    },
+    {
+        "serial": 457,
+        "pdb": "2Y4E",
+        "protein": "Deferrochelatase"
+    },
+    {
+        "serial": 458,
+        "pdb": "5MWM",
+        "protein": "Inositol-pentakisphosphate 2-kinase"
+    },
+    {
+        "serial": 459,
+        "pdb": "5CZZ",
+        "protein": "CRISPR-associated endonuclease Cas9"
+    },
+    {
+        "serial": 460,
+        "pdb": "6EDX",
+        "protein": "Serine/threonine-protein kinase Sgk3"
+    },
+    {
+        "serial": 461,
+        "pdb": "2DC5",
+        "protein": "Glutathione S-transferase Mu 7"
+    },
+    {
+        "serial": 462,
+        "pdb": "6SZ5",
+        "protein": "Calmodulin-2"
+    },
+    {
+        "serial": 463,
+        "pdb": "1PYV",
+        "protein": "ATP synthase subunit beta, mitochondrial"
+    },
+    {
+        "serial": 464,
+        "pdb": "4HHD",
+        "protein": "Phototropin-1"
+    },
+    {
+        "serial": 465,
+        "pdb": "3DEB",
+        "protein": "Botulinum neurotoxin type C"
+    },
+    {
+        "serial": 466,
+        "pdb": "1Y7O",
+        "protein": "ATP-dependent Clp protease proteolytic subunit"
+    },
+    {
+        "serial": 467,
+        "pdb": "3J9V",
+        "protein": "V-type proton ATPase subunit B"
+    },
+    {
+        "serial": 468,
+        "pdb": "3LNC",
+        "protein": "Guanylate kinase"
+    },
+    {
+        "serial": 469,
+        "pdb": "5E0S",
+        "protein": "ATP-dependent Clp protease proteolytic subunit 2"
+    },
+    {
+        "serial": 470,
+        "pdb": "5FTA",
+        "protein": "BTB/POZ domain-containing adapter for CUL3-mediated RhoA degradation protein 3"
+    },
+    {
+        "serial": 471,
+        "pdb": "2VZW",
+        "protein": "Oxygen sensor histidine kinase response regulator DosT"
+    },
+    {
+        "serial": 472,
+        "pdb": "2EZ5",
+        "protein": "protein commissureless 1"
+    },
+    {
+        "serial": 473,
+        "pdb": "6PBC",
+        "protein": "1-phosphatidylinositol 4,5-bisphosphate phosphodiesterase gamma"
+    },
+    {
+        "serial": 474,
+        "pdb": "4CBK",
+        "protein": "ATP synthase subunit c"
+    },
+    {
+        "serial": 475,
+        "pdb": "1UMK",
+        "protein": "NADH-cytochrome b5 reductase 3"
+    },
+    {
+        "serial": 476,
+        "pdb": "3MP5",
+        "protein": "Hydroxymethylglutaryl-CoA lyase, mitochondrial"
+    },
+    {
+        "serial": 477,
+        "pdb": "2GCF",
+        "protein": "Probable copper-transporting ATPase PacS"
+    },
+    {
+        "serial": 478,
+        "pdb": "5LQX",
+        "protein": "ATP synthase subunit epsilon, mitochondrial"
+    },
+    {
+        "serial": 479,
+        "pdb": "3JR8",
+        "protein": "Basic phospholipase A2 homolog bothropstoxin-II"
+    },
+    {
+        "serial": 480,
+        "pdb": "5CDF",
+        "protein": "ATP synthase subunit alpha"
+    },
+    {
+        "serial": 481,
+        "pdb": "6X5Q",
+        "protein": "Glutamate receptor 1"
+    },
+    {
+        "serial": 482,
+        "pdb": "1XR5",
+        "protein": "Genome polyprotein"
+    },
+    {
+        "serial": 483,
+        "pdb": "3UJK",
+        "protein": "protein phosphatase 2C 77"
+    },
+    {
+        "serial": 484,
+        "pdb": "2RQ6",
+        "protein": "ATP synthase epsilon chain"
+    },
+    {
+        "serial": 485,
+        "pdb": "5G5S",
+        "protein": "protein argonaute"
+    },
+    {
+        "serial": 486,
+        "pdb": "4A1X",
+        "protein": "Genome polyprotein"
+    },
+    {
+        "serial": 487,
+        "pdb": "2ZFD",
+        "protein": "Calcineurin B-like protein 2"
+    },
+    {
+        "serial": 488,
+        "pdb": "2KMX",
+        "protein": "Copper-transporting ATPase 1"
+    },
+    {
+        "serial": 489,
+        "pdb": "4JCT",
+        "protein": "ATP-dependent Clp protease proteolytic subunit"
+    },
+    {
+        "serial": 490,
+        "pdb": "3A5C",
+        "protein": "V-type ATP synthase subunit D"
+    },
+    {
+        "serial": 491,
+        "pdb": "5T4Q",
+        "protein": "ATP synthase epsilon chain"
+    },
+    {
+        "serial": 492,
+        "pdb": "3SHR",
+        "protein": "cGMP-dependent protein kinase 1"
+    },
+    {
+        "serial": 493,
+        "pdb": "4B9D",
+        "protein": "Serine/threonine-protein kinase Nek1"
+    },
+    {
+        "serial": 494,
+        "pdb": "5JJ2",
+        "protein": "A-kinase anchor protein 7 isoform gamma"
+    },
+    {
+        "serial": 495,
+        "pdb": "1W9M",
+        "protein": "Hydroxylamine reductase"
+    },
+    {
+        "serial": 496,
+        "pdb": "3MTG",
+        "protein": "S-adenosylhomocysteine hydrolase-like protein 1"
+    },
+    {
+        "serial": 497,
+        "pdb": "6X60",
+        "protein": "ATP-dependent Clp protease proteolytic subunit 2"
+    },
+    {
+        "serial": 498,
+        "pdb": "5FL7",
+        "protein": "ATP synthase subunit epsilon, mitochondrial"
+    },
+    {
+        "serial": 499,
+        "pdb": "1Q0M",
+        "protein": "Superoxide dismutase [Ni]"
+    },
+    {
+        "serial": 500,
+        "pdb": "7CGP",
+        "protein": "Mitochondrial import inner membrane translocase subunit Tim10"
+    },
+    {
+        "serial": 501,
+        "pdb": "3A4O",
+        "protein": "Tyrosine-protein kinase Lyn"
+    },
+    {
+        "serial": 502,
+        "pdb": "3AYL",
+        "protein": "Phenylalanine 2-monooxygenase precursor"
+    },
+    {
+        "serial": 503,
+        "pdb": "2W6J",
+        "protein": "ATP synthase subunit beta, mitochondrial"
+    },
+    {
+        "serial": 504,
+        "pdb": "5ZE9",
+        "protein": "V-type sodium ATPase catalytic subunit A"
+    },
+    {
+        "serial": 505,
+        "pdb": "6IAJ",
+        "protein": "Ferritin, middle subunit"
+    },
+    {
+        "serial": 506,
+        "pdb": "3AOU",
+        "protein": "V-type sodium ATPase subunit K"
+    },
+    {
+        "serial": 507,
+        "pdb": "6LIO",
+        "protein": "[Pyruvate dehydrogenase (acetyl-transferring)] kinase isozyme 2, mitochondrial"
+    },
+    {
+        "serial": 508,
+        "pdb": "4IL1",
+        "protein": "Calmodulin-1"
+    },
+    {
+        "serial": 509,
+        "pdb": "1QD1",
+        "protein": "Formimidoyltransferase-cyclodeaminase"
+    },
+    {
+        "serial": 510,
+        "pdb": "3DLW",
+        "protein": "Alpha-1-antichymotrypsin"
+    },
+    {
+        "serial": 511,
+        "pdb": "1AUI",
+        "protein": "Calcineurin subunit B type 1"
+    },
+    {
+        "serial": 512,
+        "pdb": "3ELO",
+        "protein": "Phospholipase A2"
+    },
+    {
+        "serial": 513,
+        "pdb": "2PLA",
+        "protein": "Glycerol-3-phosphate dehydrogenase 1-like protein"
+    },
+    {
+        "serial": 514,
+        "pdb": "4GNA",
+        "protein": "Regucalcin"
+    },
+    {
+        "serial": 515,
+        "pdb": "1B4P",
+        "protein": "Glutathione S-transferase Mu 2"
+    },
+    {
+        "serial": 516,
+        "pdb": "3JRQ",
+        "protein": "protein phosphatase 2C 56"
+    },
+    {
+        "serial": 517,
+        "pdb": "3J09",
+        "protein": "Probable copper-exporting P-type ATPase"
+    },
+    {
+        "serial": 518,
+        "pdb": "6V0O",
+        "protein": "protein arginine N-methyltransferase 5"
+    },
+    {
+        "serial": 519,
+        "pdb": "4MZS",
+        "protein": "Cathepsin S"
+    },
+    {
+        "serial": 520,
+        "pdb": "2PFD",
+        "protein": "Formimidoyltransferase-cyclodeaminase"
+    },
+    {
+        "serial": 521,
+        "pdb": "4K50",
+        "protein": "Genome polyprotein"
+    },
+    {
+        "serial": 522,
+        "pdb": "3MDY",
+        "protein": "Bone morphogenetic protein receptor type-1B"
+    },
+    {
+        "serial": 523,
+        "pdb": "5BWK",
+        "protein": "Golgi to ER traffic protein 4"
+    },
+    {
+        "serial": 524,
+        "pdb": "6C0T",
+        "protein": "cGMP-dependent protein kinase 1"
+    },
+    {
+        "serial": 525,
+        "pdb": "1S8G",
+        "protein": "Basic phospholipase A2 homolog MT1"
+    },
+    {
+        "serial": 526,
+        "pdb": "5WH6",
+        "protein": "cAMP-specific 3',5'-cyclic phosphodiesterase 4D"
+    },
+    {
+        "serial": 527,
+        "pdb": "6OTT",
+        "protein": "Amidophosphoribosyltransferase"
+    },
+    {
+        "serial": 528,
+        "pdb": "2L2K",
+        "protein": "Double-stranded RNA-specific editase 1"
+    },
+    {
+        "serial": 529,
+        "pdb": "5WBE",
+        "protein": "Prostaglandin G/H synthase 1"
+    },
+    {
+        "serial": 530,
+        "pdb": "5BWA",
+        "protein": "Ornithine decarboxylase"
+    },
+    {
+        "serial": 531,
+        "pdb": "4X0F",
+        "protein": "cAMP-specific 3',5'-cyclic phosphodiesterase 4B"
+    },
+    {
+        "serial": 532,
+        "pdb": "6MHD",
+        "protein": "Glutathione S-transferase omega-1"
+    },
+    {
+        "serial": 533,
+        "pdb": "4WUZ",
+        "protein": "Exonuclease"
+    },
+    {
+        "serial": 534,
+        "pdb": "5KS7",
+        "protein": "Carnitine transport ATP-binding protein OpuCA"
+    },
+    {
+        "serial": 535,
+        "pdb": "7KY6",
+        "protein": "Phospholipid-transporting ATPase DNF1"
+    },
+    {
+        "serial": 536,
+        "pdb": "2XOK",
+        "protein": "ATP SYNTHASE"
+    },
+    {
+        "serial": 537,
+        "pdb": "3TSY",
+        "protein": "4-Coumaroyl-CoA Ligase::Stilbene Synthase fusion protein"
+    }
+]

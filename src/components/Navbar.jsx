@@ -6,7 +6,7 @@ const Navbar = () => {
         setNav(!nav)
     )
   return (
-    <div className='bg-[#455A64] flex justify-between items-center h-20 max-w-full mx-auto px-4 text-white'>
+    <div className='bg-[#07242C] flex justify-between items-center h-20 max-w-full mx-auto px-4 text-white'>
         <a href='http://localhost:3000/' className='hover:cursor-pointer'><h1 className='w-full text-2xl font-light mx-10 tracking-widest'>CICLOP</h1></a>
         <ul className=' font-thin hidden md:flex'>
             <li className='p-4'>Home</li>

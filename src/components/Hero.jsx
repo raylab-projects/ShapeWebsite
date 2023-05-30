@@ -2,7 +2,7 @@ import React from 'react';
 import Typed from 'react-typed';
 const Hero = () => {
   return (
-    <div className=' text-[#455A64] font-thin '>
+    <div className=' text-[#07242C] font-thin '>
         <div className='bg-[#E0E0E0] w-full h-screen mx-auto text-center flex flex-col justify-center'> 
             {/* <p className = 'text-teal-400  p-2' >GROWING KNOWLEDGE OF PROTEIN FUNCTIONS</p> */}
             <h1 className='md:text-7xl sm:text-6xl text-4xl tracking-widest md:py-6'>CICLOP</h1>

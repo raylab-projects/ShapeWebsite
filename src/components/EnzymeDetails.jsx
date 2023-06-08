@@ -6,11 +6,7 @@ import { Canvas } from '@react-three/fiber';
 import PDBViewer from "./PDBViewer";
 import DisplayFile from "./DisplayFile";
 import BoxplotViewer from "./BoxplotViewer";
-// import { ObjViewer } from 'react-obj-viewer'
-// import { ObjViewer } from 'react-obj-viewer'
-
-// import MeshViewer from './MeshViewer';
-// import ThreeScene from "./ThreeScene";
+import enz_boxplot from '../assets/enz_boxplot.svg';
 const EnzymeDetails = ({ enzyme, onBack }) => {
   const handleBackClick = () => {
     onBack();
@@ -19,6 +15,7 @@ const EnzymeDetails = ({ enzyme, onBack }) => {
 // const filePath="src\components\new_output_1ABE.obj";
 //outline outline-offset-2 outline-cyan-800 hover:outline-cyan-400
 //<ProteinViewer pdbId={enzyme.pdb} />
+//enz_boxplot
 // const path = "src\components\1ABE-inner_surface_pdb.pdb";
 // PDBpath=""
   return (
@@ -49,7 +46,7 @@ const EnzymeDetails = ({ enzyme, onBack }) => {
             
             <li><div style={{height: '70px',width: '400px', display: "flex", alignItems: "center"}}>text here</div></li>
             {/* <li><div style={{height: '350px',width: '400px', display: "flex", alignItems: "center"}}>text here</div></li> */}
-            <li className="outline outline-offset-2  hover: bg-white hover:cursor-grab row-start-3 col-span-3"><div style={{height:"400px",width:"1280px"}}><BoxplotViewer/></div></li>
+            <li className="outline outline-offset-2  hover: bg-white hover:cursor-grab row-start-3 col-span-3"><div ><img src={enz_boxplot} alt="SVG as an image"/></div></li>
 
           </ul>
 

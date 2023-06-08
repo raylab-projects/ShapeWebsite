@@ -1,7 +1,4 @@
-[
-    {
-        "presets": ["@babel/preset-react"]
-      },      
+[  
     {
         "serial": 1,
         "pdb": "6MDP",

@@ -1,20 +1,46 @@
-import React from 'react';
-// import PDBView from 'react-pdb-view';
+import React, { useRef, useMemo } from "react";
+import { Stage, Component, Position, Rotation } from "react-ngl";
 
-function PDBViewer({ path }) {
+function PDBViewer({ filePath }) {
+  const stageRef = useRef(null);
+  const componentRef = useRef(null);
+
+  const reprList = useMemo(
+    () => [
+      {
+        type: "cartoon",
+      },
+    ],
+    []
+  );
+
+  const handleComponentLoad = () => {
+    if (stageRef.current && componentRef.current) {
+      stageRef.current.autoView(componentRef.current.structure.boundingBox);
+    }
+  };
+  console.log(filePath,"filePath");
   return (
-    <div className='text-3xl'>
-      PDBFile here
-    </div>
-    // <PDBView
-    //   url={path}
-    //   atomIncrement={0}
-    //   width="60vw"
-    //   height="60vh"
-    //   atomSize={200}
-    //   cameraDistance={100}
-    //   autoRotate={false}
-    // />
+    <Stage
+      
+      width="400px"
+      height="350px"
+      ref={stageRef}
+      cameraState={{
+        distance: -150,
+      }}
+      params={"orthographic"}
+      // backgroundColor="white"
+    >
+      {filePath &&
+      <Component
+        
+        path={`${filePath}`}
+        reprList={reprList}
+        ref={componentRef}
+        onLoad={handleComponentLoad}
+      />}
+    </Stage>
   );
 }
 

@@ -5,7 +5,7 @@ import { startTransition } from '@react-three/fiber';
 import { Canvas } from '@react-three/fiber';
 import PDBViewer from "./PDBViewer";
 import DisplayFile from "./DisplayFile";
-
+import BoxplotViewer from "./BoxplotViewer";
 // import { ObjViewer } from 'react-obj-viewer'
 // import { ObjViewer } from 'react-obj-viewer'
 
@@ -27,8 +27,8 @@ const EnzymeDetails = ({ enzyme, onBack }) => {
       <div>
 
       </div>
-      <h3 className="text-[#455A64] font-semibold">PDB ID: {enzyme.pdb}</h3>
-      <h4 className="text-[#455A64] font-semibold">Protein: {enzyme.protein}</h4>
+      <h3 className="text-[#e0e0e0] font-semibold">PDB ID: {enzyme.pdb}</h3>
+      <h4 className="text-[#e0e0e0] font-semibold">Protein: {enzyme.protein}</h4>
       <div className='min-h-screen '
         // style={{
         //   display: "flex",
@@ -38,16 +38,18 @@ const EnzymeDetails = ({ enzyme, onBack }) => {
         // }}
       >
         <div className="flex mx-auto p-10 ">
-          <ul className="grid place-items-center lg:grid-cols-2 gap-x-6 gap-y-8 md:grid-cols-1 sm:grid-cols-1 ">
+          <ul className="grid place-items-center lg:grid-cols-3 gap-x-6 gap-y-8 md:grid-cols-1 sm:grid-cols-1 ">
 
-            <li className="outline outline-offset-2 outline-[#e0e0e0] hover:outline-[#455A64] hover:cursor-grab"><ProteinViewer pdbId={enzyme.pdb} /></li>
-            <li><div style={{height: '350px',width: '400px', display: "flex", alignItems: "center"}}>text here</div></li>
-            <li><div style={{height: '350px',width: '400px', display: "flex", alignItems: "center"}}>text here</div></li>
-            <li><DisplayFile filePath="/assets/new_output_1ABE.glb"/></li>
-            <li className="outline outline-offset-2 outline-[#e0e0e0] hover:outline-[#455A64] hover:cursor-grab"><PDBViewer path="/assets/1ABE-inner_surface_pdb.pdb" /></li>
-            <li><div style={{height: '350px',width: '400px', display: "flex", alignItems: "center"}}>text here</div></li>
-            <li><div style={{height: '350px',width: '400px', display: "flex", alignItems: "center"}}>text here</div></li>
-            <li className="outline outline-offset-2 outline-[#e0e0e0] hover:outline-[#455A64] hover:cursor-grab"><ProteinViewer pdbId={enzyme.pdb} /></li>
+            <li className="outline outline-offset-2  hover:outline-[#e0e0e0] hover:cursor-grab"><ProteinViewer pdbId={enzyme.pdb} /></li>
+            <li className="outline outline-offset-2  hover:outline-[#e0e0e0] hover:cursor-grab"><DisplayFile filePath="/assets/new_output_1ABE.glb"/></li>
+            <li className="outline outline-offset-2 hover:outline-[#e0e0e0] hover:cursor-grab"><PDBViewer filePath="/1ABE-inner_surface_pdb.pdb" /></li>
+            <li><div style={{height: '70px',width: '400px', display: "flex", alignItems: "center"}}>text here</div></li>
+            <li><div style={{height: '70px',width: '400px', display: "flex", alignItems: "center"}}>text here</div></li>
+            
+            
+            <li><div style={{height: '70px',width: '400px', display: "flex", alignItems: "center"}}>text here</div></li>
+            {/* <li><div style={{height: '350px',width: '400px', display: "flex", alignItems: "center"}}>text here</div></li> */}
+            <li className="outline outline-offset-2  hover: bg-white hover:cursor-grab row-start-3 col-span-3"><div style={{height:"400px",width:"1280px"}}><BoxplotViewer/></div></li>
 
           </ul>
 
@@ -55,7 +57,7 @@ const EnzymeDetails = ({ enzyme, onBack }) => {
 
       </div>
 
-      <button className="text-[#455A64] font-normal hover:font-bold p-10" onClick={handleBackClick}>
+      <button className="text-[#e0e0e0] font-normal hover:font-bold p-10" onClick={handleBackClick}>
         Back to Enzymes
       </button>
     </div>

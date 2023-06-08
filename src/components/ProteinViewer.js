@@ -27,7 +27,7 @@ function ProteinViewer({ pdbId }) {
       height="350px"
       ref={stageRef}
       cameraState={{
-        distance: -450,
+        distance: -150,
       }}
       params={"orthographic"}
     >

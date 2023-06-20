@@ -1,6 +1,7 @@
 import React, { useRef, useMemo } from "react";
 import { Stage, Component, Position, Rotation } from "react-ngl";
-
+import NGL from "react-ngl";
+// import {Colormaker} from "ngl/dist/declarations/color/colormaker-registry";
 function PDBViewer({ filePath }) {
   const stageRef = useRef(null);
   const componentRef = useRef(null);
@@ -9,6 +10,7 @@ function PDBViewer({ filePath }) {
     () => [
       {
         type: "cartoon",
+        backgroundColor: 'white',
       },
     ],
     []
@@ -22,14 +24,16 @@ function PDBViewer({ filePath }) {
   console.log(filePath,"filePath");
   return (
     <Stage
+      // colorScheme = "bfactor"
       
-      width="400px"
-      height="350px"
+      width="600px"
+      height="450px"
       ref={stageRef}
       cameraState={{
         distance: -150,
       }}
       params={"orthographic"}
+      //  backgroundColor= {"white" }
       // backgroundColor="white"
     >
       {filePath &&

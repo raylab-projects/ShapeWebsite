@@ -8,10 +8,10 @@ function Model({ filePath, ...props }) {
   
   function DisplayFile({ filePath }) {
     return (
-      <Canvas dpr={[1, 2]} shadows camera={{ fov: 45 }} style={{ width: '400px', height: '350px' }}>
+      <Canvas dpr={[1, 2]} shadows camera={{ fov: 45 }} style={{ width: '600px', height: '450px' }}>
         <color attach="background" args={['#07242C']} />
         <PresentationControls speed={1.5} global zoom={0.1} polar={[-0.1, Math.PI / 4]}>
-          <Stage environment={'forest'}>
+          <Stage environment={''}>
             <Model filePath={filePath} scale={0.01} />
           </Stage>
         </PresentationControls>

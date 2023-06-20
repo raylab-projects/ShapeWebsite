@@ -1,16 +1,26 @@
-import React, { useState } from "react";
+import React, { useEffect, useState } from "react";
 import EnzymeDetails from "./EnzymeDetails";
 import Data from "./enzyme.json";
 import {AiOutlineClose, AiOutlineMenu} from 'react-icons/ai'
 import Form from 'react-bootstrap/Form'
 import {RiArrowUpDownFill} from 'react-icons/ri'
 // import Container from 'react-bootstrap/Container'
-// import axios from "axios";
+import axios from "axios";
+import { current } from "@reduxjs/toolkit";
 // const base_url = process.env.REACT_APP_API_URL;
 const Enzymespage = () => {
   //   const handleBackClick = () => {
   //   onBack();
   // };
+  const[currentPage,setCurrentPage] = useState(1);
+  const recordsPerPage = 5;
+  const lastIndex = currentPage * recordsPerPage;
+  const firstIndex = lastIndex - recordsPerPage;
+  const records = Data.slice(firstIndex,lastIndex);
+  const npage = Math.ceil(Data.length/recordsPerPage);
+
+  const numbers = [...Array(npage+1).keys()].slice(1)
+
   const [data, setdata] = useState(Data);
   const [order,setorder] = useState('ASC')
   const sorting = (col) => {
@@ -56,9 +66,9 @@ const Enzymespage = () => {
   const[search, setSearch] = useState('')
   console.log(search)
   return (
-    <div className="overflow-auto font-thin bg-gradient-to-br from-[#07242C] to-[#157d9a] h-screen">
-          <div className='bg-[#07242C] flex justify-between items-center h-15 max-w-full mx-auto px-4 text-white'>
-          <a href='http://localhost:3000/' className='hover:cursor-pointer'><h1 className='w-full text-2xl font-light mx-10 tracking-widest'>CICLOP</h1></a>
+    <div className="overflow-auto font-thin bg-gradient-to-br from-cyan-800 via-emerald-600 to-lime-400 h-screen">
+          <div className='bg-black font-mono flex justify-between items-center h-15 max-w-full mx-auto px-4 text-white'>
+          <a href='http://localhost:3000/' className='hover:cursor-pointer'><h1 className='w-full text-2xl font-light mx-10 tracking-widest'>Title Here</h1></a>
             <ul className=' font-thin hidden md:flex'>
                 <li className='p-4'>Home</li>
                 <li className='p-4'>About</li>
@@ -68,17 +78,17 @@ const Enzymespage = () => {
                 {!nav ? <AiOutlineClose size={20}/> : <AiOutlineMenu size={20}/> }
                 
             </div>
-            <div className={!nav ? 'md:hidden fixed left-0 top-0 w-[60%] h-full border-r border-r-gray-900 bg-[#e0e0e0] ease-in-out duration-500' : 'fixed left-[-100%]' }>
-            <a href='http://localhost:3000/'><h1 className='w-full text-3xl font-thin text-[#455A64] m-4'>CICLOP.</h1></a>
+            <div className={!nav ? 'bg-gradient-to-br from-cyan-800 via-emerald-600 to-lime-400 font-mono md:hidden fixed left-0 top-0 w-[60%] h-full border-r border-r-gray-900 ease-in-out duration-500' : 'fixed left-[-100%]' }>
+            <a href='http://localhost:3000/'><h1 className='w-full text-3xl font-thin text-lime-50 m-4'>Title Here</h1></a>
 
-                <ul className='text-[#455A64] font-thin uppercase p-4'> 
-                    <li className='p-4 border-b border-gray-600'>Home</li>
-                    <li className='p-4 border-b border-gray-600'>About</li>
-                    <li className='p-4 border-b border-gray-600'>Functions</li>
+                <ul className='text-lime-50 font-thin uppercase p-4'> 
+                    <li className='p-4 border-b border-lime-50'>Home</li>
+                    <li className='p-4 border-b border-lime-50'>About</li>
+                    <li className='p-4 border-b border-lime-50'>Functions</li>
                 </ul>
             </div>
     </div>
-      <button className="text-[#e0e0e0] flex  text-3xl  p-10 " onClick={handleBackClick}>
+      <button className="text-[#e0e0e0] flex  text-3xl  p-10 font-mono" onClick={handleBackClick}>
         Enzymes
       </button>
     <div className="flex justify-left mx-10 ">
@@ -90,11 +100,11 @@ const Enzymespage = () => {
             <Form.Control onChange={(e) => setSearch(e.target.value)} placeholder=' Search'/>
           </Form>
          
-        <table className="mt-3 table bg-[#07242C] w-full">
+        <table className="mt-3 bg-gradient-to-br from-cyan-900 via-cyan-800 to-cyan-600 w-full table-fixed">
           <thead className="bg-gray-50">
-            <tr className="text-clip">
+            <tr className="text-clip tracking-widest">
               
-              <th
+              <th 
                 onClick={()=>sortnum("serial")}
                 scope="col"
                 className="flex cursor-pointer px-6 py-3 text-xs font-bold text-left text-[#07242C] uppercase "
@@ -116,7 +126,7 @@ const Enzymespage = () => {
             </tr>
           </thead>
           <tbody className="divide-y divide-gray-200">
-            {Data
+            {records
             .filter((item)=>{
               return search.toLowerCase() === '' ? item : item.pdb?.toLowerCase().includes(search)
               ||
@@ -142,11 +152,43 @@ const Enzymespage = () => {
             ))}
           </tbody>
         </table>
+        <nav>
+          <ul className="pagination text-white font-bold inline-flex -space-x-px py-3">
+            <li className="page-item">
+              <a href='#' className="page-link px-3 py-2 ml-0 leading-tight text-gray-500 bg-white border border-gray-300 rounded-l-lg hover:bg-gray-100 hover:text-gray-700 dark:bg-gray-800 dark:border-gray-700 dark:text-gray-400 dark:hover:bg-gray-700 dark:hover:text-white" onClick={prePage}>Prev</a>
+            </li>
+            {
+              numbers.map((n,i) => (
+                <li key={i} className={`page-item ${currentPage === n ? 'active' : ''}`}>
+                  <a href='#' className="page-link px-3 py-2 leading-tight text-gray-500 bg-white border border-gray-300 hover:bg-gray-100 hover:text-gray-700 dark:bg-gray-800 dark:border-gray-700 dark:text-gray-400 dark:hover:bg-gray-700 dark:hover:text-white" onClick={()=>changeCPage(n)} >{n}</a>
+                  </li>
+
+              ))
+            }
+            <li className="page-item">
+              <a href='#' className="px-3 py-2 leading-tight text-gray-500 bg-white border border-gray-300 rounded-r-lg hover:bg-gray-100 hover:text-gray-700 dark:bg-gray-800 dark:border-gray-700 dark:text-gray-400 dark:hover:bg-gray-700 dark:hover:text-white" onClick={nextPage}>Next</a>
+            </li>
+          </ul>
+        </nav>
         </div>
       )}
     </div>
     </div>
   );
+
+  function prePage() {
+    if(currentPage!==1){
+      setCurrentPage(currentPage - 1)
+    }
+  }
+  function nextPage() { 
+    if(currentPage !== npage){
+      setCurrentPage(currentPage + 1)
+    }
+  }
+  function changeCPage(number) {
+    setCurrentPage(number)
+  } 
 };
 
 export default Enzymespage;

@@ -1,65 +1,82 @@
-[  
+[
     {
         "serial": 1,
         "pdb": "6MDP",
         "protein": "Vesicle-fusing ATPase",
-        "files": "heyo"
+        "files": "heyo",
+        "crosses": 317,
+        "type": "Poly"
     },
     {
         "serial": 2,
         "pdb": "3EBQ",
         "protein": "Desumoylating isopeptidase 1",
-        "files": "heyo"
-      
-
+        "files": "heyo",
+        "crosses": "142",
+        "type": "Poly"
     },
     {
         "serial": 3,
         "pdb": "2IBI",
         "protein": "Ubiquitin carboxyl-terminal hydrolase 2",
-        "files": "heyo"
-
+        "files": "heyo",
+        "crosses": "275",
+        "type": "Poly"
     },
     {
         "serial": 4,
         "pdb": "2AAO",
         "protein": "Calcium-dependent protein kinase 1",
-        "files": "heyo"
+        "files": "heyo",
+        "crosses": "209",
+        "type": "Poly"
     },
     {
         "serial": 5,
         "pdb": "6F8F",
         "protein": "Speckle-type POZ protein",
-        "files": "heyo"
+        "files": "heyo",
+        "crosses": "39",
+        "type": "Poly"
     },
     {
         "serial": 6,
         "pdb": "6NPF",
         "protein": "Enolase",
-        "files": "heyo"
+        "files": "heyo",
+        "crosses": "323",
+        "type": "Poly"
     },
     {
         "serial": 7,
         "pdb": "3VMM",
         "protein": "Alanine--anticapsin ligase",
-        "files": "heyo"
+        "files": "heyo",
+        "crosses": "130",
+        "type": "Poly"
     },
     {
         "serial": 8,
         "pdb": "6ZEH",
         "protein": "Serine/threonine-protein phosphatase PP1-alpha catalytic subunit",
-        "files": "heyo"
+        "files": "heyo",
+        "crosses": "351",
+        "type": "Poly"
     },
     {
         "serial": 9,
         "pdb": "3TX8",
         "protein": "Succinyl-diaminopimelate desuccinylase",
-        "files": "heyo"
+        "files": "heyo",
+        "crosses": "142",
+        "type": "Poly"
     },
     {
         "serial": 10,
         "pdb": "2C4J",
         "protein": "Glutathione S-transferase Mu 2",
-        "files": "heyo"
+        "files": "heyo",
+        "crosses": "346",
+        "type": "Poly"
     }
 ]

@@ -10,8 +10,8 @@ import toxin from '../assets/toxin.jpg'
 
 const Cards = () => {
   return (
-    <div className='bg-gradient-to-br from-[#07242C] to-sky-900 w-full py-[3rem] px-4 '>
-        <h1 className='flex justify-center font-light py-[2rem] text-serif text-[#e0e0e0] tracking-widest text-4xl'>FUNCTIONS</h1>
+    <div className='bg-gradient-to-br  from-cyan-900 via-emerald-700 to-lime-400 font-mono w-full py-[3rem] px-4 '>
+        <h1 className='flex justify-center font-extralight py-[2rem] font-mono text-[#e0e0e0] tracking-tighter text-4xl'>F U N C T I O N S</h1>
         
         <div className="max-w-[1240px] mx-auto grid place-items-center  md:grid-cols-3 md:grid-rows-3 gap-8 sm:grid-cols-1 sm:grid-rows-8 ">
 

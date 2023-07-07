@@ -1,0 +1,1766 @@
+[
+    {
+        "pdb": "3LRA",
+        "protein": "Disks large homolog 1",
+        "serial": 1,
+        "crosses": "66",
+        "type": "Single"
+    },
+    {
+        "pdb": "2L26",
+        "protein": "Peptidoglycan-binding protein ArfA",
+        "serial": 2,
+        "crosses": "67",
+        "type": "Single"
+    },
+    {
+        "pdb": "7CAL",
+        "protein": "Potassium channel KAT1",
+        "serial": 3,
+        "crosses": "164",
+        "type": "Poly"
+    },
+    {
+        "pdb": "6DW1",
+        "protein": "Gamma-aminobutyric acid receptor subunit beta-1",
+        "serial": 4,
+        "crosses": "168",
+        "type": "Poly"
+    },
+    {
+        "pdb": "2N02",
+        "protein": "Translocator protein",
+        "serial": 5,
+        "crosses": "67",
+        "type": "Single"
+    },
+    {
+        "pdb": "6PV8",
+        "protein": "Neuronal acetylcholine receptor subunit beta-4",
+        "serial": 6,
+        "crosses": "162",
+        "type": "Poly"
+    },
+    {
+        "pdb": "6U9W",
+        "protein": "P2X purinoceptor 7",
+        "serial": 7,
+        "crosses": "165",
+        "type": "Poly"
+    },
+    {
+        "pdb": "4FVJ",
+        "protein": "Stomatin",
+        "serial": 8,
+        "crosses": "164",
+        "type": "Poly"
+    },
+    {
+        "pdb": "6VSV",
+        "protein": "Sodium channel subunit beta-4",
+        "serial": 9,
+        "crosses": "26",
+        "type": "Single"
+    },
+    {
+        "pdb": "4AU5",
+        "protein": "Na(+)/H(+) antiporter NhaA",
+        "serial": 10,
+        "crosses": "165",
+        "type": "Poly"
+    },
+    {
+        "pdb": "6Z3T",
+        "protein": "Protein transport protein Sec61 subunit alpha isoform 1",
+        "serial": 11,
+        "crosses": "171",
+        "type": "Poly"
+    },
+    {
+        "pdb": "1WGP",
+        "protein": "Probable cyclic nucleotide-gated ion channel 6",
+        "serial": 12,
+        "crosses": "63",
+        "type": "Single"
+    },
+    {
+        "pdb": "4RP9",
+        "protein": "Ascorbate-specific PTS system EIIC component",
+        "serial": 13,
+        "crosses": "66",
+        "type": "Single"
+    },
+    {
+        "pdb": "6I6H",
+        "protein": "ER lumen protein-retaining receptor 2",
+        "serial": 14,
+        "crosses": "22",
+        "type": "Poly"
+    },
+    {
+        "pdb": "6NT4",
+        "protein": "Sodium channel protein PaFPC1",
+        "serial": 15,
+        "crosses": "164",
+        "type": "Poly"
+    },
+    {
+        "pdb": "5XDO",
+        "protein": "Voltage-dependent anion-selective channel protein 1",
+        "serial": 16,
+        "crosses": "167",
+        "type": "Poly"
+    },
+    {
+        "pdb": "2I88",
+        "protein": "Colicin-E1",
+        "serial": 17,
+        "crosses": "36",
+        "type": "Single"
+    },
+    {
+        "pdb": "6O9V",
+        "protein": "Inward rectifier potassium channel Kirbac3.1",
+        "serial": 18,
+        "crosses": "169",
+        "type": "Poly"
+    },
+    {
+        "pdb": "5XNO",
+        "protein": "Chlorophyll a-b binding protein, chloroplastic",
+        "serial": 19,
+        "crosses": "165",
+        "type": "Poly"
+    },
+    {
+        "pdb": "6UR8",
+        "protein": "Soluble cytochrome b562",
+        "serial": 20,
+        "crosses": "161",
+        "type": "Poly"
+    },
+    {
+        "pdb": "3UKM",
+        "protein": "Potassium channel subfamily K member 1",
+        "serial": 21,
+        "crosses": "165",
+        "type": "Poly"
+    },
+    {
+        "pdb": "1KIL",
+        "protein": "Syntaxin-1A",
+        "serial": 22,
+        "crosses": "161",
+        "type": "Poly"
+    },
+    {
+        "pdb": "1ID1",
+        "protein": "Voltage-gated potassium channel Kch",
+        "serial": 23,
+        "crosses": "88",
+        "type": "Poly"
+    },
+    {
+        "pdb": "2B6O",
+        "protein": "Lens fiber major intrinsic protein",
+        "serial": 24,
+        "crosses": "63",
+        "type": "Single"
+    },
+    {
+        "pdb": "1XKW",
+        "protein": "Fe(3+)-pyochelin receptor",
+        "serial": 25,
+        "crosses": "64",
+        "type": "Single"
+    },
+    {
+        "pdb": "6AEI",
+        "protein": "Short transient receptor potential channel 5",
+        "serial": 26,
+        "crosses": "160",
+        "type": "Poly"
+    },
+    {
+        "pdb": "6JZO",
+        "protein": "Short transient receptor potential channel 4",
+        "serial": 27,
+        "crosses": "161",
+        "type": "Poly"
+    },
+    {
+        "pdb": "4WJL",
+        "protein": "Inactive dipeptidyl peptidase 10",
+        "serial": 28,
+        "crosses": "165",
+        "type": "Poly"
+    },
+    {
+        "pdb": "6AGF",
+        "protein": "Sodium channel protein type 4 subunit alpha",
+        "serial": 29,
+        "crosses": "162",
+        "type": "Poly"
+    },
+    {
+        "pdb": "2IUT",
+        "protein": "DNA translocase FtsK",
+        "serial": 30,
+        "crosses": "167",
+        "type": "Poly"
+    },
+    {
+        "pdb": "1T34",
+        "protein": "Natriuretic peptides A",
+        "serial": 31,
+        "crosses": "168",
+        "type": "Poly"
+    },
+    {
+        "pdb": "6C13",
+        "protein": "Protocadherin-15",
+        "serial": 32,
+        "crosses": "163",
+        "type": "Poly"
+    },
+    {
+        "pdb": "6BQV",
+        "protein": "Transient receptor potential cation channel subfamily M member 4",
+        "serial": 33,
+        "crosses": "160",
+        "type": "Poly"
+    },
+    {
+        "pdb": "5WLN",
+        "protein": "Secretin XcpQ",
+        "serial": 34,
+        "crosses": "159",
+        "type": "Poly"
+    },
+    {
+        "pdb": "6W0J",
+        "protein": "pH-gated potassium channel KcsA",
+        "serial": 35,
+        "crosses": "169",
+        "type": "Poly"
+    },
+    {
+        "pdb": "6CM4",
+        "protein": "Endolysin",
+        "serial": 36,
+        "crosses": "64",
+        "type": "Single"
+    },
+    {
+        "pdb": "6DK1",
+        "protein": "Sigma non-opioid intracellular receptor 1",
+        "serial": 37,
+        "crosses": "168",
+        "type": "Poly"
+    },
+    {
+        "pdb": "3FWZ",
+        "protein": "Putative cation/proton antiporter YbaL",
+        "serial": 38,
+        "crosses": "58",
+        "type": "Poly"
+    },
+    {
+        "pdb": "5YLV",
+        "protein": "Potassium-transporting ATPase subunit beta",
+        "serial": 39,
+        "crosses": "164",
+        "type": "Poly"
+    },
+    {
+        "pdb": "2CSA",
+        "protein": "Muscarinic acetylcholine receptor M3",
+        "serial": 40,
+        "crosses": "5",
+        "type": "Single"
+    },
+    {
+        "pdb": "6SO5",
+        "protein": "Guided entry of tail-anchored proteins factor 1",
+        "serial": 41,
+        "crosses": "165",
+        "type": "Poly"
+    },
+    {
+        "pdb": "6WI0",
+        "protein": "Glutamate receptor ionotropic, NMDA 1",
+        "serial": 42,
+        "crosses": "161",
+        "type": "Poly"
+    },
+    {
+        "pdb": "5I32",
+        "protein": "Aquaporin TIP2-1",
+        "serial": 43,
+        "crosses": "61",
+        "type": "Single"
+    },
+    {
+        "pdb": "6C9A",
+        "protein": "Two pore calcium channel protein 1",
+        "serial": 44,
+        "crosses": "163",
+        "type": "Poly"
+    },
+    {
+        "pdb": "3GD8",
+        "protein": "Aquaporin-4",
+        "serial": 45,
+        "crosses": "56",
+        "type": "Single"
+    },
+    {
+        "pdb": "6IZ6",
+        "protein": "Trimeric intracellular cation channel type B-B",
+        "serial": 46,
+        "crosses": "65",
+        "type": "Single"
+    },
+    {
+        "pdb": "1WRG",
+        "protein": "Light-harvesting protein B-870 beta chain",
+        "serial": 47,
+        "crosses": "46",
+        "type": "Single"
+    },
+    {
+        "pdb": "2WGM",
+        "protein": "ATP synthase subunit c, sodium ion specific",
+        "serial": 48,
+        "crosses": "161",
+        "type": "Poly"
+    },
+    {
+        "pdb": "5EIK",
+        "protein": "Trimeric intracellular cation channel type 1B.2",
+        "serial": 49,
+        "crosses": "63",
+        "type": "Single"
+    },
+    {
+        "pdb": "5EGI",
+        "protein": "Trimeric intracellular cation channel type 1B.1",
+        "serial": 50,
+        "crosses": "168",
+        "type": "Poly"
+    },
+    {
+        "pdb": "1VA8",
+        "protein": "Protein PALS1",
+        "serial": 51,
+        "crosses": "66",
+        "type": "Single"
+    },
+    {
+        "pdb": "6IRA",
+        "protein": "Glutamate receptor ionotropic, NMDA 1",
+        "serial": 52,
+        "crosses": "160",
+        "type": "Poly"
+    },
+    {
+        "pdb": "7A6U",
+        "protein": "Short transient receptor potential channel 6",
+        "serial": 53,
+        "crosses": "166",
+        "type": "Poly"
+    },
+    {
+        "pdb": "3ZK2",
+        "protein": "ATP synthase subunit c",
+        "serial": 54,
+        "crosses": "164",
+        "type": "Poly"
+    },
+    {
+        "pdb": "1WGD",
+        "protein": "Homocysteine-responsive endoplasmic reticulum-resident ubiquitin-like domain member 1 protein",
+        "serial": 55,
+        "crosses": "58",
+        "type": "Single"
+    },
+    {
+        "pdb": "6ZYD",
+        "protein": "Low conductance mechanosensitive channel YnaI",
+        "serial": 56,
+        "crosses": "164",
+        "type": "Poly"
+    },
+    {
+        "pdb": "5N9Y",
+        "protein": "Zinc transport protein ZntB",
+        "serial": 57,
+        "crosses": "160",
+        "type": "Poly"
+    },
+    {
+        "pdb": "6LYR",
+        "protein": "Outer membrane protein assembly factor BamC",
+        "serial": 58,
+        "crosses": "165",
+        "type": "Poly"
+    },
+    {
+        "pdb": "2KAD",
+        "protein": "Matrix protein 2",
+        "serial": 59,
+        "crosses": "17",
+        "type": "Poly"
+    },
+    {
+        "pdb": "6IZF",
+        "protein": "Trimeric intracellular cation channel type A",
+        "serial": 60,
+        "crosses": "61",
+        "type": "Single"
+    },
+    {
+        "pdb": "4K7R",
+        "protein": "Cation efflux system protein CusC",
+        "serial": 61,
+        "crosses": "60",
+        "type": "Single"
+    },
+    {
+        "pdb": "3RL0",
+        "protein": "Complexin-1",
+        "serial": 62,
+        "crosses": "157",
+        "type": "Poly"
+    },
+    {
+        "pdb": "3E7K",
+        "protein": "Transient receptor potential cation channel subfamily M member 7",
+        "serial": 63,
+        "crosses": "170",
+        "type": "Poly"
+    },
+    {
+        "pdb": "7BYN",
+        "protein": "Calmodulin-3",
+        "serial": 64,
+        "crosses": "164",
+        "type": "Poly"
+    },
+    {
+        "pdb": "6WM3",
+        "protein": "V-type proton ATPase subunit e 1",
+        "serial": 65,
+        "crosses": "158",
+        "type": "Poly"
+    },
+    {
+        "pdb": "3NEY",
+        "protein": "55 kDa erythrocyte membrane protein",
+        "serial": 66,
+        "crosses": "166",
+        "type": "Poly"
+    },
+    {
+        "pdb": "2IUS",
+        "protein": "DNA translocase FtsK",
+        "serial": 67,
+        "crosses": "159",
+        "type": "Poly"
+    },
+    {
+        "pdb": "6IYC",
+        "protein": "Amyloid-beta precursor protein",
+        "serial": 68,
+        "crosses": "164",
+        "type": "Poly"
+    },
+    {
+        "pdb": "6CO7",
+        "protein": "Transient receptor potential cation channel subfamily M member-like 2",
+        "serial": 69,
+        "crosses": "160",
+        "type": "Poly"
+    },
+    {
+        "pdb": "5U09",
+        "protein": "Cannabinoid receptor 1",
+        "serial": 70,
+        "crosses": "64",
+        "type": "Single"
+    },
+    {
+        "pdb": "6K7N",
+        "protein": "Cell cycle control protein 50A",
+        "serial": 71,
+        "crosses": "163",
+        "type": "Poly"
+    },
+    {
+        "pdb": "6N4X",
+        "protein": "Metabotropic glutamate receptor 5",
+        "serial": 72,
+        "crosses": "165",
+        "type": "Poly"
+    },
+    {
+        "pdb": "6L6F",
+        "protein": "Glutamate receptor ionotropic, kainate 3",
+        "serial": 73,
+        "crosses": "159",
+        "type": "Poly"
+    },
+    {
+        "pdb": "3LM6",
+        "protein": "Stage V sporulation protein AD",
+        "serial": 74,
+        "crosses": "171",
+        "type": "Poly"
+    },
+    {
+        "pdb": "5GUX",
+        "protein": "Nitric oxide reductase subunit C",
+        "serial": 75,
+        "crosses": "167",
+        "type": "Poly"
+    },
+    {
+        "pdb": "1FJP",
+        "protein": "Cardiac phospholamban",
+        "serial": 76,
+        "crosses": "49",
+        "type": "Single"
+    },
+    {
+        "pdb": "6B7H",
+        "protein": "Metabotropic glutamate receptor 3",
+        "serial": 77,
+        "crosses": "64",
+        "type": "Single"
+    },
+    {
+        "pdb": "6JBJ",
+        "protein": "Lysosomal cobalamin transporter ABCD4",
+        "serial": 78,
+        "crosses": "167",
+        "type": "Poly"
+    },
+    {
+        "pdb": "4Y25",
+        "protein": "Poly-beta-1,6-N-acetyl-D-glucosamine export protein",
+        "serial": 79,
+        "crosses": "64",
+        "type": "Single"
+    },
+    {
+        "pdb": "1KPL",
+        "protein": "H(+)/Cl(-) exchange transporter ClcA",
+        "serial": 80,
+        "crosses": "164",
+        "type": "Poly"
+    },
+    {
+        "pdb": "6GCI",
+        "protein": "ADP/ATP translocase",
+        "serial": 81,
+        "crosses": "170",
+        "type": "Poly"
+    },
+    {
+        "pdb": "6RTF",
+        "protein": "Solute carrier family 26 member 9",
+        "serial": 82,
+        "crosses": "165",
+        "type": "Poly"
+    },
+    {
+        "pdb": "1FEP",
+        "protein": "Ferrienterobactin receptor",
+        "serial": 83,
+        "crosses": "60",
+        "type": "Single"
+    },
+    {
+        "pdb": "6CVL",
+        "protein": "D-methionine-binding lipoprotein MetQ",
+        "serial": 84,
+        "crosses": "165",
+        "type": "Poly"
+    },
+    {
+        "pdb": "2JWL",
+        "protein": "Tol-Pal system protein TolR",
+        "serial": 85,
+        "crosses": "11",
+        "type": "Poly"
+    },
+    {
+        "pdb": "6OLY",
+        "protein": "Calcium-gated potassium channel MthK",
+        "serial": 86,
+        "crosses": "160",
+        "type": "Poly"
+    },
+    {
+        "pdb": "6RVY",
+        "protein": "Neutral amino acid transporter B(0)",
+        "serial": 87,
+        "crosses": "165",
+        "type": "Poly"
+    },
+    {
+        "pdb": "6BQO",
+        "protein": "Putative fluoride ion transporter CrcB",
+        "serial": 88,
+        "crosses": "126",
+        "type": "Poly"
+    },
+    {
+        "pdb": "7CH0",
+        "protein": "Intermembrane phospholipid transport system ATP-binding protein MlaF",
+        "serial": 89,
+        "crosses": "164",
+        "type": "Poly"
+    },
+    {
+        "pdb": "6I97",
+        "protein": "Protein TonB",
+        "serial": 90,
+        "crosses": "164",
+        "type": "Poly"
+    },
+    {
+        "pdb": "6NPL",
+        "protein": "Solute carrier family 12 member 2",
+        "serial": 91,
+        "crosses": "164",
+        "type": "Poly"
+    },
+    {
+        "pdb": "5Y50",
+        "protein": "Protein DETOXIFICATION 14",
+        "serial": 92,
+        "crosses": "66",
+        "type": "Single"
+    },
+    {
+        "pdb": "3B60",
+        "protein": "ATP-dependent lipid A-core flippase",
+        "serial": 93,
+        "crosses": "163",
+        "type": "Poly"
+    },
+    {
+        "pdb": "6HCO",
+        "protein": "Broad substrate specificity ATP-binding cassette transporter ABCG2",
+        "serial": 94,
+        "crosses": "165",
+        "type": "Poly"
+    },
+    {
+        "pdb": "6SGR",
+        "protein": "Multidrug efflux pump accessory protein AcrZ",
+        "serial": 95,
+        "crosses": "161",
+        "type": "Poly"
+    },
+    {
+        "pdb": "6HCL",
+        "protein": "L-lactate transporter",
+        "serial": 96,
+        "crosses": "168",
+        "type": "Poly"
+    },
+    {
+        "pdb": "6GDI",
+        "protein": "ATP-dependent translocase ABCB1",
+        "serial": 97,
+        "crosses": "38",
+        "type": "Single"
+    },
+    {
+        "pdb": "5ZSU",
+        "protein": "Volume-regulated anion channel subunit LRRC8A",
+        "serial": 98,
+        "crosses": "160",
+        "type": "Poly"
+    },
+    {
+        "pdb": "4AYW",
+        "protein": "ATP-binding cassette sub-family B member 10, mitochondrial",
+        "serial": 99,
+        "crosses": "51",
+        "type": "Single"
+    },
+    {
+        "pdb": "7CH1",
+        "protein": "Solute carrier family 26 member 9",
+        "serial": 100,
+        "crosses": "165",
+        "type": "Poly"
+    },
+    {
+        "pdb": "6BPO",
+        "protein": "Catecholate siderophore receptor Fiu",
+        "serial": 101,
+        "crosses": "162",
+        "type": "Poly"
+    },
+    {
+        "pdb": "5UBC",
+        "protein": "Protein TOC75-3, chloroplastic",
+        "serial": 102,
+        "crosses": "168",
+        "type": "Poly"
+    },
+    {
+        "pdb": "6I9Q",
+        "protein": "4F2 cell-surface antigen heavy chain",
+        "serial": 103,
+        "crosses": "66",
+        "type": "Single"
+    },
+    {
+        "pdb": "6HRB",
+        "protein": "Potassium-transporting ATPase potassium-binding subunit",
+        "serial": 104,
+        "crosses": "165",
+        "type": "Poly"
+    },
+    {
+        "pdb": "5AZS",
+        "protein": "Outer membrane protein OprJ",
+        "serial": 105,
+        "crosses": "164",
+        "type": "Poly"
+    },
+    {
+        "pdb": "2M7X",
+        "protein": "Na(+)/H(+) antiporter",
+        "serial": 106,
+        "crosses": "37",
+        "type": "Single"
+    },
+    {
+        "pdb": "1MPQ",
+        "protein": "Maltoporin",
+        "serial": 107,
+        "crosses": "165",
+        "type": "Poly"
+    },
+    {
+        "pdb": "5BUT",
+        "protein": "Ktr system potassium uptake protein A",
+        "serial": 108,
+        "crosses": "161",
+        "type": "Poly"
+    },
+    {
+        "pdb": "6V4D",
+        "protein": "Vesicular glutamate transporter 2",
+        "serial": 109,
+        "crosses": "66",
+        "type": "Single"
+    },
+    {
+        "pdb": "6LID",
+        "protein": "b(0,+)-type amino acid transporter 1",
+        "serial": 110,
+        "crosses": "163",
+        "type": "Poly"
+    },
+    {
+        "pdb": "5YHF",
+        "protein": "Protein translocase subunit SecDF",
+        "serial": 111,
+        "crosses": "53",
+        "type": "Single"
+    },
+    {
+        "pdb": "6PZI",
+        "protein": "ATP-binding cassette sub-family C member 8",
+        "serial": 112,
+        "crosses": "38",
+        "type": "Single"
+    },
+    {
+        "pdb": "6H7D",
+        "protein": "Sugar transport protein 10",
+        "serial": 113,
+        "crosses": "66",
+        "type": "Single"
+    },
+    {
+        "pdb": "5OFR",
+        "protein": "Microcin-J25 export ATP-binding/permease protein McjD",
+        "serial": 114,
+        "crosses": "165",
+        "type": "Poly"
+    },
+    {
+        "pdb": "7D7R",
+        "protein": "ATP-binding cassette sub-family B member 6",
+        "serial": 115,
+        "crosses": "164",
+        "type": "Poly"
+    },
+    {
+        "pdb": "6IWW",
+        "protein": "Oxaloacetate decarboxylase gamma chain 2",
+        "serial": 116,
+        "crosses": "167",
+        "type": "Poly"
+    },
+    {
+        "pdb": "5M9B",
+        "protein": "Ferric enterobactin receptor",
+        "serial": 117,
+        "crosses": "60",
+        "type": "Single"
+    },
+    {
+        "pdb": "6O00",
+        "protein": "Volume-regulated anion channel subunit LRRC8A",
+        "serial": 118,
+        "crosses": "164",
+        "type": "Poly"
+    },
+    {
+        "pdb": "1PW4",
+        "protein": "Glycerol-3-phosphate transporter",
+        "serial": 119,
+        "crosses": "64",
+        "type": "Single"
+    },
+    {
+        "pdb": "1KMP",
+        "protein": "Fe(3+) dicitrate transport protein FecA",
+        "serial": 120,
+        "crosses": "63",
+        "type": "Single"
+    },
+    {
+        "pdb": "1P23",
+        "protein": "Transmembrane emp24 domain-containing protein 10",
+        "serial": 121,
+        "crosses": "1",
+        "type": "Poly"
+    },
+    {
+        "pdb": "2GFP",
+        "protein": "Multidrug resistance protein D",
+        "serial": 122,
+        "crosses": "168",
+        "type": "Poly"
+    },
+    {
+        "pdb": "6GS7",
+        "protein": "Dipeptide and tripeptide permease A",
+        "serial": 123,
+        "crosses": "169",
+        "type": "Poly"
+    },
+    {
+        "pdb": "6LR0",
+        "protein": "Bile salt export pump",
+        "serial": 124,
+        "crosses": "38",
+        "type": "Single"
+    },
+    {
+        "pdb": "7AHK",
+        "protein": "Glutamate transporter homolog",
+        "serial": 125,
+        "crosses": "66",
+        "type": "Single"
+    },
+    {
+        "pdb": "3HWB",
+        "protein": "Outer membrane porin F",
+        "serial": 126,
+        "crosses": "167",
+        "type": "Poly"
+    },
+    {
+        "pdb": "6AAF",
+        "protein": "Autophagy-related protein 8",
+        "serial": 127,
+        "crosses": "6",
+        "type": "Poly"
+    },
+    {
+        "pdb": "6XE6",
+        "protein": "Protein dispatched homolog 1",
+        "serial": 128,
+        "crosses": "46",
+        "type": "Single"
+    },
+    {
+        "pdb": "6R10",
+        "protein": "V-type ATP synthase subunit D",
+        "serial": 129,
+        "crosses": "160",
+        "type": "Poly"
+    },
+    {
+        "pdb": "2MPR",
+        "protein": "Maltoporin",
+        "serial": 130,
+        "crosses": "167",
+        "type": "Poly"
+    },
+    {
+        "pdb": "3NY7",
+        "protein": "Acyl carrier protein",
+        "serial": 131,
+        "crosses": "32",
+        "type": "Poly"
+    },
+    {
+        "pdb": "1J4N",
+        "protein": "Aquaporin-1",
+        "serial": 132,
+        "crosses": "65",
+        "type": "Single"
+    },
+    {
+        "pdb": "4NH2",
+        "protein": "Ammonium transporter AmtB",
+        "serial": 133,
+        "crosses": "163",
+        "type": "Poly"
+    },
+    {
+        "pdb": "6QSK",
+        "protein": "GDP-mannose transporter 1",
+        "serial": 134,
+        "crosses": "160",
+        "type": "Poly"
+    },
+    {
+        "pdb": "5AEX",
+        "protein": "Ammonium transporter MEP2",
+        "serial": 135,
+        "crosses": "162",
+        "type": "Poly"
+    },
+    {
+        "pdb": "5ICT",
+        "protein": "Glutamate receptor 1",
+        "serial": 136,
+        "crosses": "63",
+        "type": "Single"
+    },
+    {
+        "pdb": "3OM0",
+        "protein": "Glutamate receptor ionotropic, kainate 5",
+        "serial": 137,
+        "crosses": "67",
+        "type": "Single"
+    },
+    {
+        "pdb": "6KSS",
+        "protein": "Glutamate receptor ionotropic, delta-1",
+        "serial": 138,
+        "crosses": "161",
+        "type": "Poly"
+    },
+    {
+        "pdb": "5IKB",
+        "protein": "Glutamate receptor ionotropic, kainate 4",
+        "serial": 139,
+        "crosses": "62",
+        "type": "Single"
+    },
+    {
+        "pdb": "2FZ0",
+        "protein": "Vacuolar v-SNARE NYV1",
+        "serial": 140,
+        "crosses": "49",
+        "type": "Single"
+    },
+    {
+        "pdb": "6LU9",
+        "protein": "Glutamate receptor ionotropic, delta-2",
+        "serial": 141,
+        "crosses": "160",
+        "type": "Poly"
+    },
+    {
+        "pdb": "1WGO",
+        "protein": "VPS10 domain-containing receptor SorCS2",
+        "serial": 142,
+        "crosses": "39",
+        "type": "Single"
+    },
+    {
+        "pdb": "5OJM",
+        "protein": "Gamma-aminobutyric acid receptor subunit beta-3",
+        "serial": 143,
+        "crosses": "164",
+        "type": "Poly"
+    },
+    {
+        "pdb": "6TD6",
+        "protein": "Protein hedgehog",
+        "serial": 144,
+        "crosses": "166",
+        "type": "Poly"
+    },
+    {
+        "pdb": "7CMI",
+        "protein": "4F2 cell-surface antigen heavy chain",
+        "serial": 145,
+        "crosses": "167",
+        "type": "Poly"
+    },
+    {
+        "pdb": "4IIL",
+        "protein": "ABC transporter riboflavin-binding protein RfuA",
+        "serial": 146,
+        "crosses": "65",
+        "type": "Single"
+    },
+    {
+        "pdb": "1QLO",
+        "protein": "ICP47 protein",
+        "serial": 147,
+        "crosses": "61",
+        "type": "Single"
+    },
+    {
+        "pdb": "6V00",
+        "protein": "Calmodulin-1",
+        "serial": 148,
+        "crosses": "164",
+        "type": "Poly"
+    },
+    {
+        "pdb": "3K8J",
+        "protein": "Outer membrane protein TP0453",
+        "serial": 149,
+        "crosses": "65",
+        "type": "Single"
+    },
+    {
+        "pdb": "3JCU",
+        "protein": "Chlorophyll a-b binding protein, chloroplastic",
+        "serial": 150,
+        "crosses": "159",
+        "type": "Poly"
+    },
+    {
+        "pdb": "6WM4",
+        "protein": "V-type proton ATPase subunit e 1",
+        "serial": 151,
+        "crosses": "159",
+        "type": "Poly"
+    },
+    {
+        "pdb": "7ADP",
+        "protein": "ER membrane protein complex subunit 8",
+        "serial": 152,
+        "crosses": "163",
+        "type": "Poly"
+    },
+    {
+        "pdb": "4EDJ",
+        "protein": "Golgi reassembly-stacking protein 2",
+        "serial": 153,
+        "crosses": "146",
+        "type": "Poly"
+    },
+    {
+        "pdb": "2ZOV",
+        "protein": "Motility protein B",
+        "serial": 154,
+        "crosses": "58",
+        "type": "Single"
+    },
+    {
+        "pdb": "6J5I",
+        "protein": "ATP synthase F1 subunit delta",
+        "serial": 155,
+        "crosses": "160",
+        "type": "Poly"
+    },
+    {
+        "pdb": "6AR2",
+        "protein": "Serine/threonine-protein kinase 3",
+        "serial": 156,
+        "crosses": "112",
+        "type": "Poly"
+    },
+    {
+        "pdb": "6WR4",
+        "protein": "Autophagy-related protein 9A",
+        "serial": 157,
+        "crosses": "164",
+        "type": "Poly"
+    },
+    {
+        "pdb": "7KTX",
+        "protein": "ER membrane protein complex subunit 1",
+        "serial": 158,
+        "crosses": "162",
+        "type": "Poly"
+    },
+    {
+        "pdb": "7BRU",
+        "protein": "Gamma-aminobutyric acid receptor-associated protein",
+        "serial": 159,
+        "crosses": "169",
+        "type": "Poly"
+    },
+    {
+        "pdb": "2E7K",
+        "protein": "MAGUK p55 subfamily member 2",
+        "serial": 160,
+        "crosses": "16",
+        "type": "Single"
+    },
+    {
+        "pdb": "5LTC",
+        "protein": "Sialic acid-binding periplasmic protein SiaP",
+        "serial": 161,
+        "crosses": "169",
+        "type": "Poly"
+    },
+    {
+        "pdb": "6MK7",
+        "protein": "Cell division protein FtsX",
+        "serial": 162,
+        "crosses": "49",
+        "type": "Single"
+    },
+    {
+        "pdb": "4N8O",
+        "protein": "Cell division protein FtsX",
+        "serial": 163,
+        "crosses": "45",
+        "type": "Poly"
+    },
+    {
+        "pdb": "7CQ7",
+        "protein": "H(+)/Cl(-) exchange transporter 7",
+        "serial": 164,
+        "crosses": "163",
+        "type": "Poly"
+    },
+    {
+        "pdb": "4HW9",
+        "protein": "Small-conductance mechanosensitive channel",
+        "serial": 165,
+        "crosses": "164",
+        "type": "Poly"
+    },
+    {
+        "pdb": "6QVU",
+        "protein": "Chloride channel protein 1",
+        "serial": 166,
+        "crosses": "166",
+        "type": "Poly"
+    },
+    {
+        "pdb": "5IYU",
+        "protein": "Alginate production protein AlgE",
+        "serial": 167,
+        "crosses": "67",
+        "type": "Single"
+    },
+    {
+        "pdb": "4TKQ",
+        "protein": "Uncharacterized protein YetJ",
+        "serial": 168,
+        "crosses": "61",
+        "type": "Single"
+    },
+    {
+        "pdb": "6MU2",
+        "protein": "Inositol 1,4,5-trisphosphate receptor type 1",
+        "serial": 169,
+        "crosses": "159",
+        "type": "Poly"
+    },
+    {
+        "pdb": "2WH9",
+        "protein": "Kappa-theraphotoxin-Pg1a",
+        "serial": 170,
+        "crosses": "4",
+        "type": "Single"
+    },
+    {
+        "pdb": "6HJB",
+        "protein": "Proton-gated ion channel",
+        "serial": 171,
+        "crosses": "164",
+        "type": "Poly"
+    },
+    {
+        "pdb": "3SY7",
+        "protein": "Porin D",
+        "serial": 172,
+        "crosses": "66",
+        "type": "Single"
+    },
+    {
+        "pdb": "6WIM",
+        "protein": "Outer membrane transporter CdiB",
+        "serial": 173,
+        "crosses": "62",
+        "type": "Single"
+    },
+    {
+        "pdb": "2F37",
+        "protein": "Transient receptor potential cation channel subfamily V member 2",
+        "serial": 174,
+        "crosses": "168",
+        "type": "Poly"
+    },
+    {
+        "pdb": "5UP2",
+        "protein": "Glutamate receptor ionotropic, NMDA 1",
+        "serial": 175,
+        "crosses": "161",
+        "type": "Poly"
+    },
+    {
+        "pdb": "6LYP",
+        "protein": "Mechanosensitive ion channel protein 1, mitochondrial",
+        "serial": 176,
+        "crosses": "164",
+        "type": "Poly"
+    },
+    {
+        "pdb": "2JAG",
+        "protein": "Halorhodopsin",
+        "serial": 177,
+        "crosses": "62",
+        "type": "Single"
+    },
+    {
+        "pdb": "6S3Q",
+        "protein": "Excitatory amino acid transporter 3",
+        "serial": 178,
+        "crosses": "165",
+        "type": "Poly"
+    },
+    {
+        "pdb": "2OAR",
+        "protein": "Large-conductance mechanosensitive channel",
+        "serial": 179,
+        "crosses": "168",
+        "type": "Poly"
+    },
+    {
+        "pdb": "4PKX",
+        "protein": "Piezo-type mechanosensitive ion channel component 1",
+        "serial": 180,
+        "crosses": "65",
+        "type": "Single"
+    },
+    {
+        "pdb": "6D7T",
+        "protein": "Transient receptor potential cation channel subfamily V member 6",
+        "serial": 181,
+        "crosses": "161",
+        "type": "Poly"
+    },
+    {
+        "pdb": "6RV4",
+        "protein": "Potassium channel subfamily K member 3",
+        "serial": 182,
+        "crosses": "165",
+        "type": "Poly"
+    },
+    {
+        "pdb": "1KD6",
+        "protein": "DELTA-actitoxin-Aeq1a",
+        "serial": 183,
+        "crosses": "57",
+        "type": "Single"
+    },
+    {
+        "pdb": "6QPI",
+        "protein": "Anoctamin-6",
+        "serial": 184,
+        "crosses": "169",
+        "type": "Poly"
+    },
+    {
+        "pdb": "6VE8",
+        "protein": "Glutamate receptor 3.2",
+        "serial": 185,
+        "crosses": "61",
+        "type": "Single"
+    },
+    {
+        "pdb": "6V3I",
+        "protein": "Potassium channel subfamily K member 2",
+        "serial": 186,
+        "crosses": "168",
+        "type": "Poly"
+    },
+    {
+        "pdb": "3C36",
+        "protein": "Glutamate receptor ionotropic, kainate 1",
+        "serial": 187,
+        "crosses": "168",
+        "type": "Poly"
+    },
+    {
+        "pdb": "5OYG",
+        "protein": "Anoctamin-1",
+        "serial": 188,
+        "crosses": "161",
+        "type": "Poly"
+    },
+    {
+        "pdb": "6WTH",
+        "protein": "Amiloride-sensitive sodium channel subunit alpha",
+        "serial": 189,
+        "crosses": "167",
+        "type": "Poly"
+    },
+    {
+        "pdb": "7JN1",
+        "protein": "Gap junction alpha-3 protein",
+        "serial": 190,
+        "crosses": "163",
+        "type": "Poly"
+    },
+    {
+        "pdb": "1H6S",
+        "protein": "Porin",
+        "serial": 191,
+        "crosses": "65",
+        "type": "Single"
+    },
+    {
+        "pdb": "6KG7",
+        "protein": "Piezo-type mechanosensitive ion channel component 2",
+        "serial": 192,
+        "crosses": "159",
+        "type": "Poly"
+    },
+    {
+        "pdb": "6YTX",
+        "protein": "Calcium homeostasis modulator protein 6",
+        "serial": 193,
+        "crosses": "156",
+        "type": "Poly"
+    },
+    {
+        "pdb": "1XFD",
+        "protein": "Dipeptidyl aminopeptidase-like protein 6",
+        "serial": 194,
+        "crosses": "162",
+        "type": "Poly"
+    },
+    {
+        "pdb": "6LMV",
+        "protein": "Calcium homeostasis modulator protein",
+        "serial": 195,
+        "crosses": "160",
+        "type": "Poly"
+    },
+    {
+        "pdb": "3LUT",
+        "protein": "Voltage-gated potassium channel subunit beta-2",
+        "serial": 196,
+        "crosses": "165",
+        "type": "Poly"
+    },
+    {
+        "pdb": "5WPV",
+        "protein": "Mucolipin-1",
+        "serial": 197,
+        "crosses": "161",
+        "type": "Poly"
+    },
+    {
+        "pdb": "6L3V",
+        "protein": "Gap junction gamma-3 protein",
+        "serial": 198,
+        "crosses": "165",
+        "type": "Poly"
+    },
+    {
+        "pdb": "6Y9B",
+        "protein": "Metalloreductase STEAP1",
+        "serial": 199,
+        "crosses": "162",
+        "type": "Poly"
+    },
+    {
+        "pdb": "7JNC",
+        "protein": "Proton-activated chloride channel",
+        "serial": 200,
+        "crosses": "167",
+        "type": "Poly"
+    },
+    {
+        "pdb": "1TLZ",
+        "protein": "Nucleoside-specific channel-forming protein Tsx",
+        "serial": 201,
+        "crosses": "168",
+        "type": "Poly"
+    },
+    {
+        "pdb": "6MGW",
+        "protein": "Calcium permeable stress-gated cation channel 1",
+        "serial": 202,
+        "crosses": "165",
+        "type": "Poly"
+    },
+    {
+        "pdb": "6XIW",
+        "protein": "NALCN channel auxiliary factor 1",
+        "serial": 203,
+        "crosses": "165",
+        "type": "Poly"
+    },
+    {
+        "pdb": "2RFA",
+        "protein": "Transient receptor potential cation channel subfamily V member 6",
+        "serial": 204,
+        "crosses": "63",
+        "type": "Single"
+    },
+    {
+        "pdb": "6M04",
+        "protein": "Volume-regulated anion channel subunit LRRC8D",
+        "serial": 205,
+        "crosses": "160",
+        "type": "Poly"
+    },
+    {
+        "pdb": "6EBM",
+        "protein": "Potassium voltage-gated channel subfamily A member 2",
+        "serial": 206,
+        "crosses": "165",
+        "type": "Poly"
+    },
+    {
+        "pdb": "4KCD",
+        "protein": "Glutamate receptor ionotropic, NMDA 3A",
+        "serial": 207,
+        "crosses": "169",
+        "type": "Poly"
+    },
+    {
+        "pdb": "6BKK",
+        "protein": "Matrix protein 2",
+        "serial": 208,
+        "crosses": "24",
+        "type": "Poly"
+    },
+    {
+        "pdb": "2M0Q",
+        "protein": "Potassium voltage-gated channel subfamily E member 2",
+        "serial": 209,
+        "crosses": "29",
+        "type": "Single"
+    },
+    {
+        "pdb": "6KZO",
+        "protein": "Voltage-dependent T-type calcium channel subunit alpha-1G",
+        "serial": 210,
+        "crosses": "46",
+        "type": "Single"
+    },
+    {
+        "pdb": "5KKH",
+        "protein": "Bacteriorhodopsin-I",
+        "serial": 211,
+        "crosses": "171",
+        "type": "Poly"
+    },
+    {
+        "pdb": "2K21",
+        "protein": "Potassium voltage-gated channel subfamily E member 1",
+        "serial": 212,
+        "crosses": "66",
+        "type": "Single"
+    },
+    {
+        "pdb": "2RCB",
+        "protein": "Glutamate receptor ionotropic, NMDA 3B",
+        "serial": 213,
+        "crosses": "171",
+        "type": "Poly"
+    },
+    {
+        "pdb": "1PHO",
+        "protein": "Outer membrane porin PhoE",
+        "serial": 214,
+        "crosses": "66",
+        "type": "Single"
+    },
+    {
+        "pdb": "1KN7",
+        "protein": "Potassium voltage-gated channel subfamily A member 4",
+        "serial": 215,
+        "crosses": "24",
+        "type": "Single"
+    },
+    {
+        "pdb": "7CFT",
+        "protein": "Mambalgin-1",
+        "serial": 216,
+        "crosses": "164",
+        "type": "Poly"
+    },
+    {
+        "pdb": "6BY3",
+        "protein": "pH-gated potassium channel KcsA",
+        "serial": 217,
+        "crosses": "169",
+        "type": "Poly"
+    },
+    {
+        "pdb": "6QIM",
+        "protein": "Probable aquaporin PIP2-4",
+        "serial": 218,
+        "crosses": "171",
+        "type": "Poly"
+    },
+    {
+        "pdb": "7JMC",
+        "protein": "Gap junction alpha-8 protein",
+        "serial": 219,
+        "crosses": "163",
+        "type": "Poly"
+    },
+    {
+        "pdb": "3LLQ",
+        "protein": "Aquaporin Z 2",
+        "serial": 220,
+        "crosses": "133",
+        "type": "Poly"
+    },
+    {
+        "pdb": "6E7Z",
+        "protein": "Mucolipin-1",
+        "serial": 221,
+        "crosses": "160",
+        "type": "Poly"
+    },
+    {
+        "pdb": "6X40",
+        "protein": "Gamma-aminobutyric acid receptor subunit alpha-1",
+        "serial": 222,
+        "crosses": "164",
+        "type": "Poly"
+    },
+    {
+        "pdb": "2NZ0",
+        "protein": "Kv channel-interacting protein 1",
+        "serial": 223,
+        "crosses": "168",
+        "type": "Poly"
+    },
+    {
+        "pdb": "3VVK",
+        "protein": "Halorhodopsin",
+        "serial": 224,
+        "crosses": "169",
+        "type": "Poly"
+    },
+    {
+        "pdb": "6UD3",
+        "protein": "Glycine receptor subunit alphaZ1",
+        "serial": 225,
+        "crosses": "164",
+        "type": "Poly"
+    },
+    {
+        "pdb": "2F2B",
+        "protein": "Aquaporin AqpM",
+        "serial": 226,
+        "crosses": "65",
+        "type": "Single"
+    },
+    {
+        "pdb": "6R8A",
+        "protein": "Glutamate receptor 3.3",
+        "serial": 227,
+        "crosses": "167",
+        "type": "Poly"
+    },
+    {
+        "pdb": "6YTQ",
+        "protein": "Calcium homeostasis modulator protein 4",
+        "serial": 228,
+        "crosses": "156",
+        "type": "Poly"
+    },
+    {
+        "pdb": "4PR7",
+        "protein": "Oligogalacturonate-specific porin KdgM",
+        "serial": 229,
+        "crosses": "65",
+        "type": "Single"
+    },
+    {
+        "pdb": "3D9S",
+        "protein": "Aquaporin-5",
+        "serial": 230,
+        "crosses": "168",
+        "type": "Poly"
+    },
+    {
+        "pdb": "1R5S",
+        "protein": "Gap junction alpha-1 protein",
+        "serial": 231,
+        "crosses": "59",
+        "type": "Single"
+    },
+    {
+        "pdb": "6HRS",
+        "protein": "Mucolipin-2",
+        "serial": 232,
+        "crosses": "163",
+        "type": "Poly"
+    },
+    {
+        "pdb": "4QND",
+        "protein": "Sugar transporter SemiSWEET",
+        "serial": 233,
+        "crosses": "10",
+        "type": "Single"
+    },
+    {
+        "pdb": "1QG9",
+        "protein": "Sodium channel protein type 3 subunit alpha",
+        "serial": 234,
+        "crosses": "5",
+        "type": "Single"
+    },
+    {
+        "pdb": "6QXA",
+        "protein": "K(+)-stimulated pyrophosphate-energized sodium pump",
+        "serial": 235,
+        "crosses": "163",
+        "type": "Poly"
+    },
+    {
+        "pdb": "6GYO",
+        "protein": "Potassium/sodium hyperpolarization-activated cyclic nucleotide-gated channel 4",
+        "serial": 236,
+        "crosses": "0",
+        "type": "Poly"
+    },
+    {
+        "pdb": "1XRD",
+        "protein": "Light-harvesting protein B-870 alpha chain",
+        "serial": 237,
+        "crosses": "37",
+        "type": "Single"
+    },
+    {
+        "pdb": "2FIC",
+        "protein": "Myc box-dependent-interacting protein 1",
+        "serial": 238,
+        "crosses": "167",
+        "type": "Poly"
+    },
+    {
+        "pdb": "2FKW",
+        "protein": "Light-harvesting protein B-800/850 alpha chain",
+        "serial": 239,
+        "crosses": "167",
+        "type": "Poly"
+    },
+    {
+        "pdb": "2LL2",
+        "protein": "Gap junction alpha-1 protein",
+        "serial": 240,
+        "crosses": "0",
+        "type": "Single"
+    },
+    {
+        "pdb": "1JDM",
+        "protein": "Sarcolipin",
+        "serial": 241,
+        "crosses": "10",
+        "type": "Single"
+    },
+    {
+        "pdb": "2K7M",
+        "protein": "Gap junction alpha-5 protein",
+        "serial": 242,
+        "crosses": "49",
+        "type": "Single"
+    },
+    {
+        "pdb": "2C32",
+        "protein": "Lens fiber major intrinsic protein",
+        "serial": 243,
+        "crosses": "61",
+        "type": "Single"
+    },
+    {
+        "pdb": "4L1D",
+        "protein": "Sodium channel subunit beta-3",
+        "serial": 244,
+        "crosses": "62",
+        "type": "Poly"
+    },
+    {
+        "pdb": "6DU8",
+        "protein": "Polycystic kidney disease 2-like 1 protein",
+        "serial": 245,
+        "crosses": "165",
+        "type": "Poly"
+    },
+    {
+        "pdb": "5Z1W",
+        "protein": "Polycystic kidney disease 2-like 1 protein",
+        "serial": 246,
+        "crosses": "163",
+        "type": "Poly"
+    },
+    {
+        "pdb": "6UZZ",
+        "protein": "Calmodulin-1",
+        "serial": 247,
+        "crosses": "163",
+        "type": "Poly"
+    },
+    {
+        "pdb": "2IUE",
+        "protein": "Integrin beta-2-like protein",
+        "serial": 248,
+        "crosses": "61",
+        "type": "Single"
+    },
+    {
+        "pdb": "2LCM",
+        "protein": "Voltage-dependent N-type calcium channel subunit alpha-1B",
+        "serial": 249,
+        "crosses": "9",
+        "type": "Single"
+    },
+    {
+        "pdb": "6S59",
+        "protein": "NAD(P) transhydrogenase, mitochondrial",
+        "serial": 250,
+        "crosses": "161",
+        "type": "Poly"
+    },
+    {
+        "pdb": "6OHU",
+        "protein": "3-beta-hydroxysteroid-Delta(8),Delta(7)-isomerase",
+        "serial": 251,
+        "crosses": "168",
+        "type": "Poly"
+    },
+    {
+        "pdb": "2RR3",
+        "protein": "Oxysterol-binding protein 1",
+        "serial": 252,
+        "crosses": "17",
+        "type": "Poly"
+    }
+]

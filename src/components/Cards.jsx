@@ -22,49 +22,49 @@ const Cards = () => {
                     <h2 class="mt-4 text-xl font-thin  text-white capitalize"> Enzyme </h2>
                   </div>
              </a>
-              <a href="google.com" className="overflow-hidden bg-cover rounded-lg cursor-pointer group w-full h-full flex-col my-4"
+              <a href="my-project/Membranepage" className="overflow-hidden bg-cover rounded-lg cursor-pointer group w-full h-full flex-col my-4"
                   style= {{backgroundImage: "url(assets/membrane.jpg)", backgroundSize: "cover", backgroundRepeat: "no-repeat center", height:"200px", width:"200px"}}>
                   <div
                     className="flex flex-col justify-center w-full h-full px-8 py-4 transition-opacity duration-700 opacity-0 backdrop-blur-sm bg-gray-800/60 group-hover:opacity-100">
                     <h2 class="mt-4 text-xl font-thin  text-white capitalize"> Membrane </h2>
                   </div>
              </a>
-             <a href="google.com" className="overflow-hidden bg-cover rounded-lg cursor-pointer group w-full h-full flex-col my-4"
+             <a href="my-project/Transporterpage" className="overflow-hidden bg-cover rounded-lg cursor-pointer group w-full h-full flex-col my-4"
                   style= {{backgroundImage: "url(assets/transporter.jpg)", backgroundSize: "cover", backgroundRepeat: "no-repeat center", height:"200px", width:"200px"}}>
                   <div
                     className="flex flex-col justify-center w-full h-full px-8 py-4 transition-opacity duration-700 opacity-0 backdrop-blur-sm bg-gray-800/60 group-hover:opacity-100">
                     <h2 class="mt-4 text-xl font-thin  text-white capitalize"> Transporter </h2>
                   </div>
              </a>
-             <a href="google.com" className="overflow-hidden bg-cover rounded-lg cursor-pointer group w-full h-full flex-col my-4"
+             <a href="my-project/Miscpage" className="overflow-hidden bg-cover rounded-lg cursor-pointer group w-full h-full flex-col my-4"
                   style= {{backgroundImage: "url(assets/misc.jpg)", backgroundSize: "cover", backgroundRepeat: "no-repeat center", height:"200px", width:"200px"}}>
                   <div
                     className="flex flex-col justify-center w-full h-full px-8 py-4 transition-opacity duration-700 opacity-0 backdrop-blur-sm bg-gray-800/60 group-hover:opacity-100">
                     <h2 class="mt-4 text-xl font-thin  text-white capitalize"> Miscellaneous </h2>
                   </div>
              </a>
-       <a href="google.com" className="overflow-hidden bg-cover rounded-lg cursor-pointer group w-full h-full flex-col my-4"
+       <a href="my-project/Viralpage" className="overflow-hidden bg-cover rounded-lg cursor-pointer group w-full h-full flex-col my-4"
                   style= {{backgroundImage: "url(assets/viral.jpg)", backgroundSize: "cover", backgroundRepeat: "no-repeat center", height:"200px", width:"200px"}}>
                   <div
                     className="flex flex-col justify-center w-full h-full px-8 py-4 transition-opacity duration-700 opacity-0 backdrop-blur-sm bg-gray-800/60 group-hover:opacity-100">
                     <h2 class="mt-4 text-xl font-thin  text-white capitalize"> Viral </h2>
                   </div>
              </a>
-              <a href="google.com" className="overflow-hidden bg-cover rounded-lg cursor-pointer group w-full h-full flex-col my-4"
+              <a href="my-project/Signalpage" className="overflow-hidden bg-cover rounded-lg cursor-pointer group w-full h-full flex-col my-4"
                   style= {{backgroundImage: "url(assets/signal.jpg)", backgroundSize: "cover", backgroundRepeat: "no-repeat center", height:"200px", width:"200px"}}>
                   <div
                     className="flex flex-col justify-center w-full h-full px-8 py-4 transition-opacity duration-700 opacity-0 backdrop-blur-sm bg-gray-800/60 group-hover:opacity-100">
                     <h2 class="mt-4 text-xl font-thin  text-white capitalize"> Signal </h2>
                   </div>
              </a>
-             <a href="google.com" className="overflow-hidden bg-cover rounded-lg cursor-pointer group w-full h-full flex-col my-4"
+             <a href="my-project/Bindingpage" className="overflow-hidden bg-cover rounded-lg cursor-pointer group w-full h-full flex-col my-4"
                   style= {{backgroundImage: "url(assets/binding.jpg)", backgroundSize: "cover", backgroundRepeat: "no-repeat center", height:"200px", width:"200px"}}>
                   <div
                     className="flex flex-col justify-center w-full h-full px-8 py-4 transition-opacity duration-700 opacity-0 backdrop-blur-sm bg-gray-800/60 group-hover:opacity-100">
                     <h2 class="mt-4 text-xl font-thin  text-white capitalize"> Binding </h2>
                   </div>
              </a>
-             <a href="google.com" className="overflow-hidden bg-cover rounded-lg cursor-pointer group w-full h-full flex-col my-4"
+             <a href="my-project/Toxinpage" className="overflow-hidden bg-cover rounded-lg cursor-pointer group w-full h-full flex-col my-4"
                   style= {{backgroundImage: "url(assets/toxin.jpg)", backgroundSize: "cover", backgroundRepeat: "no-repeat center", height:"200px", width:"200px"}}>
                   <div
                     className="flex flex-col justify-center w-full h-full px-8 py-4 transition-opacity duration-700 opacity-0 backdrop-blur-sm bg-gray-800/60 group-hover:opacity-100">

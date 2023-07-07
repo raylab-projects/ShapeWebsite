@@ -26,16 +26,13 @@ const EnzymeDetails = ({ enzyme, onBack }) => {
         // style={{
         //   display: "flex",
         //   justifyContent: "center",
-        //   alignItems: "center",
+        //   alignItems: "center", {`/assets/final_pdbs/${enzyme.pdb}.pdb`}
         //   width: "500px",
         // }}
       >
         <div className="flex mx-auto p-10 ">
           <ul className="grid place-items-center lg:grid-cols-2 gap-x-6 gap-y-8 md:grid-cols-1 sm:grid-cols-1 ">
-          <li className="hover:cursor-grab flex align-top"><DisplayFile filePath="/assets/new_output_1ABE.glb"/></li>
-            {/* <li><div className="text-white font-mono" style={{height: '70px',width: '400px', display: "flex", alignItems: "center"}}></div></li> */}
-            {/* <li className="outline outline-offset-2  hover:outline-[#e0e0e0] hover:cursor-grab"><ProteinViewer pdbId={enzyme.pdb} /></li> */}
-            {/* <li><div style={{height: '350px',width: '400px', display: "flex", alignItems: "center"}}>text here</div></li> */}
+          <li className="hover:cursor-grab flex align-top"><DisplayFile filePath={`/assets/reached_glb/new_output_${enzyme.pdb}.glb`}/></li>
             <li className="">
               <div style={{width:'600px',height:'450px'}} className="flex bg-gradient-to-br from-cyan-900 via-cyan-800 to-cyan-600 text-[#e0e0e0] hover:cursor-grab row-start-3 col-span-3">
                 <div class="tooltip">
@@ -59,7 +56,7 @@ const EnzymeDetails = ({ enzyme, onBack }) => {
                 </div>
               </div>
             </li>
-            <li className=" hover:cursor-grab"><PDBViewer filePath="/1ABE-inner_surface_pdb.pdb" /></li>
+            <li className=" hover:cursor-grab"><PDBViewer filePath={`/assets/final_pdbs/${enzyme.pdb}.pdb`} /></li>
             <li><button className="hover:font-bold relative top-40 left-60 bg-blue-500 hover:bg-blue-700 text-white font-bold py-2 px-4 rounded-full" onClick={handleBackClick}>
         Go Back
       </button></li>

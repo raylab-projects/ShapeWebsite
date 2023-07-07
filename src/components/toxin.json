@@ -1,0 +1,1567 @@
+[
+    {
+        "pdb": "4YHD",
+        "protein": "Alpha-hemolysin",
+        "serial": 1
+    },
+    {
+        "pdb": "3G4O",
+        "protein": "Aerolysin",
+        "serial": 2
+    },
+    {
+        "pdb": "4YZ7",
+        "protein": "Basic phospholipase A2 homolog piratoxin-1",
+        "serial": 3
+    },
+    {
+        "pdb": "3V0C",
+        "protein": "Botulinum neurotoxin type A",
+        "serial": 4
+    },
+    {
+        "pdb": "4MOA",
+        "protein": "Pesticidal crystal protein Cry4Ba",
+        "serial": 5
+    },
+    {
+        "pdb": "2VXR",
+        "protein": "Botulinum neurotoxin type G",
+        "serial": 6
+    },
+    {
+        "pdb": "3DIH",
+        "protein": "Basic phospholipase A2 homolog ammodytin L",
+        "serial": 7
+    },
+    {
+        "pdb": "6G5F",
+        "protein": "Botulinum neurotoxin type B",
+        "serial": 8
+    },
+    {
+        "pdb": "6AV8",
+        "protein": "U5-theraphotoxin-Hs1b 1",
+        "serial": 9
+    },
+    {
+        "pdb": "2DDA",
+        "protein": "Cysteine-rich venom protein pseudechetoxin",
+        "serial": 10
+    },
+    {
+        "pdb": "3FII",
+        "protein": "Botulinum neurotoxin type F",
+        "serial": 11
+    },
+    {
+        "pdb": "4EE2",
+        "protein": "Protective antigen",
+        "serial": 12
+    },
+    {
+        "pdb": "2EPF",
+        "protein": "Cysteine-rich venom protein pseudecin",
+        "serial": 13
+    },
+    {
+        "pdb": "6ZD0",
+        "protein": "CD59 glycoprotein",
+        "serial": 14
+    },
+    {
+        "pdb": "3R0L",
+        "protein": "Phospholipase A2 homolog crotoxin acid subunit CA",
+        "serial": 15
+    },
+    {
+        "pdb": "6G5G",
+        "protein": "Botulinum neurotoxin type B",
+        "serial": 16
+    },
+    {
+        "pdb": "3QRX",
+        "protein": "Melittin",
+        "serial": 17
+    },
+    {
+        "pdb": "6PWH",
+        "protein": "Basic phospholipase A2 homolog myotoxin II",
+        "serial": 18
+    },
+    {
+        "pdb": "1DTK",
+        "protein": "Kunitz-type serine protease inhibitor homolog dendrotoxin K",
+        "serial": 19
+    },
+    {
+        "pdb": "1JC6",
+        "protein": "Kunitz-type serine protease inhibitor IX",
+        "serial": 20
+    },
+    {
+        "pdb": "2M01",
+        "protein": "Kunitz-type serine protease inhibitor LmKTT-1a",
+        "serial": 21
+    },
+    {
+        "pdb": "5M4V",
+        "protein": "Mambaquaretin-1",
+        "serial": 22
+    },
+    {
+        "pdb": "6KZF",
+        "protein": "Kunitz-type serine protease inhibitor homolog calcicludine",
+        "serial": 23
+    },
+    {
+        "pdb": "6A5I",
+        "protein": "Kunitz-type serine protease inhibitor PPTI",
+        "serial": 24
+    },
+    {
+        "pdb": "1BUN",
+        "protein": "Basic phospholipase A2 beta-bungarotoxin A1 chain",
+        "serial": 25
+    },
+    {
+        "pdb": "2JOT",
+        "protein": "Kunitz-type kappaPI-theraphotoxin-Hs1a",
+        "serial": 26
+    },
+    {
+        "pdb": "6Q6C",
+        "protein": "Kunitz-type conkunitzin-S1",
+        "serial": 27
+    },
+    {
+        "pdb": "5N0C",
+        "protein": "Tetanus toxin",
+        "serial": 28
+    },
+    {
+        "pdb": "3BTA",
+        "protein": "Botulinum neurotoxin type A",
+        "serial": 29
+    },
+    {
+        "pdb": "1DTX",
+        "protein": "Kunitz-type serine protease inhibitor homolog alpha-dendrotoxin",
+        "serial": 30
+    },
+    {
+        "pdb": "4G0H",
+        "protein": "Cytotoxicity-associated immunodominant antigen",
+        "serial": 31
+    },
+    {
+        "pdb": "2H9X",
+        "protein": "Delta-actitoxin-Cgg1a",
+        "serial": 32
+    },
+    {
+        "pdb": "2MW7",
+        "protein": "Delta/kappa-conotoxin Mo3964",
+        "serial": 33
+    },
+    {
+        "pdb": "1LSI",
+        "protein": "Alpha-elapitoxin-Ls2a",
+        "serial": 34
+    },
+    {
+        "pdb": "6RB9",
+        "protein": "Epsilon-toxin type B",
+        "serial": 35
+    },
+    {
+        "pdb": "2JQP",
+        "protein": "Weak toxin 1",
+        "serial": 36
+    },
+    {
+        "pdb": "4X9Z",
+        "protein": "Alpha-conotoxin GeXXA",
+        "serial": 37
+    },
+    {
+        "pdb": "5XWE",
+        "protein": "Weak toxin DE-1 homolog 1",
+        "serial": 38
+    },
+    {
+        "pdb": "5FOZ",
+        "protein": "Binary larvicide subunit BinA",
+        "serial": 39
+    },
+    {
+        "pdb": "2NDD",
+        "protein": "Potassium channel toxin kappa-KTx 5.1",
+        "serial": 40
+    },
+    {
+        "pdb": "2MVA",
+        "protein": "Tau-scoloptoxin(04)-Sm1b",
+        "serial": 41
+    },
+    {
+        "pdb": "1PVZ",
+        "protein": "Potassium channel toxin alpha-KTx 14.2",
+        "serial": 42
+    },
+    {
+        "pdb": "1RC9",
+        "protein": "Cysteine-rich venom protein",
+        "serial": 43
+    },
+    {
+        "pdb": "2NBC",
+        "protein": "U1-poneritoxin-Ae1a",
+        "serial": 44
+    },
+    {
+        "pdb": "1H0J",
+        "protein": "Cytotoxin 3",
+        "serial": 45
+    },
+    {
+        "pdb": "1NTX",
+        "protein": "Short neurotoxin 1",
+        "serial": 46
+    },
+    {
+        "pdb": "6BA3",
+        "protein": "U21-hexatoxin-Hi1a",
+        "serial": 47
+    },
+    {
+        "pdb": "2MVT",
+        "protein": "Kappa-scoloptoxin(03)-Ssd1a",
+        "serial": 48
+    },
+    {
+        "pdb": "1TFS",
+        "protein": "Toxin FS-2",
+        "serial": 49
+    },
+    {
+        "pdb": "2MFA",
+        "protein": "Mambalgin-2",
+        "serial": 50
+    },
+    {
+        "pdb": "1V7F",
+        "protein": "Kappa-theraphotoxin-Ps1a",
+        "serial": 51
+    },
+    {
+        "pdb": "5IPO",
+        "protein": "Hge-scorpine",
+        "serial": 52
+    },
+    {
+        "pdb": "2KGH",
+        "protein": "Omega-theraphotoxin-Ba1b",
+        "serial": 53
+    },
+    {
+        "pdb": "1Y29",
+        "protein": "Omega-theraphotoxin-Hs1a",
+        "serial": 54
+    },
+    {
+        "pdb": "1KPT",
+        "protein": "KP4 killer toxin",
+        "serial": 55
+    },
+    {
+        "pdb": "1AHL",
+        "protein": "Delta-actitoxin-Axm1a",
+        "serial": 56
+    },
+    {
+        "pdb": "5T6V",
+        "protein": "Chi-conotoxin-like PnMRCL-013",
+        "serial": 57
+    },
+    {
+        "pdb": "2LI3",
+        "protein": "Kappa-buthitoxin-Tt2b",
+        "serial": 58
+    },
+    {
+        "pdb": "1WQE",
+        "protein": "Potassium channel toxin kappa-KTx 2.3",
+        "serial": 59
+    },
+    {
+        "pdb": "4B1Q",
+        "protein": "Conotoxin CcTx",
+        "serial": 60
+    },
+    {
+        "pdb": "3MZ8",
+        "protein": "Cysteine-rich venom protein natrin-1",
+        "serial": 61
+    },
+    {
+        "pdb": "5X0S",
+        "protein": "Mu-scoloptoxin(15)-Ssm1a",
+        "serial": 62
+    },
+    {
+        "pdb": "6AX2",
+        "protein": "Mu-hexatoxin-Mg2a",
+        "serial": 63
+    },
+    {
+        "pdb": "2LO7",
+        "protein": "Potassium channel toxin Ts16",
+        "serial": 64
+    },
+    {
+        "pdb": "2P4L",
+        "protein": "Iota-conotoxin RXIA",
+        "serial": 65
+    },
+    {
+        "pdb": "1SHI",
+        "protein": "Delta-stichotoxin-She1a",
+        "serial": 66
+    },
+    {
+        "pdb": "1V6P",
+        "protein": "Cobrotoxin",
+        "serial": 67
+    },
+    {
+        "pdb": "1PJV",
+        "protein": "Potassium channel toxin alpha-KTx 10.1",
+        "serial": 68
+    },
+    {
+        "pdb": "2M62",
+        "protein": "Chi-conotoxin-like Ar1248",
+        "serial": 69
+    },
+    {
+        "pdb": "2MF3",
+        "protein": "Mu-segestritoxin-Sf1a",
+        "serial": 70
+    },
+    {
+        "pdb": "2M35",
+        "protein": "Kappa-scoloptoxin(03)-Ssm1a",
+        "serial": 71
+    },
+    {
+        "pdb": "2NAW",
+        "protein": "Exendin-4",
+        "serial": 72
+    },
+    {
+        "pdb": "3LKF",
+        "protein": "Gamma-hemolysin component B",
+        "serial": 73
+    },
+    {
+        "pdb": "4WVM",
+        "protein": "Stonustoxin subunit beta",
+        "serial": 74
+    },
+    {
+        "pdb": "2B5Q",
+        "protein": "Chi-conotoxin CMrVIA",
+        "serial": 75
+    },
+    {
+        "pdb": "1WQD",
+        "protein": "Potassium channel toxin kappa-KTx 2.2",
+        "serial": 76
+    },
+    {
+        "pdb": "1V91",
+        "protein": "Delta-amaurobitoxin-Pl1b",
+        "serial": 77
+    },
+    {
+        "pdb": "2NBT",
+        "protein": "Kappa-bungarotoxin",
+        "serial": 78
+    },
+    {
+        "pdb": "6CKF",
+        "protein": "U-actitoxin-Oulsp1",
+        "serial": 79
+    },
+    {
+        "pdb": "4GV5",
+        "protein": "Crotamine Ile-19",
+        "serial": 80
+    },
+    {
+        "pdb": "5FZX",
+        "protein": "U5-scytotoxin-Sth1a",
+        "serial": 81
+    },
+    {
+        "pdb": "1KQI",
+        "protein": "U2-hexatoxin-Hi1a",
+        "serial": 82
+    },
+    {
+        "pdb": "5HBV",
+        "protein": "Acetylcholine receptor subunit alpha",
+        "serial": 83
+    },
+    {
+        "pdb": "1JGK",
+        "protein": "Candoxin",
+        "serial": 84
+    },
+    {
+        "pdb": "6DUU",
+        "protein": "Mastoparan-L",
+        "serial": 85
+    },
+    {
+        "pdb": "1G6M",
+        "protein": "Cobrotoxin II",
+        "serial": 86
+    },
+    {
+        "pdb": "2MJ4",
+        "protein": "Short neurotoxin 1",
+        "serial": 87
+    },
+    {
+        "pdb": "1S8K",
+        "protein": "Potassium channel toxin alpha-KTx 17.1",
+        "serial": 88
+    },
+    {
+        "pdb": "2MSF",
+        "protein": "Potassium channel toxin epsilon-KTx 1.1",
+        "serial": 89
+    },
+    {
+        "pdb": "2CCX",
+        "protein": "Cytotoxin 1",
+        "serial": 90
+    },
+    {
+        "pdb": "2J15",
+        "protein": "Chi-conotoxin MrIA",
+        "serial": 91
+    },
+    {
+        "pdb": "5FZW",
+        "protein": "U3-scytotoxin-Sth1h",
+        "serial": 92
+    },
+    {
+        "pdb": "1EIT",
+        "protein": "Mu-agatoxin-Aa1a",
+        "serial": 93
+    },
+    {
+        "pdb": "6VH8",
+        "protein": "Excelsatoxin A",
+        "serial": 94
+    },
+    {
+        "pdb": "3NDS",
+        "protein": "Short neurotoxin 1",
+        "serial": 95
+    },
+    {
+        "pdb": "1LUP",
+        "protein": "Kappa-theraphotoxin-Gr2a",
+        "serial": 96
+    },
+    {
+        "pdb": "1NXN",
+        "protein": "Contryphan-Vn",
+        "serial": 97
+    },
+    {
+        "pdb": "2N8F",
+        "protein": "Pi-hexatoxin-Hi1a",
+        "serial": 98
+    },
+    {
+        "pdb": "1DL0",
+        "protein": "Lambda-hexatoxin-Hv1c",
+        "serial": 99
+    },
+    {
+        "pdb": "2LMZ",
+        "protein": "Conotoxin im23a",
+        "serial": 100
+    },
+    {
+        "pdb": "6IMF",
+        "protein": "Small serum protein 2",
+        "serial": 101
+    },
+    {
+        "pdb": "1G92",
+        "protein": "Delta-paraponeritoxin-Pc1a",
+        "serial": 102
+    },
+    {
+        "pdb": "2MQU",
+        "protein": "Mu-thomitoxin-Hme1c",
+        "serial": 103
+    },
+    {
+        "pdb": "6AZA",
+        "protein": "Kappa-actitoxin-Ate1a",
+        "serial": 104
+    },
+    {
+        "pdb": "2MZ4",
+        "protein": "Mu-scoloptoxin(03)-Ssm2a",
+        "serial": 105
+    },
+    {
+        "pdb": "2LZO",
+        "protein": "Precursor protein UG",
+        "serial": 106
+    },
+    {
+        "pdb": "2M36",
+        "protein": "Mu-cyrtautoxin-As1a",
+        "serial": 107
+    },
+    {
+        "pdb": "2LIX",
+        "protein": "Potassium channel toxin alpha-KTx 28.1",
+        "serial": 108
+    },
+    {
+        "pdb": "2E2S",
+        "protein": "U2-agatoxin-Aop1a",
+        "serial": 109
+    },
+    {
+        "pdb": "1IEO",
+        "protein": "Chi-conotoxin MrIB",
+        "serial": 110
+    },
+    {
+        "pdb": "1Z99",
+        "protein": "Crotamine",
+        "serial": 111
+    },
+    {
+        "pdb": "5FZV",
+        "protein": "U3-scytotoxin-Sth1a",
+        "serial": 112
+    },
+    {
+        "pdb": "1JLP",
+        "protein": "Psi-conotoxin PIIIF",
+        "serial": 113
+    },
+    {
+        "pdb": "2K9E",
+        "protein": "Kappa-stichotoxin-She3a",
+        "serial": 114
+    },
+    {
+        "pdb": "2RTZ",
+        "protein": "Mesomartoxin",
+        "serial": 115
+    },
+    {
+        "pdb": "2N7F",
+        "protein": "MuO-conotoxin MfVIA",
+        "serial": 116
+    },
+    {
+        "pdb": "1W6B",
+        "protein": "Alpha-elapitoxin-Nno2a",
+        "serial": 117
+    },
+    {
+        "pdb": "2KYJ",
+        "protein": "Phi-liotoxin-Lw1a",
+        "serial": 118
+    },
+    {
+        "pdb": "2MYH",
+        "protein": "Omega-phylotoxin-To1a",
+        "serial": 119
+    },
+    {
+        "pdb": "1VB0",
+        "protein": "Cobrotoxin-b",
+        "serial": 120
+    },
+    {
+        "pdb": "6OFA",
+        "protein": "Wasabi receptor toxin",
+        "serial": 121
+    },
+    {
+        "pdb": "6AVA",
+        "protein": "Insectotoxin-I1",
+        "serial": 122
+    },
+    {
+        "pdb": "1ATX",
+        "protein": "Delta-actitoxin-Avd1a",
+        "serial": 123
+    },
+    {
+        "pdb": "2N6R",
+        "protein": "U4-hexatoxin-Hi1a",
+        "serial": 124
+    },
+    {
+        "pdb": "1JE9",
+        "protein": "Cobrotoxin-c",
+        "serial": 125
+    },
+    {
+        "pdb": "6BL9",
+        "protein": "U-scoloptoxin(15)-Sm2a",
+        "serial": 126
+    },
+    {
+        "pdb": "2LDS",
+        "protein": "Insecticidal toxin LaIT1",
+        "serial": 127
+    },
+    {
+        "pdb": "6CNU",
+        "protein": "Beta/kappa-theraphotoxin-Cg2a",
+        "serial": 128
+    },
+    {
+        "pdb": "2LL1",
+        "protein": "U1-theraphotoxin-Sp1a",
+        "serial": 129
+    },
+    {
+        "pdb": "1SIS",
+        "protein": "Insectotoxin-I5A",
+        "serial": 130
+    },
+    {
+        "pdb": "1XGC",
+        "protein": "Alpha-conotoxin GI",
+        "serial": 131
+    },
+    {
+        "pdb": "1TXB",
+        "protein": "Long neurotoxin 2",
+        "serial": 132
+    },
+    {
+        "pdb": "5HKQ",
+        "protein": "tRNA nuclease CdiA",
+        "serial": 133
+    },
+    {
+        "pdb": "6RHV",
+        "protein": "Integrin alpha-M",
+        "serial": 134
+    },
+    {
+        "pdb": "6ENA",
+        "protein": "Nemertide alpha-1",
+        "serial": 135
+    },
+    {
+        "pdb": "6WQR",
+        "protein": "Peptide HSTX-I",
+        "serial": 136
+    },
+    {
+        "pdb": "1EYO",
+        "protein": "Conotoxin TVIIA",
+        "serial": 137
+    },
+    {
+        "pdb": "1VIB",
+        "protein": "Neurotoxin B-IV",
+        "serial": 138
+    },
+    {
+        "pdb": "1LU8",
+        "protein": "M-theraphotoxin-Gr1a",
+        "serial": 139
+    },
+    {
+        "pdb": "1AG7",
+        "protein": "Mu-conotoxin GS",
+        "serial": 140
+    },
+    {
+        "pdb": "1B3C",
+        "protein": "Beta-toxin CsEI",
+        "serial": 141
+    },
+    {
+        "pdb": "1RYV",
+        "protein": "Mu-theraphotoxin-Hhn1b 1",
+        "serial": 142
+    },
+    {
+        "pdb": "2AXK",
+        "protein": "Potassium channel toxin alpha-KTx 15.6",
+        "serial": 143
+    },
+    {
+        "pdb": "1PE4",
+        "protein": "Alpha-toxin Cn12",
+        "serial": 144
+    },
+    {
+        "pdb": "2A2V",
+        "protein": "Kappa-theraphotoxin-Cg1a 1",
+        "serial": 145
+    },
+    {
+        "pdb": "2KTC",
+        "protein": "Potassium channel toxin alpha-KTx 9.4",
+        "serial": 146
+    },
+    {
+        "pdb": "2LOC",
+        "protein": "Mu-conotoxin BuIIIB",
+        "serial": 147
+    },
+    {
+        "pdb": "2MXO",
+        "protein": "Mu-theraphotoxin-Hhn2b 1",
+        "serial": 148
+    },
+    {
+        "pdb": "2MD6",
+        "protein": "Alpha-conotoxin Lo1a",
+        "serial": 149
+    },
+    {
+        "pdb": "1V90",
+        "protein": "Delta-amaurobitoxin-Pl1a",
+        "serial": 150
+    },
+    {
+        "pdb": "1K64",
+        "protein": "Alpha-conotoxin EI",
+        "serial": 151
+    },
+    {
+        "pdb": "1N8M",
+        "protein": "Potassium channel toxin alpha-KTx 6.4",
+        "serial": 152
+    },
+    {
+        "pdb": "1B45",
+        "protein": "Alpha-conotoxin CnIA",
+        "serial": 153
+    },
+    {
+        "pdb": "1C6W",
+        "protein": "Maurocalcin",
+        "serial": 154
+    },
+    {
+        "pdb": "2I61",
+        "protein": "Beta-insect depressant toxin LqhIT2",
+        "serial": 155
+    },
+    {
+        "pdb": "4KYP",
+        "protein": "Beta-insect excitatory toxin Bj-xtrIT",
+        "serial": 156
+    },
+    {
+        "pdb": "2JP6",
+        "protein": "Potassium channel toxin alpha-KTx 18.1",
+        "serial": 157
+    },
+    {
+        "pdb": "1T7A",
+        "protein": "Alpha-like toxin BmK M1",
+        "serial": 158
+    },
+    {
+        "pdb": "1SN4",
+        "protein": "Alpha-like toxin BmK-M4",
+        "serial": 159
+    },
+    {
+        "pdb": "7BWI",
+        "protein": "Kappa-actitoxin-Ael2a",
+        "serial": 160
+    },
+    {
+        "pdb": "2SN3",
+        "protein": "Toxin CsEv3",
+        "serial": 161
+    },
+    {
+        "pdb": "1CHZ",
+        "protein": "Alpha-like toxin BmK M2",
+        "serial": 162
+    },
+    {
+        "pdb": "1VTX",
+        "protein": "Delta-hexatoxin-Hv1a",
+        "serial": 163
+    },
+    {
+        "pdb": "1SCY",
+        "protein": "Potassium channel toxin alpha-KTx 5.1",
+        "serial": 164
+    },
+    {
+        "pdb": "2EFZ",
+        "protein": "Conotoxin mr3e",
+        "serial": 165
+    },
+    {
+        "pdb": "2N1N",
+        "protein": "Kappa-theraphotoxin-Gr3a",
+        "serial": 166
+    },
+    {
+        "pdb": "6OTB",
+        "protein": "Alpha-conotoxin SII",
+        "serial": 167
+    },
+    {
+        "pdb": "1ANS",
+        "protein": "Delta-actitoxin-Avd2a",
+        "serial": 168
+    },
+    {
+        "pdb": "1M2S",
+        "protein": "Potassium channel toxin alpha-KTx 16.2",
+        "serial": 169
+    },
+    {
+        "pdb": "2AAP",
+        "protein": "U1-theraphotoxin-Cg1a 1",
+        "serial": 170
+    },
+    {
+        "pdb": "5ZNU",
+        "protein": "Omega-conotoxin Bu8",
+        "serial": 171
+    },
+    {
+        "pdb": "2MPQ",
+        "protein": "Mu-theraphotoxin-Hd1a",
+        "serial": 172
+    },
+    {
+        "pdb": "2LR9",
+        "protein": "Rho-conotoxin TIA",
+        "serial": 173
+    },
+    {
+        "pdb": "1QFB",
+        "protein": "Contryphan-R",
+        "serial": 174
+    },
+    {
+        "pdb": "1AXH",
+        "protein": "Omega-hexatoxin-Hv1a",
+        "serial": 175
+    },
+    {
+        "pdb": "1YZ2",
+        "protein": "Delta-conotoxin Am2766",
+        "serial": 176
+    },
+    {
+        "pdb": "1ZLC",
+        "protein": "Alpha-conotoxin PIA",
+        "serial": 177
+    },
+    {
+        "pdb": "1QDP",
+        "protein": "Delta-hexatoxin-Ar1a",
+        "serial": 178
+    },
+    {
+        "pdb": "1WM7",
+        "protein": "Potassium channel toxin alpha-KTx 8.2",
+        "serial": 179
+    },
+    {
+        "pdb": "2H7Z",
+        "protein": "Irditoxin subunit A",
+        "serial": 180
+    },
+    {
+        "pdb": "2YEO",
+        "protein": "Alpha-insect toxin LqhaIT",
+        "serial": 181
+    },
+    {
+        "pdb": "2YEN",
+        "protein": "Mu-conotoxin CnIIIC",
+        "serial": 182
+    },
+    {
+        "pdb": "5L34",
+        "protein": "Contryphan-Vc2",
+        "serial": 183
+    },
+    {
+        "pdb": "6MK5",
+        "protein": "Toxin GTx1-15",
+        "serial": 184
+    },
+    {
+        "pdb": "1LA4",
+        "protein": "Kappa-theraphotoxin-Scg1a",
+        "serial": 185
+    },
+    {
+        "pdb": "2K9O",
+        "protein": "Potassium channel toxin alpha-KTx 23.1",
+        "serial": 186
+    },
+    {
+        "pdb": "1TCK",
+        "protein": "Mu-conotoxin GIIIA",
+        "serial": 187
+    },
+    {
+        "pdb": "5UG5",
+        "protein": "Alpha-conotoxin GID",
+        "serial": 188
+    },
+    {
+        "pdb": "1JLO",
+        "protein": "Psi-conotoxin PIIIE",
+        "serial": 189
+    },
+    {
+        "pdb": "2KBK",
+        "protein": "Neurotoxin BmK-M10",
+        "serial": 190
+    },
+    {
+        "pdb": "1Q2J",
+        "protein": "Mu-conotoxin SmIIIA",
+        "serial": 191
+    },
+    {
+        "pdb": "5T4R",
+        "protein": "Mu-theraphotoxin-Pn3a",
+        "serial": 192
+    },
+    {
+        "pdb": "6V6T",
+        "protein": "Delta-theraphotoxin-Hm1b",
+        "serial": 193
+    },
+    {
+        "pdb": "6OHX",
+        "protein": "Delta-buthitoxin-Hj1a",
+        "serial": 194
+    },
+    {
+        "pdb": "1SNB",
+        "protein": "Alpha-mammal toxin BmK-M8",
+        "serial": 195
+    },
+    {
+        "pdb": "1QMW",
+        "protein": "Alpha-conotoxin SI",
+        "serial": 196
+    },
+    {
+        "pdb": "1WMT",
+        "protein": "Potassium channel toxin alpha-KTx 6.11",
+        "serial": 197
+    },
+    {
+        "pdb": "1LIR",
+        "protein": "Potassium channel toxin alpha-KTx 1.2",
+        "serial": 198
+    },
+    {
+        "pdb": "1T0Z",
+        "protein": "Beta-insect excitatory toxin BmK IT-AP",
+        "serial": 199
+    },
+    {
+        "pdb": "2LJM",
+        "protein": "Beta-mammal toxin Css2",
+        "serial": 200
+    },
+    {
+        "pdb": "1RMK",
+        "protein": "Mu-conotoxin MrVIB",
+        "serial": 201
+    },
+    {
+        "pdb": "1QKY",
+        "protein": "Potassium channel toxin alpha-KTx 6.5",
+        "serial": 202
+    },
+    {
+        "pdb": "1B7D",
+        "protein": "Beta-mammal/insect toxin Ts1",
+        "serial": 203
+    },
+    {
+        "pdb": "1G9P",
+        "protein": "Omega-hexatoxin-Hv2a",
+        "serial": 204
+    },
+    {
+        "pdb": "1HP2",
+        "protein": "Potassium channel toxin alpha-KTx 4.1",
+        "serial": 205
+    },
+    {
+        "pdb": "1NH5",
+        "protein": "Alpha-like toxin CsEv5",
+        "serial": 206
+    },
+    {
+        "pdb": "2KBJ",
+        "protein": "BmK AGP-SYPU2",
+        "serial": 207
+    },
+    {
+        "pdb": "1R9I",
+        "protein": "Mu-conotoxin PIIIA",
+        "serial": 208
+    },
+    {
+        "pdb": "1JLZ",
+        "protein": "Potassium channel toxin alpha-KTx 13.1",
+        "serial": 209
+    },
+    {
+        "pdb": "1LGL",
+        "protein": "Potassium channel toxin gamma-KTx 2.1",
+        "serial": 210
+    },
+    {
+        "pdb": "6ATL",
+        "protein": "Potassium channel toxin alpha-KTx 4.2",
+        "serial": 211
+    },
+    {
+        "pdb": "6CEG",
+        "protein": "Omega-conotoxin MoVIA",
+        "serial": 212
+    },
+    {
+        "pdb": "1T1T",
+        "protein": "Kurtoxin",
+        "serial": 213
+    },
+    {
+        "pdb": "1Q2K",
+        "protein": "Potassium channel toxin alpha-KTx 19.1",
+        "serial": 214
+    },
+    {
+        "pdb": "2KGU",
+        "protein": "Purotoxin-1",
+        "serial": 215
+    },
+    {
+        "pdb": "2BMT",
+        "protein": "Potassium channel toxin alpha-KTx 1.6",
+        "serial": 216
+    },
+    {
+        "pdb": "2N8H",
+        "protein": "Mu-conotoxin GVIIJ",
+        "serial": 217
+    },
+    {
+        "pdb": "1KOZ",
+        "protein": "Omega-theraphotoxin-Gr1a",
+        "serial": 218
+    },
+    {
+        "pdb": "1V4Q",
+        "protein": "Omega-conotoxin MVIIC",
+        "serial": 219
+    },
+    {
+        "pdb": "1ACW",
+        "protein": "Potassium channel toxin alpha-KTx 8.1",
+        "serial": 220
+    },
+    {
+        "pdb": "6MJD",
+        "protein": "Mu-conotoxin GIIIC",
+        "serial": 221
+    },
+    {
+        "pdb": "6MZT",
+        "protein": "Potassium channel toxin alpha-KTx 6.21",
+        "serial": 222
+    },
+    {
+        "pdb": "2I1T",
+        "protein": "Beta/kappa-theraphotoxin-Cg1a",
+        "serial": 223
+    },
+    {
+        "pdb": "2LKB",
+        "protein": "Sodium channel neurotoxin MeuNaTxalpha-5",
+        "serial": 224
+    },
+    {
+        "pdb": "1LQQ",
+        "protein": "Alpha-insect toxin Lqq3",
+        "serial": 225
+    },
+    {
+        "pdb": "5CY0",
+        "protein": "Alpha-mammal toxin Ts3",
+        "serial": 226
+    },
+    {
+        "pdb": "2JTB",
+        "protein": "Hainantoxin-III 1",
+        "serial": 227
+    },
+    {
+        "pdb": "2MEO",
+        "protein": "Potassium channel toxin alpha-KTx 5.4",
+        "serial": 228
+    },
+    {
+        "pdb": "1KV0",
+        "protein": "Alpha-like toxin BmK-M7",
+        "serial": 229
+    },
+    {
+        "pdb": "6CGX",
+        "protein": "Alpha-conotoxin Vc1a",
+        "serial": 230
+    },
+    {
+        "pdb": "6AUP",
+        "protein": "Potassium channel toxin gamma-KTx 2.2",
+        "serial": 231
+    },
+    {
+        "pdb": "1JZA",
+        "protein": "Toxin CsEv2",
+        "serial": 232
+    },
+    {
+        "pdb": "2KJA",
+        "protein": "Beta-toxin Cn5",
+        "serial": 233
+    },
+    {
+        "pdb": "1DU9",
+        "protein": "Potassium channel toxin alpha-KTx 9.1",
+        "serial": 234
+    },
+    {
+        "pdb": "1I26",
+        "protein": "Toxin Ptu1",
+        "serial": 235
+    },
+    {
+        "pdb": "1WT7",
+        "protein": "Potassium channel toxin alpha-KTx 12.1",
+        "serial": 236
+    },
+    {
+        "pdb": "3ODV",
+        "protein": "Potassium channel toxin alpha-KTx 3.1",
+        "serial": 237
+    },
+    {
+        "pdb": "1QK6",
+        "protein": "Mu/omega-theraphotoxin-Hs1a",
+        "serial": 238
+    },
+    {
+        "pdb": "6GGZ",
+        "protein": "Potassium channel toxin alpha-KTx 15.3",
+        "serial": 239
+    },
+    {
+        "pdb": "1P1P",
+        "protein": "Alpha-conotoxin PIVA",
+        "serial": 240
+    },
+    {
+        "pdb": "1BKT",
+        "protein": "Potassium channel toxin alpha-KTx 3.6",
+        "serial": 241
+    },
+    {
+        "pdb": "2PTA",
+        "protein": "Potassium channel toxin alpha-KTx 7.1",
+        "serial": 242
+    },
+    {
+        "pdb": "1EMX",
+        "protein": "Kappa-sparatoxin-Hv1b",
+        "serial": 243
+    },
+    {
+        "pdb": "1NE5",
+        "protein": "Potassium channel toxin gamma-KTx 1.1",
+        "serial": 244
+    },
+    {
+        "pdb": "2CDX",
+        "protein": "Cytotoxin 1",
+        "serial": 245
+    },
+    {
+        "pdb": "1MVJ",
+        "protein": "Omega-conotoxin SVIB",
+        "serial": 246
+    },
+    {
+        "pdb": "1TTK",
+        "protein": "Omega-conotoxin MVIIA",
+        "serial": 247
+    },
+    {
+        "pdb": "2AK0",
+        "protein": "Alpha-conotoxin MII",
+        "serial": 248
+    },
+    {
+        "pdb": "2N6O",
+        "protein": "Delta-theraphotoxin-Hm1a",
+        "serial": 249
+    },
+    {
+        "pdb": "6AY7",
+        "protein": "Potassium channel toxin alpha-KTx 3.5",
+        "serial": 250
+    },
+    {
+        "pdb": "2GCZ",
+        "protein": "Alpha-conotoxin OmIA",
+        "serial": 251
+    },
+    {
+        "pdb": "6BTV",
+        "protein": "Beta-theraphotoxin-Cm1b",
+        "serial": 252
+    },
+    {
+        "pdb": "2NDB",
+        "protein": "Omega-agatoxin-Aa4a",
+        "serial": 253
+    },
+    {
+        "pdb": "6THI",
+        "protein": "Sodium channel neurotoxin MeuNaTxalpha-1",
+        "serial": 254
+    },
+    {
+        "pdb": "4V1D",
+        "protein": "Beta-mammal toxin Cn2",
+        "serial": 255
+    },
+    {
+        "pdb": "1C49",
+        "protein": "Potassium channel toxin alpha-KTx 7.2",
+        "serial": 256
+    },
+    {
+        "pdb": "1FYG",
+        "protein": "Omega-conotoxin SO-3",
+        "serial": 257
+    },
+    {
+        "pdb": "1D1H",
+        "protein": "Kappa-theraphotoxin-Gr1a",
+        "serial": 258
+    },
+    {
+        "pdb": "1WWN",
+        "protein": "Beta-insect excitatory toxin BmKIT1",
+        "serial": 259
+    },
+    {
+        "pdb": "1HLY",
+        "protein": "Potassium channel toxin alpha-KTx 2.5",
+        "serial": 260
+    },
+    {
+        "pdb": "2M9L",
+        "protein": "Beta/omega-theraphotoxin-Tp1a",
+        "serial": 261
+    },
+    {
+        "pdb": "1G1Z",
+        "protein": "Delta-conotoxin EVIA",
+        "serial": 262
+    },
+    {
+        "pdb": "2GX1",
+        "protein": "Beta-hexatoxin-Mg1a",
+        "serial": 263
+    },
+    {
+        "pdb": "1PNH",
+        "protein": "Potassium channel toxin alpha-KTx 5.2",
+        "serial": 264
+    },
+    {
+        "pdb": "1IE6",
+        "protein": "Imperacalcin",
+        "serial": 265
+    },
+    {
+        "pdb": "1MTX",
+        "protein": "Potassium channel toxin alpha-KTx 2.2",
+        "serial": 266
+    },
+    {
+        "pdb": "1GIB",
+        "protein": "Mu-conotoxin GIIIB",
+        "serial": 267
+    },
+    {
+        "pdb": "2CCO",
+        "protein": "Omega-conotoxin GVIA",
+        "serial": 268
+    },
+    {
+        "pdb": "1F3K",
+        "protein": "Omega-conotoxin TxVII",
+        "serial": 269
+    },
+    {
+        "pdb": "2MUB",
+        "protein": "Pi-actitoxin-Ael2b",
+        "serial": 270
+    },
+    {
+        "pdb": "6VXW",
+        "protein": "Beta-toxin Cl13",
+        "serial": 271
+    },
+    {
+        "pdb": "1SXM",
+        "protein": "Potassium channel toxin alpha-KTx 2.1",
+        "serial": 272
+    },
+    {
+        "pdb": "2N8E",
+        "protein": "Kappa-conotoxin PVIIA",
+        "serial": 273
+    },
+    {
+        "pdb": "5WE3",
+        "protein": "Beta-theraphotoxin-Ps1a",
+        "serial": 274
+    },
+    {
+        "pdb": "2LU6",
+        "protein": "Mu-conotoxin BuIIIC",
+        "serial": 275
+    },
+    {
+        "pdb": "2MZG",
+        "protein": "Purotoxin-2",
+        "serial": 276
+    },
+    {
+        "pdb": "4HHF",
+        "protein": "Alpha-toxin OD1",
+        "serial": 277
+    },
+    {
+        "pdb": "1OMY",
+        "protein": "Toxin BmKaIT1",
+        "serial": 278
+    },
+    {
+        "pdb": "1AGG",
+        "protein": "Omega-agatoxin-Aa4b",
+        "serial": 279
+    },
+    {
+        "pdb": "1MXP",
+        "protein": "Alpha-conotoxin AuIB",
+        "serial": 280
+    },
+    {
+        "pdb": "1FH3",
+        "protein": "Alpha-like toxin Lqh3",
+        "serial": 281
+    },
+    {
+        "pdb": "1VNA",
+        "protein": "Toxin CsEv1",
+        "serial": 282
+    },
+    {
+        "pdb": "2N6N",
+        "protein": "U4-agatoxin-Ao1a",
+        "serial": 283
+    },
+    {
+        "pdb": "1DQ7",
+        "protein": "Neurotoxin BTN",
+        "serial": 284
+    },
+    {
+        "pdb": "5I2P",
+        "protein": "Beta/delta-theraphotoxin-Pre1a",
+        "serial": 285
+    },
+    {
+        "pdb": "5WLX",
+        "protein": "Kappa-theraphotoxin-Aa1a",
+        "serial": 286
+    },
+    {
+        "pdb": "1PQR",
+        "protein": "Alpha-conotoxin EIVA",
+        "serial": 287
+    },
+    {
+        "pdb": "2YYF",
+        "protein": "Conomarphin",
+        "serial": 288
+    },
+    {
+        "pdb": "1WM8",
+        "protein": "Potassium channel toxin alpha-KTx 9.2",
+        "serial": 289
+    },
+    {
+        "pdb": "2MXM",
+        "protein": "Mu-theraphotoxin-Tp1a",
+        "serial": 290
+    },
+    {
+        "pdb": "1NRB",
+        "protein": "Alpha-toxin CsE5",
+        "serial": 291
+    },
+    {
+        "pdb": "1QUZ",
+        "protein": "Potassium channel toxin alpha-KTx 6.3",
+        "serial": 292
+    },
+    {
+        "pdb": "1AGT",
+        "protein": "Potassium channel toxin alpha-KTx 3.2",
+        "serial": 293
+    },
+    {
+        "pdb": "5EPM",
+        "protein": "Beta-theraphotoxin-Cm1a",
+        "serial": 294
+    },
+    {
+        "pdb": "2ROO",
+        "protein": "Delta-hexatoxin-Mg1a",
+        "serial": 295
+    },
+    {
+        "pdb": "1DFZ",
+        "protein": "Contryphan-Sm",
+        "serial": 296
+    },
+    {
+        "pdb": "6AVD",
+        "protein": "Potassium channel toxin alpha-KTx 6.9",
+        "serial": 297
+    },
+    {
+        "pdb": "1LMR",
+        "protein": "Toxin Ado1",
+        "serial": 298
+    },
+    {
+        "pdb": "2L38",
+        "protein": "DELTA-stichotoxin-She4b",
+        "serial": 299
+    },
+    {
+        "pdb": "5GWF",
+        "protein": "DELTA-actitoxin-Afr1a",
+        "serial": 300
+    },
+    {
+        "pdb": "6A95",
+        "protein": "Sodium channel protein PaFPC1",
+        "serial": 301
+    },
+    {
+        "pdb": "1ECI",
+        "protein": "Omega/M-ectatotoxin-Et1a subunit A",
+        "serial": 302
+    },
+    {
+        "pdb": "6HY7",
+        "protein": "Alpha-conotoxin RgIA",
+        "serial": 303
+    },
+    {
+        "pdb": "6J8E",
+        "protein": "Sodium channel subunit beta-2",
+        "serial": 304
+    },
+    {
+        "pdb": "5CO5",
+        "protein": "Alpha-conotoxin GIC",
+        "serial": 305
+    },
+    {
+        "pdb": "4CHG",
+        "protein": "Ribonuclease VapC15",
+        "serial": 306
+    },
+    {
+        "pdb": "4K09",
+        "protein": "Basic phospholipase A2 homolog 2",
+        "serial": 307
+    },
+    {
+        "pdb": "5TBR",
+        "protein": "Conantokin Rl-B",
+        "serial": 308
+    },
+    {
+        "pdb": "1MC2",
+        "protein": "Basic phospholipase A2 homolog acutohaemolysin",
+        "serial": 309
+    },
+    {
+        "pdb": "6DIK",
+        "protein": "Basic phospholipase A2 homolog bothropstoxin-I",
+        "serial": 310
+    },
+    {
+        "pdb": "3CYL",
+        "protein": "Basic phospholipase A2 homolog piratoxin-2",
+        "serial": 311
+    },
+    {
+        "pdb": "1TER",
+        "protein": "Tertiapin",
+        "serial": 312
+    },
+    {
+        "pdb": "1CIY",
+        "protein": "Pesticidal crystal protein Cry1Aa",
+        "serial": 313
+    }
+]

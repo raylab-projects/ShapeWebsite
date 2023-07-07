@@ -1,82 +1,3761 @@
 [
     {
-        "serial": 1,
         "pdb": "6MDP",
         "protein": "Vesicle-fusing ATPase",
-        "files": "heyo",
-        "crosses": 317,
+        "serial": 1,
+        "crosses": "317",
         "type": "Poly"
     },
     {
-        "serial": 2,
         "pdb": "3EBQ",
         "protein": "Desumoylating isopeptidase 1",
-        "files": "heyo",
+        "serial": 2,
         "crosses": "142",
-        "type": "Poly"
+        "type": "Single"
     },
     {
-        "serial": 3,
         "pdb": "2IBI",
         "protein": "Ubiquitin carboxyl-terminal hydrolase 2",
-        "files": "heyo",
+        "serial": 3,
         "crosses": "275",
         "type": "Poly"
     },
     {
-        "serial": 4,
         "pdb": "2AAO",
         "protein": "Calcium-dependent protein kinase 1",
-        "files": "heyo",
+        "serial": 4,
         "crosses": "209",
         "type": "Poly"
     },
     {
-        "serial": 5,
         "pdb": "6F8F",
         "protein": "Speckle-type POZ protein",
-        "files": "heyo",
+        "serial": 5,
         "crosses": "39",
         "type": "Poly"
     },
     {
-        "serial": 6,
         "pdb": "6NPF",
         "protein": "Enolase",
-        "files": "heyo",
+        "serial": 6,
         "crosses": "323",
         "type": "Poly"
     },
     {
-        "serial": 7,
         "pdb": "3VMM",
         "protein": "Alanine--anticapsin ligase",
-        "files": "heyo",
+        "serial": 7,
         "crosses": "130",
-        "type": "Poly"
+        "type": "Single"
     },
     {
-        "serial": 8,
         "pdb": "6ZEH",
         "protein": "Serine/threonine-protein phosphatase PP1-alpha catalytic subunit",
-        "files": "heyo",
+        "serial": 8,
         "crosses": "351",
         "type": "Poly"
     },
     {
-        "serial": 9,
         "pdb": "3TX8",
         "protein": "Succinyl-diaminopimelate desuccinylase",
-        "files": "heyo",
+        "serial": 9,
         "crosses": "142",
+        "type": "Single"
+    },
+    {
+        "pdb": "2C4J",
+        "protein": "Glutathione S-transferase Mu 2",
+        "serial": 10,
+        "crosses": "346",
         "type": "Poly"
     },
     {
-        "serial": 10,
-        "pdb": "2C4J",
-        "protein": "Glutathione S-transferase Mu 2",
-        "files": "heyo",
+        "pdb": "5LBK",
+        "protein": "Copper-transporting ATPase PAA2, chloroplastic",
+        "serial": 11,
+        "crosses": "185",
+        "type": "Poly"
+    },
+    {
+        "pdb": "7C8D",
+        "protein": "Spike glycoprotein",
+        "serial": 12,
+        "crosses": "345",
+        "type": "Poly"
+    },
+    {
+        "pdb": "2I0E",
+        "protein": "Protein kinase C beta type",
+        "serial": 13,
+        "crosses": "352",
+        "type": "Poly"
+    },
+    {
+        "pdb": "4YH7",
+        "protein": "Interleukin-1 receptor accessory protein-like 1",
+        "serial": 14,
+        "crosses": "326",
+        "type": "Poly"
+    },
+    {
+        "pdb": "2G62",
+        "protein": "Serine/threonine-protein phosphatase 2A activator",
+        "serial": 15,
+        "crosses": "153",
+        "type": "Single"
+    },
+    {
+        "pdb": "2ZVA",
+        "protein": "Tyrosine-protein kinase Lyn",
+        "serial": 16,
+        "crosses": "150",
+        "type": "Single"
+    },
+    {
+        "pdb": "6RK9",
+        "protein": "Coagulation factor X",
+        "serial": 17,
+        "crosses": "344",
+        "type": "Poly"
+    },
+    {
+        "pdb": "2A97",
+        "protein": "Botulinum neurotoxin type F",
+        "serial": 18,
+        "crosses": "347",
+        "type": "Poly"
+    },
+    {
+        "pdb": "4JAX",
+        "protein": "Hexokinase",
+        "serial": 19,
+        "crosses": "313",
+        "type": "Poly"
+    },
+    {
+        "pdb": "4K2M",
+        "protein": "3-oxo-glucose-6-phosphate:glutamate aminotransferase",
+        "serial": 20,
+        "crosses": "347",
+        "type": "Poly"
+    },
+    {
+        "pdb": "3N57",
+        "protein": "Natriuretic peptides A",
+        "serial": 21,
+        "crosses": "323",
+        "type": "Poly"
+    },
+    {
+        "pdb": "4CHB",
+        "protein": "Kelch-like protein 2",
+        "serial": 22,
+        "crosses": "354",
+        "type": "Poly"
+    },
+    {
+        "pdb": "6QO0",
+        "protein": "Sulfur oxygenase/reductase",
+        "serial": 23,
+        "crosses": "340",
+        "type": "Poly"
+    },
+    {
+        "pdb": "2AJ0",
+        "protein": "Probable cadmium-transporting ATPase",
+        "serial": 24,
+        "crosses": "48",
+        "type": "Single"
+    },
+    {
+        "pdb": "5IIQ",
+        "protein": "Vacuolar transporter chaperone complex subunit 4",
+        "serial": 25,
+        "crosses": "107",
+        "type": "Single"
+    },
+    {
+        "pdb": "4BKF",
+        "protein": "Ephrin type-A receptor 4",
+        "serial": 26,
+        "crosses": "320",
+        "type": "Poly"
+    },
+    {
+        "pdb": "4ZHT",
+        "protein": "Bifunctional UDP-N-acetylglucosamine 2-epimerase/N-acetylmannosamine kinase",
+        "serial": 27,
+        "crosses": "329",
+        "type": "Poly"
+    },
+    {
+        "pdb": "5JJS",
+        "protein": "Genome polyprotein",
+        "serial": 28,
+        "crosses": "104",
+        "type": "Single"
+    },
+    {
+        "pdb": "4U9S",
+        "protein": "Na(+)-translocating NADH-quinone reductase subunit C",
+        "serial": 29,
+        "crosses": "141",
+        "type": "Single"
+    },
+    {
+        "pdb": "1LUF",
+        "protein": "Muscle, skeletal receptor tyrosine protein kinase",
+        "serial": 30,
+        "crosses": "151",
+        "type": "Single"
+    },
+    {
+        "pdb": "3HDN",
+        "protein": "Serine/threonine-protein kinase Sgk1",
+        "serial": 31,
+        "crosses": "153",
+        "type": "Single"
+    },
+    {
+        "pdb": "1GOD",
+        "protein": "Basic phospholipase A2 homolog GodMT-II",
+        "serial": 32,
+        "crosses": "86",
+        "type": "Single"
+    },
+    {
+        "pdb": "3QXS",
+        "protein": "ATP-dependent dethiobiotin synthetase BioD",
+        "serial": 33,
+        "crosses": "150",
+        "type": "Single"
+    },
+    {
+        "pdb": "3EVG",
+        "protein": "Genome polyprotein",
+        "serial": 34,
+        "crosses": "149",
+        "type": "Single"
+    },
+    {
+        "pdb": "3UPI",
+        "protein": "Genome polyprotein",
+        "serial": 35,
+        "crosses": "345",
+        "type": "Poly"
+    },
+    {
+        "pdb": "5HMA",
+        "protein": "Probable membrane transporter protein MamO",
+        "serial": 36,
+        "crosses": "73",
+        "type": "Poly"
+    },
+    {
+        "pdb": "2ZJO",
+        "protein": "Genome polyprotein",
+        "serial": 37,
+        "crosses": "133",
+        "type": "Single"
+    },
+    {
+        "pdb": "2B69",
+        "protein": "UDP-glucuronic acid decarboxylase 1",
+        "serial": 38,
+        "crosses": "149",
+        "type": "Single"
+    },
+    {
+        "pdb": "3HVQ",
+        "protein": "Neurabin-1",
+        "serial": 39,
+        "crosses": "347",
+        "type": "Poly"
+    },
+    {
+        "pdb": "2C0Y",
+        "protein": "Cathepsin S",
+        "serial": 40,
+        "crosses": "148",
+        "type": "Single"
+    },
+    {
+        "pdb": "4UMW",
+        "protein": "Zinc/cadmium/lead-transporting P-type ATPase",
+        "serial": 41,
+        "crosses": "111",
+        "type": "Single"
+    },
+    {
+        "pdb": "6V9I",
+        "protein": "Immunoglobulin G-binding protein G",
+        "serial": 42,
+        "crosses": "345",
+        "type": "Poly"
+    },
+    {
+        "pdb": "4ADP",
+        "protein": "Genome polyprotein",
+        "serial": 43,
+        "crosses": "133",
+        "type": "Single"
+    },
+    {
+        "pdb": "1T6I",
+        "protein": "Superoxide dismutase [Ni]",
+        "serial": 44,
+        "crosses": "354",
+        "type": "Poly"
+    },
+    {
+        "pdb": "6TTK",
+        "protein": "Segment polarity protein dishevelled homolog DVL-1",
+        "serial": 45,
+        "crosses": "341",
+        "type": "Poly"
+    },
+    {
+        "pdb": "4MJN",
+        "protein": "ATP synthase subunit c, chloroplastic",
+        "serial": 46,
+        "crosses": "345",
+        "type": "Poly"
+    },
+    {
+        "pdb": "3SKX",
+        "protein": "Copper-exporting P-type ATPase B",
+        "serial": 47,
+        "crosses": "147",
+        "type": "Single"
+    },
+    {
+        "pdb": "1ZO0",
+        "protein": "Ornithine decarboxylase antizyme 1",
+        "serial": 48,
+        "crosses": "126",
+        "type": "Single"
+    },
+    {
+        "pdb": "3M7F",
+        "protein": "E3 ubiquitin-protein ligase NEDD4",
+        "serial": 49,
+        "crosses": "354",
+        "type": "Poly"
+    },
+    {
+        "pdb": "4RPV",
+        "protein": "Serine/threonine-protein kinase pim-1",
+        "serial": 50,
+        "crosses": "152",
+        "type": "Single"
+    },
+    {
+        "pdb": "6TMY",
+        "protein": "Phospholipase A2 crotoxin basic subunit CBd",
+        "serial": 51,
+        "crosses": "344",
+        "type": "Poly"
+    },
+    {
+        "pdb": "3KYD",
+        "protein": "Small ubiquitin-related modifier 1",
+        "serial": 52,
+        "crosses": "347",
+        "type": "Poly"
+    },
+    {
+        "pdb": "2V4J",
+        "protein": "Sulfite reductase, dissimilatory-type subunit gamma",
+        "serial": 53,
+        "crosses": "337",
+        "type": "Poly"
+    },
+    {
+        "pdb": "3WHI",
+        "protein": "Subtilisin E",
+        "serial": 54,
+        "crosses": "354",
+        "type": "Poly"
+    },
+    {
+        "pdb": "6HOZ",
+        "protein": "ADP-ribosylhydrolase ARH3",
+        "serial": 55,
+        "crosses": "354",
+        "type": "Poly"
+    },
+    {
+        "pdb": "3TAU",
+        "protein": "Guanylate kinase",
+        "serial": 56,
+        "crosses": "357",
+        "type": "Poly"
+    },
+    {
+        "pdb": "3PNB",
+        "protein": "Phosphopantetheine adenylyltransferase",
+        "serial": 57,
+        "crosses": "348",
+        "type": "Poly"
+    },
+    {
+        "pdb": "2ZL4",
+        "protein": "ATP-dependent Clp protease proteolytic subunit",
+        "serial": 58,
+        "crosses": "317",
+        "type": "Poly"
+    },
+    {
+        "pdb": "1TG6",
+        "protein": "ATP-dependent Clp protease proteolytic subunit, mitochondrial",
+        "serial": 59,
+        "crosses": "341",
+        "type": "Poly"
+    },
+    {
+        "pdb": "1S96",
+        "protein": "Guanylate kinase",
+        "serial": 60,
+        "crosses": "354",
+        "type": "Poly"
+    },
+    {
+        "pdb": "4CH9",
+        "protein": "Serine/threonine-protein kinase WNK4",
+        "serial": 61,
+        "crosses": "355",
+        "type": "Poly"
+    },
+    {
+        "pdb": "4CZU",
+        "protein": "CBL-interacting serine/threonine-protein kinase 23",
+        "serial": 62,
+        "crosses": "343",
+        "type": "Poly"
+    },
+    {
+        "pdb": "1PPA",
+        "protein": "Basic phospholipase A2 homolog AppP2",
+        "serial": 63,
+        "crosses": "84",
+        "type": "Single"
+    },
+    {
+        "pdb": "3AZC",
+        "protein": "Cytochrome b6-f complex iron-sulfur subunit",
+        "serial": 64,
+        "crosses": "61",
+        "type": "Single"
+    },
+    {
+        "pdb": "3GYX",
+        "protein": "Adenylylsulfate reductase subunit alpha",
+        "serial": 65,
+        "crosses": "307",
+        "type": "Poly"
+    },
+    {
+        "pdb": "4TOT",
+        "protein": "Peptidyl-prolyl cis-trans isomerase F, mitochondrial",
+        "serial": 66,
+        "crosses": "350",
+        "type": "Poly"
+    },
+    {
+        "pdb": "4DCF",
+        "protein": "Basic phospholipase A2 homolog 2",
+        "serial": 67,
+        "crosses": "353",
+        "type": "Poly"
+    },
+    {
+        "pdb": "5D9H",
+        "protein": "STE20/SPS1-related proline-alanine-rich protein kinase",
+        "serial": 68,
+        "crosses": "354",
+        "type": "Poly"
+    },
+    {
+        "pdb": "5HU3",
+        "protein": "Calcium/calmodulin-dependent protein kinase type II alpha chain",
+        "serial": 69,
+        "crosses": "160",
+        "type": "Poly"
+    },
+    {
+        "pdb": "1TEV",
+        "protein": "UMP-CMP kinase",
+        "serial": 70,
+        "crosses": "141",
+        "type": "Single"
+    },
+    {
+        "pdb": "4UCH",
+        "protein": "Nitric oxide synthase, brain",
+        "serial": 71,
+        "crosses": "347",
+        "type": "Poly"
+    },
+    {
+        "pdb": "5LOL",
+        "protein": "Glutathione S-transferase DHAR2",
+        "serial": 72,
+        "crosses": "146",
+        "type": "Single"
+    },
+    {
+        "pdb": "2E5Y",
+        "protein": "ATP synthase epsilon chain",
+        "serial": 73,
+        "crosses": "349",
+        "type": "Poly"
+    },
+    {
+        "pdb": "6Q45",
+        "protein": "ATP synthase subunit alpha",
+        "serial": 74,
+        "crosses": "304",
+        "type": "Poly"
+    },
+    {
+        "pdb": "3HVO",
+        "protein": "Genome polyprotein",
+        "serial": 75,
+        "crosses": "336",
+        "type": "Poly"
+    },
+    {
+        "pdb": "2OSH",
+        "protein": "Acidic phospholipase A2 natratoxin",
+        "serial": 76,
+        "crosses": "56",
+        "type": "Single"
+    },
+    {
+        "pdb": "1Q3I",
+        "protein": "Sodium/potassium-transporting ATPase subunit alpha-2",
+        "serial": 77,
+        "crosses": "131",
+        "type": "Single"
+    },
+    {
+        "pdb": "1WR7",
+        "protein": "E3 ubiquitin-protein ligase NEDD4-like",
+        "serial": 78,
+        "crosses": "48",
+        "type": "Single"
+    },
+    {
+        "pdb": "5VFN",
+        "protein": "Basic phospholipase A2 homolog BnSP-7",
+        "serial": 79,
+        "crosses": "229",
+        "type": "Poly"
+    },
+    {
+        "pdb": "3A1F",
+        "protein": "Cytochrome b-245 heavy chain",
+        "serial": 80,
+        "crosses": "99",
+        "type": "Single"
+    },
+    {
+        "pdb": "3FFZ",
+        "protein": "Botulinum neurotoxin type E",
+        "serial": 81,
+        "crosses": "317",
+        "type": "Poly"
+    },
+    {
+        "pdb": "1GMZ",
+        "protein": "Basic phospholipase A2 homolog piratoxin-3",
+        "serial": 82,
+        "crosses": "248",
+        "type": "Poly"
+    },
+    {
+        "pdb": "3HKW",
+        "protein": "Genome polyprotein",
+        "serial": 83,
+        "crosses": "326",
+        "type": "Poly"
+    },
+    {
+        "pdb": "6DU2",
+        "protein": "protein-serine/threonine phosphatase",
+        "serial": 84,
+        "crosses": "350",
+        "type": "Poly"
+    },
+    {
+        "pdb": "2Z6D",
+        "protein": "Phototropin-2",
+        "serial": 85,
+        "crosses": "101",
+        "type": "Poly"
+    },
+    {
+        "pdb": "2I0U",
+        "protein": "Basic phospholipase A2 chain HDP-1P",
+        "serial": 86,
+        "crosses": "241",
+        "type": "Poly"
+    },
+    {
+        "pdb": "2DQ7",
+        "protein": "Tyrosine-protein kinase Fyn",
+        "serial": 87,
+        "crosses": "148",
+        "type": "Single"
+    },
+    {
+        "pdb": "1X7P",
+        "protein": "23S rRNA (uridine(2479)-2'-O)-methyltransferase",
+        "serial": 88,
+        "crosses": "354",
+        "type": "Poly"
+    },
+    {
+        "pdb": "5BQN",
+        "protein": "Botulinum neurotoxin type D",
+        "serial": 89,
+        "crosses": "118",
+        "type": "Single"
+    },
+    {
+        "pdb": "2R9V",
+        "protein": "ATP synthase subunit alpha",
+        "serial": 90,
+        "crosses": "120",
+        "type": "Single"
+    },
+    {
+        "pdb": "1P5Q",
+        "protein": "Peptidyl-prolyl cis-trans isomerase FKBP4",
+        "serial": 91,
+        "crosses": "337",
+        "type": "Poly"
+    },
+    {
+        "pdb": "5HFU",
+        "protein": "Hexokinase-2",
+        "serial": 92,
+        "crosses": "323",
+        "type": "Poly"
+    },
+    {
+        "pdb": "3TR0",
+        "protein": "Guanylate kinase",
+        "serial": 93,
+        "crosses": "149",
+        "type": "Single"
+    },
+    {
+        "pdb": "2CXV",
+        "protein": "Genome polyprotein",
+        "serial": 94,
+        "crosses": "103",
+        "type": "Single"
+    },
+    {
+        "pdb": "2ONI",
+        "protein": "E3 ubiquitin-protein ligase NEDD4-like",
+        "serial": 95,
+        "crosses": "133",
+        "type": "Single"
+    },
+    {
+        "pdb": "2ROP",
+        "protein": "Copper-transporting ATPase 2",
+        "serial": 96,
+        "crosses": "149",
+        "type": "Single"
+    },
+    {
+        "pdb": "6KMN",
+        "protein": "Deferrochelatase",
+        "serial": 97,
+        "crosses": "338",
+        "type": "Poly"
+    },
+    {
+        "pdb": "5LBD",
+        "protein": "Copper-transporting ATPase PAA1, chloroplastic",
+        "serial": 98,
+        "crosses": "209",
+        "type": "Poly"
+    },
+    {
+        "pdb": "2CJQ",
+        "protein": "Genome polyprotein",
+        "serial": 99,
+        "crosses": "127",
+        "type": "Single"
+    },
+    {
+        "pdb": "5JBN",
+        "protein": "Phosphopantetheine adenylyltransferase",
+        "serial": 100,
+        "crosses": "246",
+        "type": "Poly"
+    },
+    {
+        "pdb": "2RQ0",
+        "protein": "Prostaglandin-H2 D-isomerase",
+        "serial": 101,
+        "crosses": "148",
+        "type": "Single"
+    },
+    {
+        "pdb": "2ABH",
+        "protein": "Phosphate-binding protein PstS",
+        "serial": 102,
+        "crosses": "147",
+        "type": "Single"
+    },
+    {
+        "pdb": "4BYG",
+        "protein": "Copper-exporting P-type ATPase",
+        "serial": 103,
+        "crosses": "111",
+        "type": "Single"
+    },
+    {
+        "pdb": "6VFX",
+        "protein": "ATP-dependent Clp protease ATP-binding subunit ClpX",
+        "serial": 104,
+        "crosses": "313",
+        "type": "Poly"
+    },
+    {
+        "pdb": "6J1Z",
+        "protein": "NEDD4-like E3 ubiquitin-protein ligase WWP2",
+        "serial": 105,
+        "crosses": "138",
+        "type": "Single"
+    },
+    {
+        "pdb": "2H8H",
+        "protein": "Proto-oncogene tyrosine-protein kinase Src",
+        "serial": 106,
+        "crosses": "128",
+        "type": "Single"
+    },
+    {
+        "pdb": "2XH5",
+        "protein": "RAC-beta serine/threonine-protein kinase",
+        "serial": 107,
+        "crosses": "240",
+        "type": "Poly"
+    },
+    {
+        "pdb": "3GHN",
+        "protein": "A disintegrin and metalloproteinase with thrombospondin motifs 13",
+        "serial": 108,
+        "crosses": "128",
+        "type": "Single"
+    },
+    {
+        "pdb": "6EJ8",
+        "protein": "Protein AMBP",
+        "serial": 109,
+        "crosses": "351",
+        "type": "Poly"
+    },
+    {
+        "pdb": "1XHK",
+        "protein": "Archaeal Lon protease",
+        "serial": 110,
+        "crosses": "302",
+        "type": "Poly"
+    },
+    {
+        "pdb": "3BB1",
+        "protein": "Translocase of chloroplast 34",
+        "serial": 111,
+        "crosses": "315",
+        "type": "Poly"
+    },
+    {
+        "pdb": "1XFB",
+        "protein": "Fructose-bisphosphate aldolase C",
+        "serial": 112,
+        "crosses": "313",
+        "type": "Poly"
+    },
+    {
+        "pdb": "2OFG",
+        "protein": "Zinc-transporting ATPase",
+        "serial": 113,
+        "crosses": "114",
+        "type": "Single"
+    },
+    {
+        "pdb": "4N0G",
+        "protein": "Protein phosphatase 2C 37",
+        "serial": 114,
+        "crosses": "344",
+        "type": "Poly"
+    },
+    {
+        "pdb": "4QUM",
+        "protein": "Tyrosine-protein phosphatase non-receptor type 3",
+        "serial": 115,
+        "crosses": "201",
+        "type": "Poly"
+    },
+    {
+        "pdb": "5WE8",
+        "protein": "Serine/threonine-protein kinase WNK1",
+        "serial": 116,
+        "crosses": "348",
+        "type": "Poly"
+    },
+    {
+        "pdb": "5W1T",
+        "protein": "RNA polymerase sigma factor RpoD",
+        "serial": 117,
+        "crosses": "295",
+        "type": "Poly"
+    },
+    {
+        "pdb": "3SOM",
+        "protein": "Cyanocobalamin reductase / alkylcobalamin dealkylase",
+        "serial": 118,
+        "crosses": "313",
+        "type": "Poly"
+    },
+    {
+        "pdb": "3SZG",
+        "protein": "Glutamine-dependent NAD(+) synthetase",
+        "serial": 119,
+        "crosses": "323",
+        "type": "Poly"
+    },
+    {
+        "pdb": "3UJZ",
+        "protein": "Metalloprotease StcE",
+        "serial": 120,
+        "crosses": "126",
+        "type": "Single"
+    },
+    {
+        "pdb": "6NMP",
+        "protein": "Cytochrome c oxidase subunit 1",
+        "serial": 121,
+        "crosses": "313",
+        "type": "Poly"
+    },
+    {
+        "pdb": "2XBF",
+        "protein": "E3 ubiquitin-protein ligase NEDD4",
+        "serial": 122,
+        "crosses": "133",
+        "type": "Single"
+    },
+    {
+        "pdb": "6U3X",
+        "protein": "Proprotein convertase subtilisin/kexin type 9",
+        "serial": 123,
+        "crosses": "354",
+        "type": "Poly"
+    },
+    {
+        "pdb": "4JA7",
+        "protein": "Serine/threonine-protein phosphatase 5",
+        "serial": 124,
+        "crosses": "134",
+        "type": "Single"
+    },
+    {
+        "pdb": "2HC9",
+        "protein": "Leucine aminopeptidase 1",
+        "serial": 125,
+        "crosses": "135",
+        "type": "Single"
+    },
+    {
+        "pdb": "4X7Q",
+        "protein": "Serine/threonine-protein kinase pim-2",
+        "serial": 126,
+        "crosses": "354",
+        "type": "Poly"
+    },
+    {
+        "pdb": "6BAB",
+        "protein": "Calcium/calmodulin-dependent protein kinase type II subunit delta",
+        "serial": 127,
+        "crosses": "340",
+        "type": "Poly"
+    },
+    {
+        "pdb": "1Z8R",
+        "protein": "Genome polyprotein",
+        "serial": 128,
+        "crosses": "109",
+        "type": "Single"
+    },
+    {
+        "pdb": "4Q4L",
+        "protein": "ATP synthase subunit beta 1",
+        "serial": 129,
+        "crosses": "130",
+        "type": "Single"
+    },
+    {
+        "pdb": "2WZQ",
+        "protein": "Genome polyprotein",
+        "serial": 130,
+        "crosses": "354",
+        "type": "Poly"
+    },
+    {
+        "pdb": "2HDA",
+        "protein": "Tyrosine-protein kinase Yes",
+        "serial": 131,
+        "crosses": "1",
+        "type": "Single"
+    },
+    {
+        "pdb": "3ZUU",
+        "protein": "Serine/threonine-protein kinase SRK2E",
+        "serial": 132,
+        "crosses": "347",
+        "type": "Poly"
+    },
+    {
+        "pdb": "4B6F",
+        "protein": "Genome polyprotein",
+        "serial": 133,
+        "crosses": "343",
+        "type": "Poly"
+    },
+    {
+        "pdb": "5DRB",
+        "protein": "Serine/threonine-protein kinase WNK1",
+        "serial": 134,
+        "crosses": "151",
+        "type": "Single"
+    },
+    {
+        "pdb": "7KSM",
+        "protein": "Lon protease homolog, mitochondrial",
+        "serial": 135,
+        "crosses": "317",
+        "type": "Poly"
+    },
+    {
+        "pdb": "6LNM",
+        "protein": "Amyloid-beta A4 precursor protein-binding family A member 1",
+        "serial": 136,
+        "crosses": "328",
+        "type": "Poly"
+    },
+    {
+        "pdb": "5W4S",
+        "protein": "Protein kinase C alpha type",
+        "serial": 137,
+        "crosses": "49",
+        "type": "Poly"
+    },
+    {
+        "pdb": "5ELG",
+        "protein": "Glutathione S-transferase DHAR1, mitochondrial",
+        "serial": 138,
+        "crosses": "149",
+        "type": "Single"
+    },
+    {
+        "pdb": "1SKY",
+        "protein": "ATP synthase subunit beta",
+        "serial": 139,
+        "crosses": "345",
+        "type": "Poly"
+    },
+    {
+        "pdb": "4IN5",
+        "protein": "Reaction center protein H chain",
+        "serial": 140,
+        "crosses": "347",
+        "type": "Poly"
+    },
+    {
+        "pdb": "3PFQ",
+        "protein": "Protein kinase C beta type",
+        "serial": 141,
+        "crosses": "118",
+        "type": "Single"
+    },
+    {
+        "pdb": "1Z0W",
+        "protein": "Archaeal Lon protease",
+        "serial": 142,
+        "crosses": "115",
+        "type": "Single"
+    },
+    {
+        "pdb": "1ZPU",
+        "protein": "Iron transport multicopper oxidase FET3",
+        "serial": 143,
+        "crosses": "314",
+        "type": "Poly"
+    },
+    {
+        "pdb": "5Z91",
+        "protein": "Ferritin, mitochondrial",
+        "serial": 144,
+        "crosses": "138",
+        "type": "Single"
+    },
+    {
+        "pdb": "6P6Z",
+        "protein": "Genome polyprotein",
+        "serial": 145,
+        "crosses": "97",
+        "type": "Single"
+    },
+    {
+        "pdb": "5GOU",
+        "protein": "Ferritin heavy chain",
+        "serial": 146,
+        "crosses": "317",
+        "type": "Poly"
+    },
+    {
+        "pdb": "1CM8",
+        "protein": "Mitogen-activated protein kinase 12",
+        "serial": 147,
+        "crosses": "349",
+        "type": "Poly"
+    },
+    {
+        "pdb": "1Y4L",
+        "protein": "Basic phospholipase A2 homolog 2",
+        "serial": 148,
+        "crosses": "177",
+        "type": "Poly"
+    },
+    {
+        "pdb": "3UNO",
+        "protein": "Bacterioferritin BfrB",
+        "serial": 149,
+        "crosses": "305",
+        "type": "Poly"
+    },
+    {
+        "pdb": "6TTZ",
+        "protein": "ATP-dependent Clp protease proteolytic subunit",
+        "serial": 150,
+        "crosses": "340",
+        "type": "Poly"
+    },
+    {
+        "pdb": "4MVT",
+        "protein": "E3 SUMO-protein ligase PIAS3",
+        "serial": 151,
+        "crosses": "328",
+        "type": "Poly"
+    },
+    {
+        "pdb": "1Y0V",
+        "protein": "Calmodulin-1",
+        "serial": 152,
+        "crosses": "292",
+        "type": "Poly"
+    },
+    {
+        "pdb": "5DN6",
+        "protein": "DUF1476 domain-containing protein",
+        "serial": 153,
+        "crosses": "309",
+        "type": "Poly"
+    },
+    {
+        "pdb": "5I35",
+        "protein": "Atypical kinase COQ8A, mitochondrial",
+        "serial": 154,
+        "crosses": "139",
+        "type": "Single"
+    },
+    {
+        "pdb": "1I5H",
+        "protein": "Amiloride-sensitive sodium channel subunit beta",
+        "serial": 155,
+        "crosses": "49",
+        "type": "Poly"
+    },
+    {
+        "pdb": "2J41",
+        "protein": "Guanylate kinase",
+        "serial": 156,
+        "crosses": "348",
+        "type": "Poly"
+    },
+    {
+        "pdb": "2BDW",
+        "protein": "Calcium/calmodulin-dependent protein kinase type II",
+        "serial": 157,
+        "crosses": "352",
+        "type": "Poly"
+    },
+    {
+        "pdb": "1TRB",
+        "protein": "Thioredoxin reductase",
+        "serial": 158,
+        "crosses": "146",
+        "type": "Single"
+    },
+    {
+        "pdb": "1LVG",
+        "protein": "Guanylate kinase",
+        "serial": 159,
+        "crosses": "131",
+        "type": "Single"
+    },
+    {
+        "pdb": "5LIH",
+        "protein": "Protein kinase C iota type",
+        "serial": 160,
+        "crosses": "350",
+        "type": "Poly"
+    },
+    {
+        "pdb": "1XR6",
+        "protein": "Genome polyprotein",
+        "serial": 161,
+        "crosses": "133",
+        "type": "Single"
+    },
+    {
+        "pdb": "4V0R",
+        "protein": "Genome polyprotein",
+        "serial": 162,
+        "crosses": "99",
+        "type": "Single"
+    },
+    {
+        "pdb": "2YQP",
+        "protein": "Probable ATP-dependent RNA helicase DDX59",
+        "serial": 163,
+        "crosses": "139",
+        "type": "Single"
+    },
+    {
+        "pdb": "1GMI",
+        "protein": "Protein kinase C epsilon type",
+        "serial": 164,
+        "crosses": "127",
+        "type": "Single"
+    },
+    {
+        "pdb": "3CRR",
+        "protein": "tRNA dimethylallyltransferase",
+        "serial": 165,
+        "crosses": "149",
+        "type": "Single"
+    },
+    {
+        "pdb": "5GRB",
+        "protein": "Genome polyprotein",
+        "serial": 166,
+        "crosses": "332",
+        "type": "Poly"
+    },
+    {
+        "pdb": "3FQL",
+        "protein": "Genome polyprotein",
+        "serial": 167,
+        "crosses": "133",
+        "type": "Single"
+    },
+    {
+        "pdb": "5VZJ",
+        "protein": "Exosome complex component RRP43",
+        "serial": 168,
+        "crosses": "314",
+        "type": "Poly"
+    },
+    {
+        "pdb": "5AJP",
+        "protein": "Mucin-5AC",
+        "serial": 169,
+        "crosses": "357",
+        "type": "Poly"
+    },
+    {
+        "pdb": "4AZV",
+        "protein": "O-antigen chain terminator bifunctional methyltransferase/kinase WbdD",
+        "serial": 170,
+        "crosses": "128",
+        "type": "Single"
+    },
+    {
+        "pdb": "1ROU",
+        "protein": "Peptidyl-prolyl cis-trans isomerase FKBP4",
+        "serial": 171,
+        "crosses": "86",
+        "type": "Single"
+    },
+    {
+        "pdb": "6NUI",
+        "protein": "Guanylate kinase",
+        "serial": 172,
+        "crosses": "150",
+        "type": "Single"
+    },
+    {
+        "pdb": "3GYG",
+        "protein": "Kanosamine-6-phosphate phosphatase",
+        "serial": 173,
+        "crosses": "345",
+        "type": "Poly"
+    },
+    {
+        "pdb": "1FX0",
+        "protein": "ATP synthase subunit beta, chloroplastic",
+        "serial": 174,
+        "crosses": "347",
+        "type": "Poly"
+    },
+    {
+        "pdb": "5CCV",
+        "protein": "Genome polyprotein",
+        "serial": 175,
+        "crosses": "305",
+        "type": "Poly"
+    },
+    {
+        "pdb": "4E1G",
+        "protein": "Prostaglandin G/H synthase 2",
+        "serial": 176,
+        "crosses": "347",
+        "type": "Poly"
+    },
+    {
+        "pdb": "5ZX5",
+        "protein": "Transient receptor potential cation channel subfamily M member 7",
+        "serial": 177,
+        "crosses": "298",
+        "type": "Poly"
+    },
+    {
+        "pdb": "3WNW",
+        "protein": "Ferritin heavy chain",
+        "serial": 178,
+        "crosses": "323",
+        "type": "Poly"
+    },
+    {
+        "pdb": "6E4W",
+        "protein": "5'-AMP-activated protein kinase catalytic subunit alpha-1",
+        "serial": 179,
+        "crosses": "347",
+        "type": "Poly"
+    },
+    {
+        "pdb": "4CEJ",
+        "protein": "ATP-dependent helicase/deoxyribonuclease subunit B",
+        "serial": 180,
+        "crosses": "320",
+        "type": "Poly"
+    },
+    {
+        "pdb": "4OZ5",
+        "protein": "Heme-degrading monooxygenase HmoB",
+        "serial": 181,
+        "crosses": "113",
+        "type": "Single"
+    },
+    {
+        "pdb": "1KFX",
+        "protein": "Calpain small subunit 1",
+        "serial": 182,
+        "crosses": "345",
+        "type": "Poly"
+    },
+    {
+        "pdb": "2WTB",
+        "protein": "Peroxisomal fatty acid beta-oxidation multifunctional protein MFP2",
+        "serial": 183,
+        "crosses": "110",
+        "type": "Single"
+    },
+    {
+        "pdb": "3HB3",
+        "protein": "Ig kappa chain V-V region MOPC 149",
+        "serial": 184,
+        "crosses": "335",
+        "type": "Poly"
+    },
+    {
+        "pdb": "5IEE",
+        "protein": "Glucosidase 2 subunit beta",
+        "serial": 185,
         "crosses": "346",
         "type": "Poly"
+    },
+    {
+        "pdb": "3PZV",
+        "protein": "Endoglucanase",
+        "serial": 186,
+        "crosses": "336",
+        "type": "Poly"
+    },
+    {
+        "pdb": "6HXB",
+        "protein": "Sarcoplasmic/endoplasmic reticulum calcium ATPase 2",
+        "serial": 187,
+        "crosses": "88",
+        "type": "Single"
+    },
+    {
+        "pdb": "6OV8",
+        "protein": "Peptidase B",
+        "serial": 188,
+        "crosses": "326",
+        "type": "Poly"
+    },
+    {
+        "pdb": "6DUM",
+        "protein": "Aldehyde dehydrogenase 1A1",
+        "serial": 189,
+        "crosses": "131",
+        "type": "Single"
+    },
+    {
+        "pdb": "6E9L",
+        "protein": "cAMP-dependent protein kinase catalytic subunit alpha",
+        "serial": 190,
+        "crosses": "229",
+        "type": "Poly"
+    },
+    {
+        "pdb": "6F1G",
+        "protein": "Intracellular endo-alpha-(1->5)-L-arabinanase",
+        "serial": 191,
+        "crosses": "152",
+        "type": "Single"
+    },
+    {
+        "pdb": "6D3A",
+        "protein": "ADP-ribosylhydrolase ARH3",
+        "serial": 192,
+        "crosses": "331",
+        "type": "Poly"
+    },
+    {
+        "pdb": "5IPZ",
+        "protein": "Carbonic anhydrase 4",
+        "serial": 193,
+        "crosses": "344",
+        "type": "Poly"
+    },
+    {
+        "pdb": "3QYB",
+        "protein": "TBC1 domain family member 4",
+        "serial": 194,
+        "crosses": "148",
+        "type": "Single"
+    },
+    {
+        "pdb": "5LG6",
+        "protein": "Aminopeptidase N",
+        "serial": 195,
+        "crosses": "326",
+        "type": "Poly"
+    },
+    {
+        "pdb": "4AUB",
+        "protein": "L-glyceraldehyde 3-phosphate reductase",
+        "serial": 196,
+        "crosses": "323",
+        "type": "Poly"
+    },
+    {
+        "pdb": "4N6O",
+        "protein": "Cystatin-M",
+        "serial": 197,
+        "crosses": "280",
+        "type": "Poly"
+    },
+    {
+        "pdb": "1WER",
+        "protein": "Ras GTPase-activating protein 1",
+        "serial": 198,
+        "crosses": "128",
+        "type": "Single"
+    },
+    {
+        "pdb": "1ASZ",
+        "protein": "Aspartate--tRNA ligase, cytoplasmic",
+        "serial": 199,
+        "crosses": "346",
+        "type": "Poly"
+    },
+    {
+        "pdb": "6B2U",
+        "protein": "Acyl-CoA:acyl-CoA alkyltransferase",
+        "serial": 200,
+        "crosses": "139",
+        "type": "Single"
+    },
+    {
+        "pdb": "3R77",
+        "protein": "Phenazine biosynthesis protein PhzD",
+        "serial": 201,
+        "crosses": "226",
+        "type": "Poly"
+    },
+    {
+        "pdb": "2QTY",
+        "protein": "ADP-ribosylhydrolase ARH3",
+        "serial": 202,
+        "crosses": "352",
+        "type": "Poly"
+    },
+    {
+        "pdb": "2OOR",
+        "protein": "NAD(P) transhydrogenase subunit beta",
+        "serial": 203,
+        "crosses": "347",
+        "type": "Poly"
+    },
+    {
+        "pdb": "3ZIA",
+        "protein": "ATP synthase subunit beta, mitochondrial",
+        "serial": 204,
+        "crosses": "307",
+        "type": "Poly"
+    },
+    {
+        "pdb": "3CDI",
+        "protein": "Polyribonucleotide nucleotidyltransferase",
+        "serial": 205,
+        "crosses": "127",
+        "type": "Single"
+    },
+    {
+        "pdb": "2HG4",
+        "protein": "6-deoxyerythronolide-B synthase EryA3, modules 5 and 6",
+        "serial": 206,
+        "crosses": "298",
+        "type": "Poly"
+    },
+    {
+        "pdb": "6ZN0",
+        "protein": "cAMP-dependent protein kinase catalytic subunit alpha",
+        "serial": 207,
+        "crosses": "152",
+        "type": "Single"
+    },
+    {
+        "pdb": "2GDZ",
+        "protein": "15-hydroxyprostaglandin dehydrogenase [NAD(+)]",
+        "serial": 208,
+        "crosses": "149",
+        "type": "Single"
+    },
+    {
+        "pdb": "2HFK",
+        "protein": "Narbonolide/10-deoxymethynolide synthase PikA4, module 6",
+        "serial": 209,
+        "crosses": "354",
+        "type": "Poly"
+    },
+    {
+        "pdb": "3RDE",
+        "protein": "Polyunsaturated fatty acid lipoxygenase ALOX15",
+        "serial": 210,
+        "crosses": "323",
+        "type": "Poly"
+    },
+    {
+        "pdb": "6BRT",
+        "protein": "AB hydrolase-1 domain-containing protein",
+        "serial": 211,
+        "crosses": "321",
+        "type": "Poly"
+    },
+    {
+        "pdb": "1OX6",
+        "protein": "Imidazole glycerol phosphate synthase hisHF",
+        "serial": 212,
+        "crosses": "344",
+        "type": "Poly"
+    },
+    {
+        "pdb": "6XRP",
+        "protein": "Rhomboid protease GlpG",
+        "serial": 213,
+        "crosses": "75",
+        "type": "Poly"
+    },
+    {
+        "pdb": "2DX0",
+        "protein": "1-phosphatidylinositol 4,5-bisphosphate phosphodiesterase gamma-2",
+        "serial": 214,
+        "crosses": "114",
+        "type": "Poly"
+    },
+    {
+        "pdb": "2FVL",
+        "protein": "Aldo-keto reductase family 1 member C4",
+        "serial": 215,
+        "crosses": "347",
+        "type": "Poly"
+    },
+    {
+        "pdb": "3AXI",
+        "protein": "Oligo-1,6-glucosidase IMA1",
+        "serial": 216,
+        "crosses": "130",
+        "type": "Single"
+    },
+    {
+        "pdb": "3F8U",
+        "protein": "Tapasin",
+        "serial": 217,
+        "crosses": "317",
+        "type": "Poly"
+    },
+    {
+        "pdb": "1GYT",
+        "protein": "Cytosol aminopeptidase",
+        "serial": 218,
+        "crosses": "308",
+        "type": "Poly"
+    },
+    {
+        "pdb": "5AZC",
+        "protein": "Phosphatidylglycerol--prolipoprotein diacylglyceryl transferase",
+        "serial": 219,
+        "crosses": "145",
+        "type": "Single"
+    },
+    {
+        "pdb": "4CNX",
+        "protein": "Carbonic anhydrase 2",
+        "serial": 220,
+        "crosses": "141",
+        "type": "Single"
+    },
+    {
+        "pdb": "1T9H",
+        "protein": "Small ribosomal subunit biogenesis GTPase RsgA",
+        "serial": 221,
+        "crosses": "140",
+        "type": "Single"
+    },
+    {
+        "pdb": "4UPB",
+        "protein": "Inducible lysine decarboxylase",
+        "serial": 222,
+        "crosses": "292",
+        "type": "Poly"
+    },
+    {
+        "pdb": "1TCO",
+        "protein": "Peptidyl-prolyl cis-trans isomerase FKBP1A",
+        "serial": 223,
+        "crosses": "350",
+        "type": "Poly"
+    },
+    {
+        "pdb": "4XE5",
+        "protein": "Sodium/potassium-transporting ATPase subunit beta",
+        "serial": 224,
+        "crosses": "336",
+        "type": "Poly"
+    },
+    {
+        "pdb": "1CTP",
+        "protein": "cAMP-dependent protein kinase catalytic subunit alpha",
+        "serial": 225,
+        "crosses": "240",
+        "type": "Poly"
+    },
+    {
+        "pdb": "6BUB",
+        "protein": "Phosphatidylinositol 4-phosphate 3-kinase C2 domain-containing subunit alpha",
+        "serial": 226,
+        "crosses": "69",
+        "type": "Single"
+    },
+    {
+        "pdb": "3RQS",
+        "protein": "Hydroxyacyl-coenzyme A dehydrogenase, mitochondrial",
+        "serial": 227,
+        "crosses": "354",
+        "type": "Poly"
+    },
+    {
+        "pdb": "5TXF",
+        "protein": "Phosphatidylcholine-sterol acyltransferase",
+        "serial": 228,
+        "crosses": "337",
+        "type": "Poly"
+    },
+    {
+        "pdb": "1Z8F",
+        "protein": "Guanylate kinase",
+        "serial": 229,
+        "crosses": "143",
+        "type": "Single"
+    },
+    {
+        "pdb": "5L1N",
+        "protein": "NAD(P)H coenzyme A polysulfide/persulfide reductase",
+        "serial": 230,
+        "crosses": "345",
+        "type": "Poly"
+    },
+    {
+        "pdb": "1LKD",
+        "protein": "Biphenyl-2,3-diol 1,2-dioxygenase",
+        "serial": 231,
+        "crosses": "147",
+        "type": "Single"
+    },
+    {
+        "pdb": "5VEU",
+        "protein": "Cytochrome P450 3A5",
+        "serial": 232,
+        "crosses": "304",
+        "type": "Poly"
+    },
+    {
+        "pdb": "1MWZ",
+        "protein": "Zinc/cadmium/lead-transporting P-type ATPase",
+        "serial": 233,
+        "crosses": "13",
+        "type": "Single"
+    },
+    {
+        "pdb": "2O23",
+        "protein": "3-hydroxyacyl-CoA dehydrogenase type-2",
+        "serial": 234,
+        "crosses": "354",
+        "type": "Poly"
+    },
+    {
+        "pdb": "2FEW",
+        "protein": "PTS system mannitol-specific EIICBA component",
+        "serial": 235,
+        "crosses": "155",
+        "type": "Poly"
+    },
+    {
+        "pdb": "1PZ1",
+        "protein": "Aldo-keto reductase YhdN",
+        "serial": 236,
+        "crosses": "347",
+        "type": "Poly"
+    },
+    {
+        "pdb": "3ZNC",
+        "protein": "Carbonic anhydrase 4",
+        "serial": 237,
+        "crosses": "150",
+        "type": "Single"
+    },
+    {
+        "pdb": "1Z7Y",
+        "protein": "Cysteine synthase 1",
+        "serial": 238,
+        "crosses": "152",
+        "type": "Single"
+    },
+    {
+        "pdb": "4EMM",
+        "protein": "ATP-dependent Clp protease proteolytic subunit",
+        "serial": 239,
+        "crosses": "323",
+        "type": "Poly"
+    },
+    {
+        "pdb": "1UR3",
+        "protein": "Oxidoreductase YdhF",
+        "serial": 240,
+        "crosses": "148",
+        "type": "Single"
+    },
+    {
+        "pdb": "2INF",
+        "protein": "Uroporphyrinogen decarboxylase",
+        "serial": 241,
+        "crosses": "331",
+        "type": "Poly"
+    },
+    {
+        "pdb": "4KWB",
+        "protein": "Putative signal peptide peptidase SppA",
+        "serial": 242,
+        "crosses": "315",
+        "type": "Poly"
+    },
+    {
+        "pdb": "6GTG",
+        "protein": "CRISPR-associated endonuclease Cas12a",
+        "serial": 243,
+        "crosses": "326",
+        "type": "Poly"
+    },
+    {
+        "pdb": "1LQA",
+        "protein": "Protein tas",
+        "serial": 244,
+        "crosses": "354",
+        "type": "Poly"
+    },
+    {
+        "pdb": "3UG7",
+        "protein": "Putative arsenical pump-driving ATPase",
+        "serial": 245,
+        "crosses": "328",
+        "type": "Poly"
+    },
+    {
+        "pdb": "4II9",
+        "protein": "UDP-N-acetylmuramoylpentapeptide-lysine N(6)-alanyltransferase",
+        "serial": 246,
+        "crosses": "233",
+        "type": "Poly"
+    },
+    {
+        "pdb": "6F5D",
+        "protein": "ATP synthase subunit gamma, mitochondrial",
+        "serial": 247,
+        "crosses": "310",
+        "type": "Poly"
+    },
+    {
+        "pdb": "3T62",
+        "protein": "Chymotrypsinogen A",
+        "serial": 248,
+        "crosses": "345",
+        "type": "Poly"
+    },
+    {
+        "pdb": "1X13",
+        "protein": "NAD(P) transhydrogenase subunit alpha",
+        "serial": 249,
+        "crosses": "352",
+        "type": "Poly"
+    },
+    {
+        "pdb": "3KL5",
+        "protein": "Glucuronoxylanase XynC",
+        "serial": 250,
+        "crosses": "336",
+        "type": "Poly"
+    },
+    {
+        "pdb": "1D4O",
+        "protein": "NAD(P) transhydrogenase, mitochondrial",
+        "serial": 251,
+        "crosses": "98",
+        "type": "Single"
+    },
+    {
+        "pdb": "5G1S",
+        "protein": "ATP-dependent Clp protease proteolytic subunit",
+        "serial": 252,
+        "crosses": "313",
+        "type": "Poly"
+    },
+    {
+        "pdb": "3I6D",
+        "protein": "Coproporphyrinogen III oxidase",
+        "serial": 253,
+        "crosses": "345",
+        "type": "Poly"
+    },
+    {
+        "pdb": "3FEM",
+        "protein": "Pyridoxal 5'-phosphate synthase subunit SNZ1",
+        "serial": 254,
+        "crosses": "331",
+        "type": "Poly"
+    },
+    {
+        "pdb": "3J4R",
+        "protein": "cAMP-dependent protein kinase catalytic subunit alpha",
+        "serial": 255,
+        "crosses": "292",
+        "type": "Poly"
+    },
+    {
+        "pdb": "7BQW",
+        "protein": "L-methionine gamma-lyase",
+        "serial": 256,
+        "crosses": "344",
+        "type": "Poly"
+    },
+    {
+        "pdb": "2B3R",
+        "protein": "Phosphatidylinositol 4-phosphate 3-kinase C2 domain-containing subunit alpha",
+        "serial": 257,
+        "crosses": "274",
+        "type": "Poly"
+    },
+    {
+        "pdb": "3DHP",
+        "protein": "Alpha-amylase 1A",
+        "serial": 258,
+        "crosses": "133",
+        "type": "Single"
+    },
+    {
+        "pdb": "2K72",
+        "protein": "Matrix metalloproteinase-23",
+        "serial": 259,
+        "crosses": "5",
+        "type": "Single"
+    },
+    {
+        "pdb": "1Z2E",
+        "protein": "Arsenate reductase",
+        "serial": 260,
+        "crosses": "110",
+        "type": "Single"
+    },
+    {
+        "pdb": "5X3F",
+        "protein": "cAMP-dependent protein kinase catalytic subunit alpha",
+        "serial": 261,
+        "crosses": "328",
+        "type": "Poly"
+    },
+    {
+        "pdb": "1T0A",
+        "protein": "2-C-methyl-D-erythritol 2,4-cyclodiphosphate synthase",
+        "serial": 262,
+        "crosses": "282",
+        "type": "Poly"
+    },
+    {
+        "pdb": "2YF0",
+        "protein": "Myotubularin-related protein 6",
+        "serial": 263,
+        "crosses": "128",
+        "type": "Single"
+    },
+    {
+        "pdb": "6VFF",
+        "protein": "Double-stranded RNA-specific editase 1",
+        "serial": 264,
+        "crosses": "347",
+        "type": "Poly"
+    },
+    {
+        "pdb": "1QVJ",
+        "protein": "ADP-ribose pyrophosphatase, mitochondrial",
+        "serial": 265,
+        "crosses": "140",
+        "type": "Single"
+    },
+    {
+        "pdb": "2WOO",
+        "protein": "ATPase get3",
+        "serial": 266,
+        "crosses": "331",
+        "type": "Poly"
+    },
+    {
+        "pdb": "5W81",
+        "protein": "Cystic fibrosis transmembrane conductance regulator",
+        "serial": 267,
+        "crosses": "71",
+        "type": "Single"
+    },
+    {
+        "pdb": "2PHH",
+        "protein": "p-hydroxybenzoate hydroxylase",
+        "serial": 268,
+        "crosses": "140",
+        "type": "Single"
+    },
+    {
+        "pdb": "5O9U",
+        "protein": "Calcineurin B-like protein 4",
+        "serial": 269,
+        "crosses": "347",
+        "type": "Poly"
+    },
+    {
+        "pdb": "6O0Z",
+        "protein": "CRISPR-associated endonuclease Cas9/Csn1",
+        "serial": 270,
+        "crosses": "331",
+        "type": "Poly"
+    },
+    {
+        "pdb": "6IAO",
+        "protein": "Bifunctional cytochrome P450/NADPH--P450 reductase",
+        "serial": 271,
+        "crosses": "321",
+        "type": "Poly"
+    },
+    {
+        "pdb": "5V5F",
+        "protein": "Protein RISC-INTERACTING CLEARING 3'-5' EXORIBONUCLEASE 1",
+        "serial": 272,
+        "crosses": "352",
+        "type": "Poly"
+    },
+    {
+        "pdb": "3GA4",
+        "protein": "Dolichyl-diphosphooligosaccharide--protein glycosyltransferase subunit OST6",
+        "serial": 273,
+        "crosses": "112",
+        "type": "Single"
+    },
+    {
+        "pdb": "2WYM",
+        "protein": "Probable L-ascorbate-6-phosphate lactonase UlaG",
+        "serial": 274,
+        "crosses": "336",
+        "type": "Poly"
+    },
+    {
+        "pdb": "6IQR",
+        "protein": "Tail-specific protease",
+        "serial": 275,
+        "crosses": "337",
+        "type": "Poly"
+    },
+    {
+        "pdb": "4F4Q",
+        "protein": "Decaprenylphosphoryl-beta-D-ribose oxidase",
+        "serial": 276,
+        "crosses": "128",
+        "type": "Single"
+    },
+    {
+        "pdb": "1QKI",
+        "protein": "Glucose-6-phosphate 1-dehydrogenase",
+        "serial": 277,
+        "crosses": "313",
+        "type": "Poly"
+    },
+    {
+        "pdb": "1QZ2",
+        "protein": "Heat shock protein HSP 90-beta",
+        "serial": 278,
+        "crosses": "333",
+        "type": "Poly"
+    },
+    {
+        "pdb": "1NPM",
+        "protein": "Kallikrein-8",
+        "serial": 279,
+        "crosses": "353",
+        "type": "Poly"
+    },
+    {
+        "pdb": "6PRX",
+        "protein": "Branched-chain-amino-acid aminotransferase, mitochondrial",
+        "serial": 280,
+        "crosses": "347",
+        "type": "Poly"
+    },
+    {
+        "pdb": "1V04",
+        "protein": "Serum paraoxonase/arylesterase 1",
+        "serial": 281,
+        "crosses": "151",
+        "type": "Single"
+    },
+    {
+        "pdb": "3DEF",
+        "protein": "Translocase of chloroplast 33, chloroplastic",
+        "serial": 282,
+        "crosses": "147",
+        "type": "Single"
+    },
+    {
+        "pdb": "3IBG",
+        "protein": "ATPase get3",
+        "serial": 283,
+        "crosses": "323",
+        "type": "Poly"
+    },
+    {
+        "pdb": "1O9H",
+        "protein": "23S rRNA (guanine(2535)-N(1))-methyltransferase",
+        "serial": 284,
+        "crosses": "141",
+        "type": "Single"
+    },
+    {
+        "pdb": "6ZTX",
+        "protein": "Catalase HPII",
+        "serial": 285,
+        "crosses": "326",
+        "type": "Poly"
+    },
+    {
+        "pdb": "4TN5",
+        "protein": "PTS system fructose-like EIIB component 3",
+        "serial": 286,
+        "crosses": "99",
+        "type": "Poly"
+    },
+    {
+        "pdb": "1BG3",
+        "protein": "Hexokinase-1",
+        "serial": 287,
+        "crosses": "323",
+        "type": "Poly"
+    },
+    {
+        "pdb": "5E3A",
+        "protein": "Proenkephalin-A",
+        "serial": 288,
+        "crosses": "354",
+        "type": "Poly"
+    },
+    {
+        "pdb": "1SD9",
+        "protein": "Arsenate reductase",
+        "serial": 289,
+        "crosses": "103",
+        "type": "Single"
+    },
+    {
+        "pdb": "4QFF",
+        "protein": "Matrix protein 1",
+        "serial": 290,
+        "crosses": "307",
+        "type": "Poly"
+    },
+    {
+        "pdb": "2KZR",
+        "protein": "Ubiquitin thioesterase OTU1",
+        "serial": 291,
+        "crosses": "73",
+        "type": "Single"
+    },
+    {
+        "pdb": "2LFE",
+        "protein": "E3 ubiquitin-protein ligase HECW2",
+        "serial": 292,
+        "crosses": "86",
+        "type": "Single"
+    },
+    {
+        "pdb": "4JB4",
+        "protein": "Cytochrome c peroxidase, mitochondrial",
+        "serial": 293,
+        "crosses": "354",
+        "type": "Poly"
+    },
+    {
+        "pdb": "2YJV",
+        "protein": "Regulator of ribonuclease activity A",
+        "serial": 294,
+        "crosses": "324",
+        "type": "Poly"
+    },
+    {
+        "pdb": "6G8B",
+        "protein": "Aminopeptidase N",
+        "serial": 295,
+        "crosses": "99",
+        "type": "Single"
+    },
+    {
+        "pdb": "2I7A",
+        "protein": "Calpain-13",
+        "serial": 296,
+        "crosses": "97",
+        "type": "Single"
+    },
+    {
+        "pdb": "3IWV",
+        "protein": "5-hydroxyisourate hydrolase",
+        "serial": 297,
+        "crosses": "350",
+        "type": "Poly"
+    },
+    {
+        "pdb": "2D1I",
+        "protein": "Cysteine protease ATG4B",
+        "serial": 298,
+        "crosses": "350",
+        "type": "Poly"
+    },
+    {
+        "pdb": "5F1A",
+        "protein": "Prostaglandin G/H synthase 2",
+        "serial": 299,
+        "crosses": "347",
+        "type": "Poly"
+    },
+    {
+        "pdb": "5BN1",
+        "protein": "Acetylxylan esterase",
+        "serial": 300,
+        "crosses": "338",
+        "type": "Poly"
+    },
+    {
+        "pdb": "4WO7",
+        "protein": "Foldase protein PrsA",
+        "serial": 301,
+        "crosses": "347",
+        "type": "Poly"
+    },
+    {
+        "pdb": "1ZSX",
+        "protein": "Voltage-gated potassium channel subunit beta-2",
+        "serial": 302,
+        "crosses": "148",
+        "type": "Single"
+    },
+    {
+        "pdb": "1PJ7",
+        "protein": "Dimethylglycine oxidase",
+        "serial": 303,
+        "crosses": "114",
+        "type": "Single"
+    },
+    {
+        "pdb": "5J1S",
+        "protein": "Torsin-1A",
+        "serial": 304,
+        "crosses": "354",
+        "type": "Poly"
+    },
+    {
+        "pdb": "1FLG",
+        "protein": "Quinoprotein ethanol dehydrogenase",
+        "serial": 305,
+        "crosses": "345",
+        "type": "Poly"
+    },
+    {
+        "pdb": "5DL1",
+        "protein": "ATP-dependent Clp protease proteolytic subunit",
+        "serial": 306,
+        "crosses": "321",
+        "type": "Poly"
+    },
+    {
+        "pdb": "2C6X",
+        "protein": "Citrate synthase 1",
+        "serial": 307,
+        "crosses": "316",
+        "type": "Poly"
+    },
+    {
+        "pdb": "3FVF",
+        "protein": "Prostasin",
+        "serial": 308,
+        "crosses": "137",
+        "type": "Single"
+    },
+    {
+        "pdb": "1SJ2",
+        "protein": "Catalase-peroxidase",
+        "serial": 309,
+        "crosses": "343",
+        "type": "Poly"
+    },
+    {
+        "pdb": "2MZI",
+        "protein": "Matrilysin",
+        "serial": 310,
+        "crosses": "151",
+        "type": "Single"
+    },
+    {
+        "pdb": "6HVW",
+        "protein": "Probable proteasome subunit alpha type-7",
+        "serial": 311,
+        "crosses": "304",
+        "type": "Poly"
+    },
+    {
+        "pdb": "1HI9",
+        "protein": "D-aminopeptidase",
+        "serial": 312,
+        "crosses": "337",
+        "type": "Poly"
+    },
+    {
+        "pdb": "4BOZ",
+        "protein": "Polyubiquitin-C",
+        "serial": 313,
+        "crosses": "354",
+        "type": "Poly"
+    },
+    {
+        "pdb": "5DJQ",
+        "protein": "Cbb3-type cytochrome c oxidase subunit CcoN1",
+        "serial": 314,
+        "crosses": "313",
+        "type": "Poly"
+    },
+    {
+        "pdb": "2VNU",
+        "protein": "Exosome complex exonuclease DIS3",
+        "serial": 315,
+        "crosses": "342",
+        "type": "Poly"
+    },
+    {
+        "pdb": "6VOO",
+        "protein": "ATP synthase subunit beta, chloroplastic",
+        "serial": 316,
+        "crosses": "319",
+        "type": "Poly"
+    },
+    {
+        "pdb": "2KYR",
+        "protein": "PTS system fructose-like EIIB component 1",
+        "serial": 317,
+        "crosses": "68",
+        "type": "Single"
+    },
+    {
+        "pdb": "4CFF",
+        "protein": "5'-AMP-activated protein kinase subunit gamma-1",
+        "serial": 318,
+        "crosses": "321",
+        "type": "Poly"
+    },
+    {
+        "pdb": "5GPJ",
+        "protein": "Pyrophosphate-energized vacuolar membrane proton pump",
+        "serial": 319,
+        "crosses": "317",
+        "type": "Poly"
+    },
+    {
+        "pdb": "6ZWO",
+        "protein": "Serine/threonine-protein kinase mTOR",
+        "serial": 320,
+        "crosses": "312",
+        "type": "Poly"
+    },
+    {
+        "pdb": "6EOP",
+        "protein": "Small ubiquitin-related modifier 1",
+        "serial": 321,
+        "crosses": "316",
+        "type": "Poly"
+    },
+    {
+        "pdb": "5WGZ",
+        "protein": "Flavin-dependent halogenase malA",
+        "serial": 322,
+        "crosses": "130",
+        "type": "Single"
+    },
+    {
+        "pdb": "2XI3",
+        "protein": "Genome polyprotein",
+        "serial": 323,
+        "crosses": "342",
+        "type": "Poly"
+    },
+    {
+        "pdb": "2JZH",
+        "protein": "PTS system mannose-specific EIIAB component",
+        "serial": 324,
+        "crosses": "126",
+        "type": "Single"
+    },
+    {
+        "pdb": "5M2B",
+        "protein": "Proteasome subunit beta type-1",
+        "serial": 325,
+        "crosses": "301",
+        "type": "Poly"
+    },
+    {
+        "pdb": "2EOB",
+        "protein": "1-phosphatidylinositol 4,5-bisphosphate phosphodiesterase gamma-2",
+        "serial": 326,
+        "crosses": "138",
+        "type": "Single"
+    },
+    {
+        "pdb": "3DOF",
+        "protein": "ADP-ribosylation factor-like protein 2",
+        "serial": 327,
+        "crosses": "305",
+        "type": "Poly"
+    },
+    {
+        "pdb": "3GOQ",
+        "protein": "Coproporphyrin III ferrochelatase",
+        "serial": 328,
+        "crosses": "150",
+        "type": "Single"
+    },
+    {
+        "pdb": "6CZ5",
+        "protein": "ATP-dependent RNA helicase DDX3X",
+        "serial": 329,
+        "crosses": "135",
+        "type": "Single"
+    },
+    {
+        "pdb": "6S5T",
+        "protein": "Calmodulin-2",
+        "serial": 330,
+        "crosses": "347",
+        "type": "Poly"
+    },
+    {
+        "pdb": "1MQR",
+        "protein": "Xylan alpha-(1->2)-glucuronosidase",
+        "serial": 331,
+        "crosses": "126",
+        "type": "Single"
+    },
+    {
+        "pdb": "5UAI",
+        "protein": "Methionyl-tRNA formyltransferase",
+        "serial": 332,
+        "crosses": "336",
+        "type": "Poly"
+    },
+    {
+        "pdb": "5LHD",
+        "protein": "Aminopeptidase N",
+        "serial": 333,
+        "crosses": "314",
+        "type": "Poly"
+    },
+    {
+        "pdb": "3TLM",
+        "protein": "Sarcoplasmic/endoplasmic reticulum calcium ATPase 1",
+        "serial": 334,
+        "crosses": "92",
+        "type": "Single"
+    },
+    {
+        "pdb": "4PXQ",
+        "protein": "D-glucuronyl C5-epimerase B",
+        "serial": 335,
+        "crosses": "342",
+        "type": "Poly"
+    },
+    {
+        "pdb": "4O6F",
+        "protein": "Estrogen receptor",
+        "serial": 336,
+        "crosses": "332",
+        "type": "Poly"
+    },
+    {
+        "pdb": "3RLH",
+        "protein": "Dermonecrotic toxin LiSicTox-alphaIA1a",
+        "serial": 337,
+        "crosses": "145",
+        "type": "Single"
+    },
+    {
+        "pdb": "1E3W",
+        "protein": "3-hydroxyacyl-CoA dehydrogenase type-2",
+        "serial": 338,
+        "crosses": "352",
+        "type": "Poly"
+    },
+    {
+        "pdb": "1GPR",
+        "protein": "PTS system glucose-specific EIICBA component",
+        "serial": 339,
+        "crosses": "104",
+        "type": "Single"
+    },
+    {
+        "pdb": "2F43",
+        "protein": "ATP synthase subunit beta, mitochondrial",
+        "serial": 340,
+        "crosses": "340",
+        "type": "Poly"
+    },
+    {
+        "pdb": "5ZMF",
+        "protein": "ATPase ARSA1",
+        "serial": 341,
+        "crosses": "114",
+        "type": "Single"
+    },
+    {
+        "pdb": "6Y3C",
+        "protein": "Prostaglandin G/H synthase 1",
+        "serial": 342,
+        "crosses": "120",
+        "type": "Single"
+    },
+    {
+        "pdb": "6O2P",
+        "protein": "Cystic fibrosis transmembrane conductance regulator",
+        "serial": 343,
+        "crosses": "335",
+        "type": "Poly"
+    },
+    {
+        "pdb": "5ZMW",
+        "protein": "Sarcoplasmic/endoplasmic reticulum calcium ATPase 1",
+        "serial": 344,
+        "crosses": "88",
+        "type": "Single"
+    },
+    {
+        "pdb": "7JGA",
+        "protein": "ATP synthase epsilon chain",
+        "serial": 345,
+        "crosses": "314",
+        "type": "Poly"
+    },
+    {
+        "pdb": "1IIB",
+        "protein": "PTS system N,N'-diacetylchitobiose-specific EIIB component",
+        "serial": 346,
+        "crosses": "122",
+        "type": "Poly"
+    },
+    {
+        "pdb": "4JOD",
+        "protein": "Lysophosphatidic acid phosphatase type 6",
+        "serial": 347,
+        "crosses": "134",
+        "type": "Single"
+    },
+    {
+        "pdb": "4L2O",
+        "protein": "Aldehyde dehydrogenase, dimeric NADP-preferring",
+        "serial": 348,
+        "crosses": "326",
+        "type": "Poly"
+    },
+    {
+        "pdb": "2A7U",
+        "protein": "ATP synthase subunit delta",
+        "serial": 349,
+        "crosses": "23",
+        "type": "Poly"
+    },
+    {
+        "pdb": "6U5Z",
+        "protein": "Lon protease",
+        "serial": 350,
+        "crosses": "313",
+        "type": "Poly"
+    },
+    {
+        "pdb": "2IEJ",
+        "protein": "Protein farnesyltransferase/geranylgeranyltransferase type-1 subunit alpha",
+        "serial": 351,
+        "crosses": "353",
+        "type": "Poly"
+    },
+    {
+        "pdb": "6EXI",
+        "protein": "Adenosylhomocysteinase",
+        "serial": 352,
+        "crosses": "326",
+        "type": "Poly"
+    },
+    {
+        "pdb": "4QWW",
+        "protein": "Acetylcholinesterase",
+        "serial": 353,
+        "crosses": "331",
+        "type": "Poly"
+    },
+    {
+        "pdb": "3KD5",
+        "protein": "DNA-directed DNA polymerase",
+        "serial": 354,
+        "crosses": "344",
+        "type": "Poly"
+    },
+    {
+        "pdb": "1U31",
+        "protein": "NAD(P) transhydrogenase, mitochondrial",
+        "serial": 355,
+        "crosses": "348",
+        "type": "Poly"
+    },
+    {
+        "pdb": "6R6U",
+        "protein": "Cis-aconitate decarboxylase",
+        "serial": 356,
+        "crosses": "347",
+        "type": "Poly"
+    },
+    {
+        "pdb": "1FFT",
+        "protein": "Cytochrome bo(3) ubiquinol oxidase subunit 1",
+        "serial": 357,
+        "crosses": "323",
+        "type": "Poly"
+    },
+    {
+        "pdb": "4A0R",
+        "protein": "Bifunctional dethiobiotin synthetase/7,8-diamino-pelargonic acid aminotransferase, mitochondrial",
+        "serial": 358,
+        "crosses": "341",
+        "type": "Poly"
+    },
+    {
+        "pdb": "5XH7",
+        "protein": "CRISPR-associated endonuclease Cas12a",
+        "serial": 359,
+        "crosses": "323",
+        "type": "Poly"
+    },
+    {
+        "pdb": "7BW1",
+        "protein": "3-oxo-5-alpha-steroid 4-dehydrogenase 2",
+        "serial": 360,
+        "crosses": "150",
+        "type": "Single"
+    },
+    {
+        "pdb": "3FBA",
+        "protein": "2-C-methyl-D-erythritol 2,4-cyclodiphosphate synthase",
+        "serial": 361,
+        "crosses": "102",
+        "type": "Single"
+    },
+    {
+        "pdb": "2P85",
+        "protein": "Cytochrome P450 2A13",
+        "serial": 362,
+        "crosses": "316",
+        "type": "Poly"
+    },
+    {
+        "pdb": "1N6F",
+        "protein": "Tricorn protease",
+        "serial": 363,
+        "crosses": "303",
+        "type": "Poly"
+    },
+    {
+        "pdb": "4RET",
+        "protein": "Sodium/potassium-transporting ATPase subunit alpha-1",
+        "serial": 364,
+        "crosses": "315",
+        "type": "Poly"
+    },
+    {
+        "pdb": "1FLE",
+        "protein": "Chymotrypsin-like elastase family member 1",
+        "serial": 365,
+        "crosses": "110",
+        "type": "Poly"
+    },
+    {
+        "pdb": "2W2X",
+        "protein": "Ras-related C3 botulinum toxin substrate 2",
+        "serial": 366,
+        "crosses": "351",
+        "type": "Poly"
+    },
+    {
+        "pdb": "6KOE",
+        "protein": "Quinol oxidase subunit 1",
+        "serial": 367,
+        "crosses": "323",
+        "type": "Poly"
+    },
+    {
+        "pdb": "1JF8",
+        "protein": "Arsenate reductase",
+        "serial": 368,
+        "crosses": "98",
+        "type": "Single"
+    },
+    {
+        "pdb": "4M8D",
+        "protein": "Isatin hydrolase",
+        "serial": 369,
+        "crosses": "315",
+        "type": "Poly"
+    },
+    {
+        "pdb": "4GDX",
+        "protein": "Glutathione hydrolase 1 proenzyme",
+        "serial": 370,
+        "crosses": "319",
+        "type": "Poly"
+    },
+    {
+        "pdb": "3CED",
+        "protein": "Methionine import ATP-binding protein MetN 2",
+        "serial": 371,
+        "crosses": "356",
+        "type": "Poly"
+    },
+    {
+        "pdb": "2R48",
+        "protein": "PTS system mannose-specific EIIBCA component",
+        "serial": 372,
+        "crosses": "34",
+        "type": "Single"
+    },
+    {
+        "pdb": "2QSW",
+        "protein": "Methionine import ATP-binding protein MetN 2",
+        "serial": 373,
+        "crosses": "9",
+        "type": "Single"
+    },
+    {
+        "pdb": "4J09",
+        "protein": "Acyl-[acyl-carrier-protein]--UDP-N-acetylglucosamine O-acyltransferase",
+        "serial": 374,
+        "crosses": "212",
+        "type": "Poly"
+    },
+    {
+        "pdb": "2R4Q",
+        "protein": "PTS system fructose-specific EIIABC component",
+        "serial": 375,
+        "crosses": "11",
+        "type": "Single"
+    },
+    {
+        "pdb": "4F4C",
+        "protein": "Multidrug resistance protein pgp-1",
+        "serial": 376,
+        "crosses": "60",
+        "type": "Single"
+    },
+    {
+        "pdb": "5C59",
+        "protein": "Macrolide export ATP-binding/permease protein MacB",
+        "serial": 377,
+        "crosses": "326",
+        "type": "Poly"
+    },
+    {
+        "pdb": "4G1U",
+        "protein": "Hemin transport system permease protein HmuU",
+        "serial": 378,
+        "crosses": "338",
+        "type": "Poly"
+    },
+    {
+        "pdb": "7DD0",
+        "protein": "Teichoic acids export ATP-binding protein TagH",
+        "serial": 379,
+        "crosses": "345",
+        "type": "Poly"
+    },
+    {
+        "pdb": "6UZL",
+        "protein": "ATP-dependent lipid A-core flippase",
+        "serial": 380,
+        "crosses": "344",
+        "type": "Poly"
+    },
+    {
+        "pdb": "5JMC",
+        "protein": "Botulinum neurotoxin type A",
+        "serial": 381,
+        "crosses": "305",
+        "type": "Poly"
+    },
+    {
+        "pdb": "5OCH",
+        "protein": "Mitochondrial potassium channel ATP-binding subunit",
+        "serial": 382,
+        "crosses": "300",
+        "type": "Poly"
+    },
+    {
+        "pdb": "1II9",
+        "protein": "Arsenical pump-driving ATPase",
+        "serial": 383,
+        "crosses": "340",
+        "type": "Poly"
+    },
+    {
+        "pdb": "1AX3",
+        "protein": "PTS system glucose-specific EIICBA component",
+        "serial": 384,
+        "crosses": "150",
+        "type": "Single"
+    },
+    {
+        "pdb": "4RFS",
+        "protein": "Energy-coupling factor transporter ATP-binding protein EcfA1",
+        "serial": 385,
+        "crosses": "345",
+        "type": "Poly"
+    },
+    {
+        "pdb": "6SH5",
+        "protein": "Mitochondrial chaperone BCS1",
+        "serial": 386,
+        "crosses": "314",
+        "type": "Poly"
+    },
+    {
+        "pdb": "1PIX",
+        "protein": "Glutaconyl-CoA decarboxylase subunit alpha",
+        "serial": 387,
+        "crosses": "341",
+        "type": "Poly"
+    },
+    {
+        "pdb": "3ZQ6",
+        "protein": "Putative arsenical pump-driving ATPase",
+        "serial": 388,
+        "crosses": "327",
+        "type": "Poly"
+    },
+    {
+        "pdb": "3FVQ",
+        "protein": "Fe(3+) ions import ATP-binding protein FbpC",
+        "serial": 389,
+        "crosses": "352",
+        "type": "Poly"
+    },
+    {
+        "pdb": "3PIH",
+        "protein": "UvrABC system protein A",
+        "serial": 390,
+        "crosses": "343",
+        "type": "Poly"
+    },
+    {
+        "pdb": "4HUQ",
+        "protein": "Energy-coupling factor transporter ATP-binding protein EcfA1",
+        "serial": 391,
+        "crosses": "345",
+        "type": "Poly"
+    },
+    {
+        "pdb": "6S7T",
+        "protein": "Dolichyl-diphosphooligosaccharide--protein glycosyltransferase subunit 1",
+        "serial": 392,
+        "crosses": "313",
+        "type": "Poly"
+    },
+    {
+        "pdb": "3UQC",
+        "protein": "Probable peptidoglycan biosynthesis protein MviN",
+        "serial": 393,
+        "crosses": "341",
+        "type": "Poly"
+    },
+    {
+        "pdb": "6YIR",
+        "protein": "Oligosaccharides import ATP-binding protein MsmX",
+        "serial": 394,
+        "crosses": "126",
+        "type": "Single"
+    },
+    {
+        "pdb": "1WCR",
+        "protein": "PTS system N,N'-diacetylchitobiose-specific EIIA component",
+        "serial": 395,
+        "crosses": "312",
+        "type": "Poly"
+    },
+    {
+        "pdb": "3ZUA",
+        "protein": "Alpha-hemolysin translocation ATP-binding protein HlyB",
+        "serial": 396,
+        "crosses": "141",
+        "type": "Single"
+    },
+    {
+        "pdb": "4MKI",
+        "protein": "Energy-coupling factor transporter ATP-binding protein EcfA2",
+        "serial": 397,
+        "crosses": "354",
+        "type": "Poly"
+    },
+    {
+        "pdb": "2QRR",
+        "protein": "Methionine import ATP-binding protein MetN",
+        "serial": 398,
+        "crosses": "72",
+        "type": "Poly"
+    },
+    {
+        "pdb": "4HLU",
+        "protein": "Energy-coupling factor transporter ATP-binding protein EcfA2",
+        "serial": 399,
+        "crosses": "340",
+        "type": "Poly"
+    },
+    {
+        "pdb": "6ZMR",
+        "protein": "ATP synthase subunit b",
+        "serial": 400,
+        "crosses": "337",
+        "type": "Poly"
+    },
+    {
+        "pdb": "4M8G",
+        "protein": "Tumor suppressor candidate 3",
+        "serial": 401,
+        "crosses": "232",
+        "type": "Poly"
+    },
+    {
+        "pdb": "3GWI",
+        "protein": "Magnesium-transporting ATPase, P-type 1",
+        "serial": 402,
+        "crosses": "112",
+        "type": "Single"
+    },
+    {
+        "pdb": "2PCL",
+        "protein": "Lipoprotein-releasing system ATP-binding protein LolD",
+        "serial": 403,
+        "crosses": "149",
+        "type": "Single"
+    },
+    {
+        "pdb": "4AU8",
+        "protein": "Cyclin-dependent kinase 5",
+        "serial": 404,
+        "crosses": "354",
+        "type": "Poly"
+    },
+    {
+        "pdb": "2C4F",
+        "protein": "Coagulation factor VII",
+        "serial": 405,
+        "crosses": "349",
+        "type": "Poly"
+    },
+    {
+        "pdb": "2WK3",
+        "protein": "Amyloid-beta precursor protein",
+        "serial": 406,
+        "crosses": "321",
+        "type": "Poly"
+    },
+    {
+        "pdb": "5WEH",
+        "protein": "Cytochrome c oxidase subunit 1",
+        "serial": 407,
+        "crosses": "326",
+        "type": "Poly"
+    },
+    {
+        "pdb": "6C26",
+        "protein": "Dolichyl-diphosphooligosaccharide--protein glycosyltransferase subunit WBP1",
+        "serial": 408,
+        "crosses": "317",
+        "type": "Poly"
+    },
+    {
+        "pdb": "3VX8",
+        "protein": "Autophagy-related protein 3",
+        "serial": 409,
+        "crosses": "346",
+        "type": "Poly"
+    },
+    {
+        "pdb": "4XES",
+        "protein": "Endolysin",
+        "serial": 410,
+        "crosses": "347",
+        "type": "Poly"
+    },
+    {
+        "pdb": "5TXE",
+        "protein": "Lasso peptide isopeptidase AtxE2",
+        "serial": 411,
+        "crosses": "339",
+        "type": "Poly"
+    },
+    {
+        "pdb": "7KYA",
+        "protein": "Alkylphosphocholine resistance protein LEM3",
+        "serial": 412,
+        "crosses": "327",
+        "type": "Poly"
+    },
+    {
+        "pdb": "6S7O",
+        "protein": "Dolichyl-diphosphooligosaccharide--protein glycosyltransferase subunit 1",
+        "serial": 413,
+        "crosses": "314",
+        "type": "Poly"
+    },
+    {
+        "pdb": "6UCV",
+        "protein": "Mitochondrial import receptor subunit TOM40",
+        "serial": 414,
+        "crosses": "313",
+        "type": "Poly"
+    },
+    {
+        "pdb": "6MI7",
+        "protein": "Lipopolysaccharide export system ATP-binding protein LptB",
+        "serial": 415,
+        "crosses": "341",
+        "type": "Poly"
+    },
+    {
+        "pdb": "6XKW",
+        "protein": "Ubiquinol-cytochrome c reductase iron-sulfur subunit",
+        "serial": 416,
+        "crosses": "315",
+        "type": "Poly"
+    },
+    {
+        "pdb": "4ILW",
+        "protein": "Stromelysin-2",
+        "serial": 417,
+        "crosses": "351",
+        "type": "Poly"
+    },
+    {
+        "pdb": "1A6J",
+        "protein": "Nitrogen regulatory protein",
+        "serial": 418,
+        "crosses": "218",
+        "type": "Poly"
+    },
+    {
+        "pdb": "2XTZ",
+        "protein": "Guanine nucleotide-binding protein alpha-1 subunit",
+        "serial": 419,
+        "crosses": "340",
+        "type": "Poly"
+    },
+    {
+        "pdb": "2JO1",
+        "protein": "Phospholemman",
+        "serial": 420,
+        "crosses": "150",
+        "type": "Single"
+    },
+    {
+        "pdb": "4YOF",
+        "protein": "Oxygen sensor histidine kinase response regulator DevS/DosS",
+        "serial": 421,
+        "crosses": "260",
+        "type": "Poly"
+    },
+    {
+        "pdb": "1D5R",
+        "protein": "Phosphatidylinositol 3,4,5-trisphosphate 3-phosphatase and dual-specificity protein phosphatase PTEN",
+        "serial": 422,
+        "crosses": "145",
+        "type": "Single"
+    },
+    {
+        "pdb": "2VWI",
+        "protein": "Serine/threonine-protein kinase OSR1",
+        "serial": 423,
+        "crosses": "336",
+        "type": "Poly"
+    },
+    {
+        "pdb": "3A9Q",
+        "protein": "Ferritin-4, chloroplastic",
+        "serial": 424,
+        "crosses": "313",
+        "type": "Poly"
+    },
+    {
+        "pdb": "5TKV",
+        "protein": "CTP synthase",
+        "serial": 425,
+        "crosses": "343",
+        "type": "Poly"
+    },
+    {
+        "pdb": "3IW4",
+        "protein": "Protein kinase C alpha type",
+        "serial": 426,
+        "crosses": "333",
+        "type": "Poly"
+    },
+    {
+        "pdb": "5KCV",
+        "protein": "RAC-alpha serine/threonine-protein kinase",
+        "serial": 427,
+        "crosses": "145",
+        "type": "Single"
+    },
+    {
+        "pdb": "5XGO",
+        "protein": "Bacterioferritin",
+        "serial": 428,
+        "crosses": "335",
+        "type": "Poly"
+    },
+    {
+        "pdb": "5GLF",
+        "protein": "Transitional endoplasmic reticulum ATPase",
+        "serial": 429,
+        "crosses": "345",
+        "type": "Poly"
+    },
+    {
+        "pdb": "2WV5",
+        "protein": "Genome polyprotein",
+        "serial": 430,
+        "crosses": "347",
+        "type": "Poly"
+    },
+    {
+        "pdb": "1L6J",
+        "protein": "Matrix metalloproteinase-9",
+        "serial": 431,
+        "crosses": "133",
+        "type": "Single"
+    },
+    {
+        "pdb": "6KWX",
+        "protein": "Proteasome activator complex subunit 4",
+        "serial": 432,
+        "crosses": "72",
+        "type": "Single"
+    },
+    {
+        "pdb": "5EW5",
+        "protein": "Colicin-E9",
+        "serial": 433,
+        "crosses": "317",
+        "type": "Poly"
+    },
+    {
+        "pdb": "6J4M",
+        "protein": "Ferritin-2, chloroplastic",
+        "serial": 434,
+        "crosses": "284",
+        "type": "Poly"
+    },
+    {
+        "pdb": "1KSJ",
+        "protein": "Retinal rod rhodopsin-sensitive cGMP 3',5'-cyclic phosphodiesterase subunit delta",
+        "serial": 435,
+        "crosses": "260",
+        "type": "Poly"
+    },
+    {
+        "pdb": "6DU3",
+        "protein": "RE1-silencing transcription factor",
+        "serial": 436,
+        "crosses": "348",
+        "type": "Poly"
+    },
+    {
+        "pdb": "1TLL",
+        "protein": "Nitric oxide synthase, brain",
+        "serial": 437,
+        "crosses": "338",
+        "type": "Poly"
+    },
+    {
+        "pdb": "3KTK",
+        "protein": "ATP-dependent Clp protease proteolytic subunit",
+        "serial": 438,
+        "crosses": "317",
+        "type": "Poly"
+    },
+    {
+        "pdb": "4XD7",
+        "protein": "ATP synthase subunit alpha",
+        "serial": 439,
+        "crosses": "317",
+        "type": "Poly"
+    },
+    {
+        "pdb": "6FOC",
+        "protein": "ATP synthase epsilon chain",
+        "serial": 440,
+        "crosses": "322",
+        "type": "Poly"
+    },
+    {
+        "pdb": "4OS8",
+        "protein": "Prostaglandin-H2 D-isomerase",
+        "serial": 441,
+        "crosses": "342",
+        "type": "Poly"
+    },
+    {
+        "pdb": "4GNB",
+        "protein": "Regucalcin",
+        "serial": 442,
+        "crosses": "354",
+        "type": "Poly"
+    },
+    {
+        "pdb": "4MN8",
+        "protein": "BRASSINOSTEROID INSENSITIVE 1-associated receptor kinase 1",
+        "serial": 443,
+        "crosses": "345",
+        "type": "Poly"
+    },
+    {
+        "pdb": "1MO8",
+        "protein": "Sodium/potassium-transporting ATPase subunit alpha-1",
+        "serial": 444,
+        "crosses": "147",
+        "type": "Single"
+    },
+    {
+        "pdb": "3UF4",
+        "protein": "Tyrosine-protein kinase Fyn",
+        "serial": 445,
+        "crosses": "141",
+        "type": "Single"
+    },
+    {
+        "pdb": "1P6T",
+        "protein": "Copper-exporting P-type ATPase",
+        "serial": 446,
+        "crosses": "144",
+        "type": "Single"
+    },
+    {
+        "pdb": "3M6A",
+        "protein": "Lon protease 1",
+        "serial": 447,
+        "crosses": "315",
+        "type": "Poly"
+    },
+    {
+        "pdb": "4OAV",
+        "protein": "2-5A-dependent ribonuclease",
+        "serial": 448,
+        "crosses": "317",
+        "type": "Poly"
+    },
+    {
+        "pdb": "4DA1",
+        "protein": "Protein phosphatase 1K, mitochondrial",
+        "serial": 449,
+        "crosses": "143",
+        "type": "Single"
+    },
+    {
+        "pdb": "4F4J",
+        "protein": "Guanylate kinase",
+        "serial": 450,
+        "crosses": "354",
+        "type": "Poly"
+    },
+    {
+        "pdb": "4FXY",
+        "protein": "Neurolysin, mitochondrial",
+        "serial": 451,
+        "crosses": "326",
+        "type": "Poly"
+    },
+    {
+        "pdb": "3Q7H",
+        "protein": "ATP-dependent Clp protease proteolytic subunit",
+        "serial": 452,
+        "crosses": "318",
+        "type": "Poly"
+    },
+    {
+        "pdb": "3BY8",
+        "protein": "Sensor histidine kinase DcuS",
+        "serial": 453,
+        "crosses": "87",
+        "type": "Single"
+    },
+    {
+        "pdb": "2IJD",
+        "protein": "Genome polyprotein",
+        "serial": 454,
+        "crosses": "323",
+        "type": "Poly"
+    },
+    {
+        "pdb": "5ZWL",
+        "protein": "ATP synthase epsilon chain",
+        "serial": 455,
+        "crosses": "353",
+        "type": "Poly"
+    },
+    {
+        "pdb": "2KGJ",
+        "protein": "Periplasmic chaperone PpiD",
+        "serial": 456,
+        "crosses": "105",
+        "type": "Single"
+    },
+    {
+        "pdb": "2Y4E",
+        "protein": "Deferrochelatase",
+        "serial": 457,
+        "crosses": "347",
+        "type": "Poly"
+    },
+    {
+        "pdb": "5MWM",
+        "protein": "Inositol-pentakisphosphate 2-kinase",
+        "serial": 458,
+        "crosses": "140",
+        "type": "Single"
+    },
+    {
+        "pdb": "5CZZ",
+        "protein": "CRISPR-associated endonuclease Cas9",
+        "serial": 459,
+        "crosses": "336",
+        "type": "Poly"
+    },
+    {
+        "pdb": "6EDX",
+        "protein": "Serine/threonine-protein kinase Sgk3",
+        "serial": 460,
+        "crosses": "104",
+        "type": "Single"
+    },
+    {
+        "pdb": "2DC5",
+        "protein": "Glutathione S-transferase Mu 7",
+        "serial": 461,
+        "crosses": "330",
+        "type": "Poly"
+    },
+    {
+        "pdb": "6SZ5",
+        "protein": "Calmodulin-2",
+        "serial": 462,
+        "crosses": "120",
+        "type": "Poly"
+    },
+    {
+        "pdb": "1PYV",
+        "protein": "ATP synthase subunit beta, mitochondrial",
+        "serial": 463,
+        "crosses": "36",
+        "type": "Single"
+    },
+    {
+        "pdb": "4HHD",
+        "protein": "Phototropin-1",
+        "serial": 464,
+        "crosses": "330",
+        "type": "Poly"
+    },
+    {
+        "pdb": "3DEB",
+        "protein": "Botulinum neurotoxin type C",
+        "serial": 465,
+        "crosses": "134",
+        "type": "Single"
+    },
+    {
+        "pdb": "1Y7O",
+        "protein": "ATP-dependent Clp protease proteolytic subunit",
+        "serial": 466,
+        "crosses": "340",
+        "type": "Poly"
+    },
+    {
+        "pdb": "3J9V",
+        "protein": "V-type proton ATPase subunit B",
+        "serial": 467,
+        "crosses": "298",
+        "type": "Poly"
+    },
+    {
+        "pdb": "3LNC",
+        "protein": "Guanylate kinase",
+        "serial": 468,
+        "crosses": "331",
+        "type": "Poly"
+    },
+    {
+        "pdb": "5E0S",
+        "protein": "ATP-dependent Clp protease proteolytic subunit 2",
+        "serial": 469,
+        "crosses": "305",
+        "type": "Poly"
+    },
+    {
+        "pdb": "5FTA",
+        "protein": "BTB/POZ domain-containing adapter for CUL3-mediated RhoA degradation protein 3",
+        "serial": 470,
+        "crosses": "338",
+        "type": "Poly"
+    },
+    {
+        "pdb": "2VZW",
+        "protein": "Oxygen sensor histidine kinase response regulator DosT",
+        "serial": 471,
+        "crosses": "261",
+        "type": "Poly"
+    },
+    {
+        "pdb": "2EZ5",
+        "protein": "Protein commissureless 1",
+        "serial": 472,
+        "crosses": "22",
+        "type": "Poly"
+    },
+    {
+        "pdb": "6PBC",
+        "protein": "1-phosphatidylinositol 4,5-bisphosphate phosphodiesterase gamma",
+        "serial": 473,
+        "crosses": "75",
+        "type": "Single"
+    },
+    {
+        "pdb": "4CBK",
+        "protein": "ATP synthase subunit c",
+        "serial": 474,
+        "crosses": "347",
+        "type": "Poly"
+    },
+    {
+        "pdb": "1UMK",
+        "protein": "NADH-cytochrome b5 reductase 3",
+        "serial": 475,
+        "crosses": "150",
+        "type": "Single"
+    },
+    {
+        "pdb": "3MP5",
+        "protein": "Hydroxymethylglutaryl-CoA lyase, mitochondrial",
+        "serial": 476,
+        "crosses": "326",
+        "type": "Poly"
+    },
+    {
+        "pdb": "2GCF",
+        "protein": "Probable copper-transporting ATPase PacS",
+        "serial": 477,
+        "crosses": "42",
+        "type": "Single"
+    },
+    {
+        "pdb": "5LQX",
+        "protein": "ATP synthase subunit epsilon, mitochondrial",
+        "serial": 478,
+        "crosses": "308",
+        "type": "Poly"
+    },
+    {
+        "pdb": "3JR8",
+        "protein": "Basic phospholipase A2 homolog bothropstoxin-II",
+        "serial": 479,
+        "crosses": "195",
+        "type": "Poly"
+    },
+    {
+        "pdb": "5CDF",
+        "protein": "ATP synthase subunit alpha",
+        "serial": 480,
+        "crosses": "347",
+        "type": "Poly"
+    },
+    {
+        "pdb": "6X5Q",
+        "protein": "Glutamate receptor 1",
+        "serial": 481,
+        "crosses": "191",
+        "type": "Poly"
+    },
+    {
+        "pdb": "1XR5",
+        "protein": "Genome polyprotein",
+        "serial": 482,
+        "crosses": "133",
+        "type": "Single"
+    },
+    {
+        "pdb": "3UJK",
+        "protein": "Protein phosphatase 2C 77",
+        "serial": 483,
+        "crosses": "151",
+        "type": "Single"
+    },
+    {
+        "pdb": "2RQ6",
+        "protein": "ATP synthase epsilon chain",
+        "serial": 484,
+        "crosses": "146",
+        "type": "Single"
+    },
+    {
+        "pdb": "5G5S",
+        "protein": "Protein argonaute",
+        "serial": 485,
+        "crosses": "115",
+        "type": "Single"
+    },
+    {
+        "pdb": "4A1X",
+        "protein": "Genome polyprotein",
+        "serial": 486,
+        "crosses": "334",
+        "type": "Poly"
+    },
+    {
+        "pdb": "2ZFD",
+        "protein": "Calcineurin B-like protein 2",
+        "serial": 487,
+        "crosses": "285",
+        "type": "Poly"
+    },
+    {
+        "pdb": "2KMX",
+        "protein": "Copper-transporting ATPase 1",
+        "serial": 488,
+        "crosses": "150",
+        "type": "Single"
+    },
+    {
+        "pdb": "4JCT",
+        "protein": "ATP-dependent Clp protease proteolytic subunit",
+        "serial": 489,
+        "crosses": "343",
+        "type": "Poly"
+    },
+    {
+        "pdb": "3A5C",
+        "protein": "V-type ATP synthase subunit D",
+        "serial": 490,
+        "crosses": "307",
+        "type": "Poly"
+    },
+    {
+        "pdb": "5T4Q",
+        "protein": "ATP synthase epsilon chain",
+        "serial": 491,
+        "crosses": "304",
+        "type": "Poly"
+    },
+    {
+        "pdb": "3SHR",
+        "protein": "cGMP-dependent protein kinase 1",
+        "serial": 492,
+        "crosses": "347",
+        "type": "Poly"
+    },
+    {
+        "pdb": "4B9D",
+        "protein": "Serine/threonine-protein kinase Nek1",
+        "serial": 493,
+        "crosses": "352",
+        "type": "Poly"
+    },
+    {
+        "pdb": "5JJ2",
+        "protein": "A-kinase anchor protein 7 isoform gamma",
+        "serial": 494,
+        "crosses": "149",
+        "type": "Single"
+    },
+    {
+        "pdb": "1W9M",
+        "protein": "Hydroxylamine reductase",
+        "serial": 495,
+        "crosses": "133",
+        "type": "Single"
+    },
+    {
+        "pdb": "3MTG",
+        "protein": "S-adenosylhomocysteine hydrolase-like protein 1",
+        "serial": 496,
+        "crosses": "347",
+        "type": "Poly"
+    },
+    {
+        "pdb": "6X60",
+        "protein": "ATP-dependent Clp protease proteolytic subunit 2",
+        "serial": 497,
+        "crosses": "340",
+        "type": "Poly"
+    },
+    {
+        "pdb": "5FL7",
+        "protein": "ATP synthase subunit epsilon, mitochondrial",
+        "serial": 498,
+        "crosses": "317",
+        "type": "Poly"
+    },
+    {
+        "pdb": "1Q0M",
+        "protein": "Superoxide dismutase [Ni]",
+        "serial": 499,
+        "crosses": "354",
+        "type": "Poly"
+    },
+    {
+        "pdb": "7CGP",
+        "protein": "Mitochondrial import inner membrane translocase subunit Tim10",
+        "serial": 500,
+        "crosses": "319",
+        "type": "Poly"
+    },
+    {
+        "pdb": "3A4O",
+        "protein": "Tyrosine-protein kinase Lyn",
+        "serial": 501,
+        "crosses": "151",
+        "type": "Single"
+    },
+    {
+        "pdb": "3AYL",
+        "protein": "Phenylalanine 2-monooxygenase precursor",
+        "serial": 502,
+        "crosses": "347",
+        "type": "Poly"
+    },
+    {
+        "pdb": "2W6J",
+        "protein": "ATP synthase subunit beta, mitochondrial",
+        "serial": 503,
+        "crosses": "317",
+        "type": "Poly"
+    },
+    {
+        "pdb": "5ZE9",
+        "protein": "V-type sodium ATPase catalytic subunit A",
+        "serial": 504,
+        "crosses": "317",
+        "type": "Poly"
+    },
+    {
+        "pdb": "6IAJ",
+        "protein": "Ferritin, middle subunit",
+        "serial": 505,
+        "crosses": "141",
+        "type": "Single"
+    },
+    {
+        "pdb": "3AOU",
+        "protein": "V-type sodium ATPase subunit K",
+        "serial": 506,
+        "crosses": "328",
+        "type": "Poly"
+    },
+    {
+        "pdb": "6LIO",
+        "protein": "[Pyruvate dehydrogenase (acetyl-transferring)] kinase isozyme 2, mitochondrial",
+        "serial": 507,
+        "crosses": "350",
+        "type": "Poly"
+    },
+    {
+        "pdb": "4IL1",
+        "protein": "Calmodulin-1",
+        "serial": 508,
+        "crosses": "317",
+        "type": "Poly"
+    },
+    {
+        "pdb": "1QD1",
+        "protein": "Formimidoyltransferase-cyclodeaminase",
+        "serial": 509,
+        "crosses": "352",
+        "type": "Poly"
+    },
+    {
+        "pdb": "3DLW",
+        "protein": "Alpha-1-antichymotrypsin",
+        "serial": 510,
+        "crosses": "133",
+        "type": "Single"
+    },
+    {
+        "pdb": "1AUI",
+        "protein": "Calcineurin subunit B type 1",
+        "serial": 511,
+        "crosses": "354",
+        "type": "Poly"
+    },
+    {
+        "pdb": "3ELO",
+        "protein": "Phospholipase A2",
+        "serial": 512,
+        "crosses": "80",
+        "type": "Single"
+    },
+    {
+        "pdb": "2PLA",
+        "protein": "Glycerol-3-phosphate dehydrogenase 1-like protein",
+        "serial": 513,
+        "crosses": "354",
+        "type": "Poly"
+    },
+    {
+        "pdb": "4GNA",
+        "protein": "Regucalcin",
+        "serial": 514,
+        "crosses": "354",
+        "type": "Poly"
+    },
+    {
+        "pdb": "1B4P",
+        "protein": "Glutathione S-transferase Mu 2",
+        "serial": 515,
+        "crosses": "149",
+        "type": "Single"
+    },
+    {
+        "pdb": "3JRQ",
+        "protein": "Protein phosphatase 2C 56",
+        "serial": 516,
+        "crosses": "355",
+        "type": "Poly"
+    },
+    {
+        "pdb": "3J09",
+        "protein": "Probable copper-exporting P-type ATPase",
+        "serial": 517,
+        "crosses": "333",
+        "type": "Poly"
+    },
+    {
+        "pdb": "6V0O",
+        "protein": "Protein arginine N-methyltransferase 5",
+        "serial": 518,
+        "crosses": "346",
+        "type": "Poly"
+    },
+    {
+        "pdb": "4MZS",
+        "protein": "Cathepsin S",
+        "serial": 519,
+        "crosses": "329",
+        "type": "Poly"
+    },
+    {
+        "pdb": "2PFD",
+        "protein": "Formimidoyltransferase-cyclodeaminase",
+        "serial": 520,
+        "crosses": "317",
+        "type": "Poly"
+    },
+    {
+        "pdb": "4K50",
+        "protein": "Genome polyprotein",
+        "serial": 521,
+        "crosses": "314",
+        "type": "Poly"
+    },
+    {
+        "pdb": "3MDY",
+        "protein": "Bone morphogenetic protein receptor type-1B",
+        "serial": 522,
+        "crosses": "345",
+        "type": "Poly"
+    },
+    {
+        "pdb": "5BWK",
+        "protein": "Golgi to ER traffic protein 4",
+        "serial": 523,
+        "crosses": "304",
+        "type": "Poly"
+    },
+    {
+        "pdb": "6C0T",
+        "protein": "cGMP-dependent protein kinase 1",
+        "serial": 524,
+        "crosses": "151",
+        "type": "Single"
+    },
+    {
+        "pdb": "1S8G",
+        "protein": "Basic phospholipase A2 homolog MT1",
+        "serial": 525,
+        "crosses": "112",
+        "type": "Single"
+    },
+    {
+        "pdb": "5WH6",
+        "protein": "cAMP-specific 3',5'-cyclic phosphodiesterase 4D",
+        "serial": 526,
+        "crosses": "350",
+        "type": "Poly"
+    },
+    {
+        "pdb": "6OTT",
+        "protein": "Amidophosphoribosyltransferase",
+        "serial": 527,
+        "crosses": "347",
+        "type": "Poly"
+    },
+    {
+        "pdb": "2L2K",
+        "protein": "Double-stranded RNA-specific editase 1",
+        "serial": 528,
+        "crosses": "8",
+        "type": "Poly"
+    },
+    {
+        "pdb": "5WBE",
+        "protein": "Prostaglandin G/H synthase 1",
+        "serial": 529,
+        "crosses": "342",
+        "type": "Poly"
+    },
+    {
+        "pdb": "5BWA",
+        "protein": "Ornithine decarboxylase",
+        "serial": 530,
+        "crosses": "353",
+        "type": "Poly"
+    },
+    {
+        "pdb": "4X0F",
+        "protein": "cAMP-specific 3',5'-cyclic phosphodiesterase 4B",
+        "serial": 531,
+        "crosses": "347",
+        "type": "Poly"
+    },
+    {
+        "pdb": "6MHD",
+        "protein": "Glutathione S-transferase omega-1",
+        "serial": 532,
+        "crosses": "354",
+        "type": "Poly"
+    },
+    {
+        "pdb": "4WUZ",
+        "protein": "Exonuclease",
+        "serial": 533,
+        "crosses": "348",
+        "type": "Poly"
+    },
+    {
+        "pdb": "5KS7",
+        "protein": "Carnitine transport ATP-binding protein OpuCA",
+        "serial": 534,
+        "crosses": "12",
+        "type": "Poly"
+    },
+    {
+        "pdb": "7KY6",
+        "protein": "Phospholipid-transporting ATPase DNF1",
+        "serial": 535,
+        "crosses": "331",
+        "type": "Poly"
+    },
+    {
+        "pdb": "2XOK",
+        "protein": "ATP SYNTHASE",
+        "serial": 536,
+        "crosses": "315",
+        "type": "Poly"
+    },
+    {
+        "pdb": "3TSY",
+        "protein": "4-Coumaroyl-CoA Ligase::Stilbene Synthase fusion protein",
+        "serial": 537,
+        "crosses": "92",
+        "type": "Single"
     }
 ]

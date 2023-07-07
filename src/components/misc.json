@@ -1,0 +1,2192 @@
+[
+    {
+        "pdb": "2KGL",
+        "protein": "LRP chaperone MESD",
+        "serial": 1,
+        "crosses": "82"
+    },
+    {
+        "pdb": "1N11",
+        "protein": "Ankyrin-1",
+        "serial": 2,
+        "crosses": "80"
+    },
+    {
+        "pdb": "3LUE",
+        "protein": "Actin, cytoplasmic 1",
+        "serial": 3,
+        "crosses": "189",
+        "type": "Poly"
+    },
+    {
+        "pdb": "4XST",
+        "protein": "Insulin receptor",
+        "serial": 4,
+        "crosses": "170",
+        "type": "Poly"
+    },
+    {
+        "pdb": "5SV7",
+        "protein": "Eukaryotic translation initiation factor 2-alpha kinase 3",
+        "serial": 5,
+        "crosses": "216",
+        "type": "Poly"
+    },
+    {
+        "pdb": "6W6W",
+        "protein": "CST complex subunit CTC1",
+        "serial": 6,
+        "crosses": "205",
+        "type": "Poly"
+    },
+    {
+        "pdb": "4UE9",
+        "protein": "Eukaryotic translation initiation factor 4E1",
+        "serial": 7,
+        "crosses": "107",
+        "type": "Poly"
+    },
+    {
+        "pdb": "6GGG",
+        "protein": "Mineralocorticoid receptor",
+        "serial": 8,
+        "crosses": "85",
+        "type": "Poly"
+    },
+    {
+        "pdb": "2X3X",
+        "protein": "Protein kinase C and casein kinase substrate in neurons protein 1",
+        "serial": 9,
+        "crosses": "198",
+        "type": "Poly"
+    },
+    {
+        "pdb": "5DJE",
+        "protein": "Zuotin",
+        "serial": 10,
+        "crosses": "213",
+        "type": "Poly"
+    },
+    {
+        "pdb": "1SKN",
+        "protein": "Protein skinhead-1",
+        "serial": 11,
+        "crosses": "3",
+        "type": "Poly"
+    },
+    {
+        "pdb": "3KMZ",
+        "protein": "Nuclear receptor corepressor 1",
+        "serial": 12,
+        "crosses": "223",
+        "type": "Poly"
+    },
+    {
+        "pdb": "2CTT",
+        "protein": "DnaJ homolog subfamily A member 3, mitochondrial",
+        "serial": 13,
+        "crosses": "39"
+    },
+    {
+        "pdb": "6AHF",
+        "protein": "Heat shock protein 104",
+        "serial": 14,
+        "crosses": "188",
+        "type": "Poly"
+    },
+    {
+        "pdb": "2GSW",
+        "protein": "FMN-dependent NADPH-azoreductase",
+        "serial": 15,
+        "crosses": "224",
+        "type": "Poly"
+    },
+    {
+        "pdb": "1NQL",
+        "protein": "Epidermal growth factor receptor",
+        "serial": 16,
+        "crosses": "213",
+        "type": "Poly"
+    },
+    {
+        "pdb": "2CJS",
+        "protein": "Protein unc-13 homolog A",
+        "serial": 17,
+        "crosses": "208",
+        "type": "Poly"
+    },
+    {
+        "pdb": "4LEE",
+        "protein": "Agglutinin-like protein 3",
+        "serial": 18,
+        "crosses": "208",
+        "type": "Poly"
+    },
+    {
+        "pdb": "3DXB",
+        "protein": "Thioredoxin 1",
+        "serial": 19,
+        "crosses": "207",
+        "type": "Poly"
+    },
+    {
+        "pdb": "2WV3",
+        "protein": "Neuroplastin",
+        "serial": 20,
+        "crosses": "82"
+    },
+    {
+        "pdb": "2XB1",
+        "protein": "B-cell CLL/lymphoma 9-like protein",
+        "serial": 21,
+        "crosses": "135",
+        "type": "Poly"
+    },
+    {
+        "pdb": "3X0F",
+        "protein": "CD81 antigen",
+        "serial": 22,
+        "crosses": "64",
+        "type": "Poly"
+    },
+    {
+        "pdb": "6YAI",
+        "protein": "Clathrin light chain",
+        "serial": 23,
+        "crosses": "172",
+        "type": "Poly"
+    },
+    {
+        "pdb": "3IET",
+        "protein": "Podoplanin",
+        "serial": 24,
+        "crosses": "213",
+        "type": "Poly"
+    },
+    {
+        "pdb": "3TT9",
+        "protein": "Plakophilin-2",
+        "serial": 25,
+        "crosses": "81"
+    },
+    {
+        "pdb": "6BIR",
+        "protein": "HLA class II histocompatibility antigen, DR alpha chain",
+        "serial": 26,
+        "crosses": "204",
+        "type": "Poly"
+    },
+    {
+        "pdb": "4ZJM",
+        "protein": "Lipoprotein LpqH",
+        "serial": 27,
+        "crosses": "216",
+        "type": "Poly"
+    },
+    {
+        "pdb": "3P40",
+        "protein": "Neurofascin",
+        "serial": 28,
+        "crosses": "77"
+    },
+    {
+        "pdb": "3MW2",
+        "protein": "Neurexin-1",
+        "serial": 29,
+        "crosses": "212",
+        "type": "Poly"
+    },
+    {
+        "pdb": "2WY0",
+        "protein": "Angiotensinogen",
+        "serial": 30,
+        "crosses": "81"
+    },
+    {
+        "pdb": "1W5C",
+        "protein": "Cytochrome c-550",
+        "serial": 31,
+        "crosses": "179",
+        "type": "Poly"
+    },
+    {
+        "pdb": "5Z49",
+        "protein": "HTH-type transcriptional activator CmpR",
+        "serial": 32,
+        "crosses": "224",
+        "type": "Poly"
+    },
+    {
+        "pdb": "3G3O",
+        "protein": "Vacuolar transporter chaperone complex subunit 2",
+        "serial": 33,
+        "crosses": "81"
+    },
+    {
+        "pdb": "2N53",
+        "protein": "Major prion protein",
+        "serial": 34,
+        "crosses": "32"
+    },
+    {
+        "pdb": "2D11",
+        "protein": "Radixin",
+        "serial": 35,
+        "crosses": "205",
+        "type": "Poly"
+    },
+    {
+        "pdb": "3M7L",
+        "protein": "Tellurite resistance protein TehA homolog",
+        "serial": 36,
+        "crosses": "81"
+    },
+    {
+        "pdb": "6KLU",
+        "protein": "Troponin C, slow skeletal and cardiac muscles",
+        "serial": 37,
+        "crosses": "224",
+        "type": "Poly"
+    },
+    {
+        "pdb": "1EG3",
+        "protein": "Dystrophin",
+        "serial": 38,
+        "crosses": "81"
+    },
+    {
+        "pdb": "4J8R",
+        "protein": "Major prion protein",
+        "serial": 39,
+        "crosses": "213",
+        "type": "Poly"
+    },
+    {
+        "pdb": "3H0T",
+        "protein": "Hepcidin",
+        "serial": 40,
+        "crosses": "212",
+        "type": "Poly"
+    },
+    {
+        "pdb": "3EGF",
+        "protein": "Pro-epidermal growth factor",
+        "serial": 41,
+        "crosses": "48"
+    },
+    {
+        "pdb": "6BAQ",
+        "protein": "BPI fold-containing family A member 1",
+        "serial": 42,
+        "crosses": "205",
+        "type": "Poly"
+    },
+    {
+        "pdb": "3LNL",
+        "protein": "GTP cyclohydrolase 1 type 2 homolog",
+        "serial": 43,
+        "crosses": "213",
+        "type": "Poly"
+    },
+    {
+        "pdb": "2EYN",
+        "protein": "Alpha-actinin-1",
+        "serial": 44,
+        "crosses": "82"
+    },
+    {
+        "pdb": "4Q9U",
+        "protein": "Ras-related protein Rab-5A",
+        "serial": 45,
+        "crosses": "204",
+        "type": "Poly"
+    },
+    {
+        "pdb": "3C0C",
+        "protein": "Endophilin-A2",
+        "serial": 46,
+        "crosses": "22"
+    },
+    {
+        "pdb": "5YQ3",
+        "protein": "16 kDa phloem protein 1",
+        "serial": 47,
+        "crosses": "71"
+    },
+    {
+        "pdb": "3D1M",
+        "protein": "Cell adhesion molecule-related/down-regulated by oncogenes",
+        "serial": 48,
+        "crosses": "223",
+        "type": "Poly"
+    },
+    {
+        "pdb": "6N85",
+        "protein": "Guanine nucleotide-binding protein G(t) subunit alpha-2",
+        "serial": 49,
+        "crosses": "216",
+        "type": "Poly"
+    },
+    {
+        "pdb": "2F5T",
+        "protein": "HTH-type sugar sensing transcriptional regulator TrmB",
+        "serial": 50,
+        "crosses": "71"
+    },
+    {
+        "pdb": "2Z6H",
+        "protein": "Catenin beta-1",
+        "serial": 51,
+        "crosses": "74"
+    },
+    {
+        "pdb": "2F8V",
+        "protein": "Telethonin",
+        "serial": 52,
+        "crosses": "205",
+        "type": "Poly"
+    },
+    {
+        "pdb": "4LNU",
+        "protein": "Tubulin beta chain",
+        "serial": 53,
+        "crosses": "212",
+        "type": "Poly"
+    },
+    {
+        "pdb": "6Y9O",
+        "protein": "Peripheral plasma membrane protein CASK",
+        "serial": 54,
+        "crosses": "1",
+        "type": "Poly"
+    },
+    {
+        "pdb": "1QK7",
+        "protein": "U5-theraphotoxin-Hs1a 1",
+        "serial": 55,
+        "crosses": "24"
+    },
+    {
+        "pdb": "3SHW",
+        "protein": "Gap junction gamma-1 protein",
+        "serial": 56,
+        "crosses": "224",
+        "type": "Poly"
+    },
+    {
+        "pdb": "6N9O",
+        "protein": "Gasdermin-D",
+        "serial": 57,
+        "crosses": "207",
+        "type": "Poly"
+    },
+    {
+        "pdb": "6PEZ",
+        "protein": "Piscidin-3",
+        "serial": 58,
+        "crosses": "13"
+    },
+    {
+        "pdb": "6N9N",
+        "protein": "Gasdermin-D",
+        "serial": 59,
+        "crosses": "213",
+        "type": "Poly"
+    },
+    {
+        "pdb": "3VI4",
+        "protein": "Integrin beta-1",
+        "serial": 60,
+        "crosses": "187",
+        "type": "Poly"
+    },
+    {
+        "pdb": "6C6T",
+        "protein": "DNA-directed RNA polymerase subunit alpha",
+        "serial": 61,
+        "crosses": "187",
+        "type": "Poly"
+    },
+    {
+        "pdb": "5SZI",
+        "protein": "[F-actin]-monooxygenase MICAL2",
+        "serial": 62,
+        "crosses": "192",
+        "type": "Poly"
+    },
+    {
+        "pdb": "6Z7Z",
+        "protein": "Insulin",
+        "serial": 63,
+        "crosses": "213",
+        "type": "Poly"
+    },
+    {
+        "pdb": "3UZV",
+        "protein": "Genome polyprotein",
+        "serial": 64,
+        "crosses": "188",
+        "type": "Poly"
+    },
+    {
+        "pdb": "5VVM",
+        "protein": "Cadherin-23",
+        "serial": 65,
+        "crosses": "211",
+        "type": "Poly"
+    },
+    {
+        "pdb": "3RSW",
+        "protein": "Fatty acid-binding protein, heart",
+        "serial": 66,
+        "crosses": "187",
+        "type": "Poly"
+    },
+    {
+        "pdb": "5Z2M",
+        "protein": "Ras-related protein Rab-7a",
+        "serial": 67,
+        "crosses": "216",
+        "type": "Poly"
+    },
+    {
+        "pdb": "5Z5R",
+        "protein": "Lantibiotic nukacin",
+        "serial": 68,
+        "crosses": "21"
+    },
+    {
+        "pdb": "1YDI",
+        "protein": "Alpha-actinin-4",
+        "serial": 69,
+        "crosses": "199",
+        "type": "Poly"
+    },
+    {
+        "pdb": "1UIT",
+        "protein": "Disks large homolog 5",
+        "serial": 70,
+        "crosses": "81"
+    },
+    {
+        "pdb": "6GB7",
+        "protein": "Nucleoprotein",
+        "serial": 71,
+        "crosses": "206",
+        "type": "Poly"
+    },
+    {
+        "pdb": "5BT1",
+        "protein": "Histone H2B.1",
+        "serial": 72,
+        "crosses": "217",
+        "type": "Poly"
+    },
+    {
+        "pdb": "2XS0",
+        "protein": "Mitogen-activated protein kinase 8",
+        "serial": 73,
+        "crosses": "199",
+        "type": "Poly"
+    },
+    {
+        "pdb": "7D42",
+        "protein": "Nuclear receptor coactivator 2",
+        "serial": 74,
+        "crosses": "83",
+        "type": "Poly"
+    },
+    {
+        "pdb": "3NSJ",
+        "protein": "Perforin-1",
+        "serial": 75,
+        "crosses": "73"
+    },
+    {
+        "pdb": "6AWL",
+        "protein": "Ubiquinone biosynthesis protein COQ9, mitochondrial",
+        "serial": 76,
+        "crosses": "216",
+        "type": "Poly"
+    },
+    {
+        "pdb": "3V8O",
+        "protein": "Filamin-C",
+        "serial": 77,
+        "crosses": "178",
+        "type": "Poly"
+    },
+    {
+        "pdb": "5J6H",
+        "protein": "Beta-2-microglobulin",
+        "serial": 78,
+        "crosses": "212",
+        "type": "Poly"
+    },
+    {
+        "pdb": "4ZS8",
+        "protein": "HTH-type transcriptional repressor DasR",
+        "serial": 79,
+        "crosses": "216",
+        "type": "Poly"
+    },
+    {
+        "pdb": "2ZSI",
+        "protein": "DELLA protein GAI",
+        "serial": 80,
+        "crosses": "191",
+        "type": "Poly"
+    },
+    {
+        "pdb": "3VKF",
+        "protein": "Neurexin-1-beta",
+        "serial": 81,
+        "crosses": "205",
+        "type": "Poly"
+    },
+    {
+        "pdb": "3QPH",
+        "protein": "HTH-type sugar sensing transcriptional regulator TrmB",
+        "serial": 82,
+        "crosses": "74"
+    },
+    {
+        "pdb": "3J5S",
+        "protein": "30S ribosomal protein S7",
+        "serial": 83,
+        "crosses": "203",
+        "type": "Poly"
+    },
+    {
+        "pdb": "6M3P",
+        "protein": "Ankyrin-3",
+        "serial": 84,
+        "crosses": "175",
+        "type": "Poly"
+    },
+    {
+        "pdb": "7CKQ",
+        "protein": "DNA-directed RNA polymerase subunit epsilon",
+        "serial": 85,
+        "crosses": "195",
+        "type": "Poly"
+    },
+    {
+        "pdb": "4H11",
+        "protein": "Disks large homolog 2",
+        "serial": 86,
+        "crosses": "182",
+        "type": "Poly"
+    },
+    {
+        "pdb": "1BCV",
+        "protein": "Genome polyprotein",
+        "serial": 87,
+        "crosses": "26"
+    },
+    {
+        "pdb": "3IFQ",
+        "protein": "Cadherin-1",
+        "serial": 88,
+        "crosses": "208",
+        "type": "Poly"
+    },
+    {
+        "pdb": "4DUM",
+        "protein": "Eukaryotic translation initiation factor 4E",
+        "serial": 89,
+        "crosses": "81"
+    },
+    {
+        "pdb": "1R8D",
+        "protein": "HTH-type transcriptional activator mta",
+        "serial": 90,
+        "crosses": "219",
+        "type": "Poly"
+    },
+    {
+        "pdb": "3P8X",
+        "protein": "Vitamin D3 receptor",
+        "serial": 91,
+        "crosses": "81"
+    },
+    {
+        "pdb": "1SG2",
+        "protein": "Chaperone protein Skp",
+        "serial": 92,
+        "crosses": "213",
+        "type": "Poly"
+    },
+    {
+        "pdb": "5Y4M",
+        "protein": "Contactin-associated protein-like 2",
+        "serial": 93,
+        "crosses": "43"
+    },
+    {
+        "pdb": "7C77",
+        "protein": "Protein unc-93 homolog B1",
+        "serial": 94,
+        "crosses": "208",
+        "type": "Poly"
+    },
+    {
+        "pdb": "1BT6",
+        "protein": "Annexin A2",
+        "serial": 95,
+        "crosses": "105",
+        "type": "Poly"
+    },
+    {
+        "pdb": "5NRO",
+        "protein": "Chaperone protein DnaJ",
+        "serial": 96,
+        "crosses": "213",
+        "type": "Poly"
+    },
+    {
+        "pdb": "2CSJ",
+        "protein": "Tight junction protein ZO-2",
+        "serial": 97,
+        "crosses": "81"
+    },
+    {
+        "pdb": "3S0Y",
+        "protein": "Motility protein B",
+        "serial": 98,
+        "crosses": "221",
+        "type": "Poly"
+    },
+    {
+        "pdb": "1JO5",
+        "protein": "Light-harvesting protein B-875 beta chain",
+        "serial": 99,
+        "crosses": "34"
+    },
+    {
+        "pdb": "2MAA",
+        "protein": "Temporin-1Ta",
+        "serial": 100,
+        "crosses": "1"
+    },
+    {
+        "pdb": "6DDA",
+        "protein": "Nuclear receptor subfamily 4 group A member 2",
+        "serial": 101,
+        "crosses": "216",
+        "type": "Poly"
+    },
+    {
+        "pdb": "2HQ5",
+        "protein": "HTH-type transcriptional regulator QacR",
+        "serial": 102,
+        "crosses": "213",
+        "type": "Poly"
+    },
+    {
+        "pdb": "6HCE",
+        "protein": "Riboflavin-binding protein",
+        "serial": 103,
+        "crosses": "82"
+    },
+    {
+        "pdb": "6A69",
+        "protein": "Plasma membrane calcium-transporting ATPase 1",
+        "serial": 104,
+        "crosses": "211",
+        "type": "Poly"
+    },
+    {
+        "pdb": "4F38",
+        "protein": "Rho GDP-dissociation inhibitor 1",
+        "serial": 105,
+        "crosses": "223",
+        "type": "Poly"
+    },
+    {
+        "pdb": "4HGA",
+        "protein": "Histone H4",
+        "serial": 106,
+        "crosses": "192",
+        "type": "Poly"
+    },
+    {
+        "pdb": "2XB6",
+        "protein": "Neurexin-1-beta",
+        "serial": 107,
+        "crosses": "207",
+        "type": "Poly"
+    },
+    {
+        "pdb": "5TCX",
+        "protein": "CD81 antigen",
+        "serial": 108,
+        "crosses": "80"
+    },
+    {
+        "pdb": "6M5G",
+        "protein": "Utrophin",
+        "serial": 109,
+        "crosses": "200",
+        "type": "Poly"
+    },
+    {
+        "pdb": "5Y2Z",
+        "protein": "Leucine-rich glioma-inactivated protein 1",
+        "serial": 110,
+        "crosses": "179",
+        "type": "Poly"
+    },
+    {
+        "pdb": "3HAJ",
+        "protein": "Protein kinase C and casein kinase substrate in neurons protein 2",
+        "serial": 111,
+        "crosses": "213",
+        "type": "Poly"
+    },
+    {
+        "pdb": "1KJV",
+        "protein": "Beta-2-microglobulin",
+        "serial": 112,
+        "crosses": "223",
+        "type": "Poly"
+    },
+    {
+        "pdb": "4QNQ",
+        "protein": "Bcl-2-like protein 1",
+        "serial": 113,
+        "crosses": "201",
+        "type": "Poly"
+    },
+    {
+        "pdb": "5NBB",
+        "protein": "RNA chaperone ProQ",
+        "serial": 114,
+        "crosses": "22"
+    },
+    {
+        "pdb": "3HBW",
+        "protein": "Fibroblast growth factor 13",
+        "serial": 115,
+        "crosses": "154",
+        "type": "Poly"
+    },
+    {
+        "pdb": "4Z64",
+        "protein": "Phytosulfokine-alpha",
+        "serial": 116,
+        "crosses": "213",
+        "type": "Poly"
+    },
+    {
+        "pdb": "2JGC",
+        "protein": "Eukaryotic translation initiation factor 4E type 2",
+        "serial": 117,
+        "crosses": "83",
+        "type": "Poly"
+    },
+    {
+        "pdb": "6XTU",
+        "protein": "Lysine export transcriptional regulatory protein LysG",
+        "serial": 118,
+        "crosses": "214",
+        "type": "Poly"
+    },
+    {
+        "pdb": "1WFJ",
+        "protein": "16 kDa phloem protein 2",
+        "serial": 119,
+        "crosses": "82"
+    },
+    {
+        "pdb": "2L03",
+        "protein": "Ly-6/neurotoxin-like protein 1",
+        "serial": 120,
+        "crosses": "60"
+    },
+    {
+        "pdb": "1A11",
+        "protein": "Acetylcholine receptor subunit delta",
+        "serial": 121,
+        "crosses": "18"
+    },
+    {
+        "pdb": "4D1E",
+        "protein": "Alpha-actinin-2",
+        "serial": 122,
+        "crosses": "39"
+    },
+    {
+        "pdb": "3PPE",
+        "protein": "Cadherin-5",
+        "serial": 123,
+        "crosses": "221",
+        "type": "Poly"
+    },
+    {
+        "pdb": "6SF6",
+        "protein": "Cartilage oligomeric matrix protein",
+        "serial": 124,
+        "crosses": "213",
+        "type": "Poly"
+    },
+    {
+        "pdb": "1UEY",
+        "protein": "Neuronal cell adhesion molecule",
+        "serial": 125,
+        "crosses": "81"
+    },
+    {
+        "pdb": "5XAX",
+        "protein": "Sodium channel subunit beta-4",
+        "serial": 126,
+        "crosses": "86",
+        "type": "Poly"
+    },
+    {
+        "pdb": "6PSD",
+        "protein": "EF-hand calcium-binding domain-containing protein 4B",
+        "serial": 127,
+        "crosses": "213",
+        "type": "Poly"
+    },
+    {
+        "pdb": "2OSZ",
+        "protein": "Nucleoporin p58/p45",
+        "serial": 128,
+        "crosses": "223",
+        "type": "Poly"
+    },
+    {
+        "pdb": "6W21",
+        "protein": "ATP-dependent Clp protease proteolytic subunit",
+        "serial": 129,
+        "crosses": "188",
+        "type": "Poly"
+    },
+    {
+        "pdb": "2IX3",
+        "protein": "Elongation factor 3A",
+        "serial": 130,
+        "crosses": "208",
+        "type": "Poly"
+    },
+    {
+        "pdb": "2Q3S",
+        "protein": "Protein RISC-INTERACTING CLEARING 3'-5' EXORIBONUCLEASE 2",
+        "serial": 131,
+        "crosses": "208",
+        "type": "Poly"
+    },
+    {
+        "pdb": "2CSS",
+        "protein": "Regulating synaptic membrane exocytosis protein 1",
+        "serial": 132,
+        "crosses": "61"
+    },
+    {
+        "pdb": "6IGN",
+        "protein": "Kinesin-1 heavy chain",
+        "serial": 133,
+        "crosses": "29"
+    },
+    {
+        "pdb": "6FV0",
+        "protein": "Kinesin light chain 1",
+        "serial": 134,
+        "crosses": "212",
+        "type": "Poly"
+    },
+    {
+        "pdb": "6OPC",
+        "protein": "Cell division control protein 48",
+        "serial": 135,
+        "crosses": "191",
+        "type": "Poly"
+    },
+    {
+        "pdb": "4HNA",
+        "protein": "Tubulin beta chain",
+        "serial": 136,
+        "crosses": "209",
+        "type": "Poly"
+    },
+    {
+        "pdb": "1VF8",
+        "protein": "Chitinase-like protein 3",
+        "serial": 137,
+        "crosses": "81"
+    },
+    {
+        "pdb": "5H22",
+        "protein": "Heat shock protein HSP 90-alpha",
+        "serial": 138,
+        "crosses": "71"
+    },
+    {
+        "pdb": "6WR2",
+        "protein": "ATP-dependent Clp protease proteolytic subunit",
+        "serial": 139,
+        "crosses": "202",
+        "type": "Poly"
+    },
+    {
+        "pdb": "5MG3",
+        "protein": "Protein translocase subunit SecD",
+        "serial": 140,
+        "crosses": "208",
+        "type": "Poly"
+    },
+    {
+        "pdb": "4GAG",
+        "protein": "Genome polyprotein",
+        "serial": 141,
+        "crosses": "217",
+        "type": "Poly"
+    },
+    {
+        "pdb": "2QS9",
+        "protein": "Serine hydrolase RBBP9",
+        "serial": 142,
+        "crosses": "206",
+        "type": "Poly"
+    },
+    {
+        "pdb": "6OA9",
+        "protein": "Ubiquitin-60S ribosomal protein L40",
+        "serial": 143,
+        "crosses": "191",
+        "type": "Poly"
+    },
+    {
+        "pdb": "2KZ3",
+        "protein": "DNA repair protein RAD51 homolog 4",
+        "serial": 144,
+        "crosses": "80"
+    },
+    {
+        "pdb": "3JCM",
+        "protein": "Pre-mRNA-splicing factor 6",
+        "serial": 145,
+        "crosses": "172",
+        "type": "Poly"
+    },
+    {
+        "pdb": "1DEN",
+        "protein": "Kunitz-type serine protease inhibitor homolog dendrotoxin I",
+        "serial": 146,
+        "crosses": "27"
+    },
+    {
+        "pdb": "3DL2",
+        "protein": "Ubiquitin-conjugating enzyme E2 variant 3",
+        "serial": 147,
+        "crosses": "223",
+        "type": "Poly"
+    },
+    {
+        "pdb": "5M7L",
+        "protein": "Reaction center protein H chain",
+        "serial": 148,
+        "crosses": "212",
+        "type": "Poly"
+    },
+    {
+        "pdb": "2C5Q",
+        "protein": "4-hydroxy-4-methyl-2-oxoglutarate aldolase",
+        "serial": 149,
+        "crosses": "209",
+        "type": "Poly"
+    },
+    {
+        "pdb": "6SLO",
+        "protein": "Poly(U)-binding-splicing factor PUF60",
+        "serial": 150,
+        "crosses": "213",
+        "type": "Poly"
+    },
+    {
+        "pdb": "3IO3",
+        "protein": "ATPase GET3",
+        "serial": 151,
+        "crosses": "81"
+    },
+    {
+        "pdb": "6RR0",
+        "protein": "Regulatory protein SIR4",
+        "serial": 152,
+        "crosses": "213",
+        "type": "Poly"
+    },
+    {
+        "pdb": "4PJ1",
+        "protein": "60 kDa heat shock protein, mitochondrial",
+        "serial": 153,
+        "crosses": "173",
+        "type": "Poly"
+    },
+    {
+        "pdb": "2UVK",
+        "protein": "N-acetylneuraminate epimerase",
+        "serial": 154,
+        "crosses": "216",
+        "type": "Poly"
+    },
+    {
+        "pdb": "1UM8",
+        "protein": "ATP-dependent Clp protease ATP-binding subunit ClpX",
+        "serial": 155,
+        "crosses": "82"
+    },
+    {
+        "pdb": "3U88",
+        "protein": "Menin",
+        "serial": 156,
+        "crosses": "211",
+        "type": "Poly"
+    },
+    {
+        "pdb": "6HF3",
+        "protein": "Decaprenylphosphoryl-beta-D-ribose oxidase",
+        "serial": 157,
+        "crosses": "216",
+        "type": "Poly"
+    },
+    {
+        "pdb": "4M9Z",
+        "protein": "Cell death protein 4",
+        "serial": 158,
+        "crosses": "200",
+        "type": "Poly"
+    },
+    {
+        "pdb": "7A4V",
+        "protein": "Endoplasmic reticulum chaperone BiP",
+        "serial": 159,
+        "crosses": "74"
+    },
+    {
+        "pdb": "5GU7",
+        "protein": "Endoplasmic reticulum resident protein 44",
+        "serial": 160,
+        "crosses": "82"
+    },
+    {
+        "pdb": "2BYO",
+        "protein": "Putative phthiocerol dimycocerosate transporter LppX",
+        "serial": 161,
+        "crosses": "70"
+    },
+    {
+        "pdb": "7CK6",
+        "protein": "Mitochondrial import receptor subunit TOM40 homolog",
+        "serial": 162,
+        "crosses": "205",
+        "type": "Poly"
+    },
+    {
+        "pdb": "3RQT",
+        "protein": "Nickel-binding protein NikA",
+        "serial": 163,
+        "crosses": "82"
+    },
+    {
+        "pdb": "2AP2",
+        "protein": "ATP-dependent translocase ABCB1",
+        "serial": 164,
+        "crosses": "223",
+        "type": "Poly"
+    },
+    {
+        "pdb": "5ZXD",
+        "protein": "ATP-binding cassette sub-family F member 1",
+        "serial": 165,
+        "crosses": "211",
+        "type": "Poly"
+    },
+    {
+        "pdb": "2WWA",
+        "protein": "60S ribosomal protein L25",
+        "serial": 166,
+        "crosses": "194",
+        "type": "Poly"
+    },
+    {
+        "pdb": "3BO0",
+        "protein": "Preprotein translocase subunit SecG",
+        "serial": 167,
+        "crosses": "216",
+        "type": "Poly"
+    },
+    {
+        "pdb": "6T7S",
+        "protein": "Multidrug resistance protein MexB",
+        "serial": 168,
+        "crosses": "195",
+        "type": "Poly"
+    },
+    {
+        "pdb": "4OH3",
+        "protein": "Protein NRT1/ PTR FAMILY 6.3",
+        "serial": 169,
+        "crosses": "213",
+        "type": "Poly"
+    },
+    {
+        "pdb": "3BP8",
+        "protein": "Protein mlc",
+        "serial": 170,
+        "crosses": "210",
+        "type": "Poly"
+    },
+    {
+        "pdb": "5ABB",
+        "protein": "Protein translocase subunit SecE",
+        "serial": 171,
+        "crosses": "213",
+        "type": "Poly"
+    },
+    {
+        "pdb": "4CRM",
+        "protein": "Eukaryotic peptide chain release factor subunit 1",
+        "serial": 172,
+        "crosses": "209",
+        "type": "Poly"
+    },
+    {
+        "pdb": "5D1X",
+        "protein": "Iron-regulated surface determinant protein B",
+        "serial": 173,
+        "crosses": "212",
+        "type": "Poly"
+    },
+    {
+        "pdb": "6TA6",
+        "protein": "Multidrug resistance protein MexB",
+        "serial": 174,
+        "crosses": "179",
+        "type": "Poly"
+    },
+    {
+        "pdb": "4YZF",
+        "protein": "Band 3 anion transport protein",
+        "serial": 175,
+        "crosses": "189",
+        "type": "Poly"
+    },
+    {
+        "pdb": "6RQF",
+        "protein": "Cytochrome b6",
+        "serial": 176,
+        "crosses": "203",
+        "type": "Poly"
+    },
+    {
+        "pdb": "2KNS",
+        "protein": "Pardaxin P-4",
+        "serial": 177,
+        "crosses": "24"
+    },
+    {
+        "pdb": "6OQP",
+        "protein": "U-actitoxin-Ate1",
+        "serial": 178,
+        "crosses": "3"
+    },
+    {
+        "pdb": "1APF",
+        "protein": "Delta-actitoxin-Axm1b",
+        "serial": 179,
+        "crosses": "24"
+    },
+    {
+        "pdb": "6K51",
+        "protein": "Fungal defensin plectasin",
+        "serial": 180,
+        "crosses": "22"
+    },
+    {
+        "pdb": "1T55",
+        "protein": "Cytotoxic linear peptide IsCT",
+        "serial": 181,
+        "crosses": "9"
+    },
+    {
+        "pdb": "1BGK",
+        "protein": "Kappa-actitoxin-Bgr1a",
+        "serial": 182,
+        "crosses": "16"
+    },
+    {
+        "pdb": "1CIX",
+        "protein": "Tachystatin-A2",
+        "serial": 183,
+        "crosses": "26"
+    },
+    {
+        "pdb": "2KFE",
+        "protein": "Potassium channel toxin MeuTXKbeta3-meucin-24",
+        "serial": 184,
+        "crosses": "18"
+    },
+    {
+        "pdb": "6BUC",
+        "protein": "U-actitoxin-Oulsp2",
+        "serial": 185,
+        "crosses": "13"
+    },
+    {
+        "pdb": "1Y6N",
+        "protein": "Viral interleukin-10 homolog",
+        "serial": 186,
+        "crosses": "216",
+        "type": "Poly"
+    },
+    {
+        "pdb": "3T6Q",
+        "protein": "Lymphocyte antigen 86",
+        "serial": 187,
+        "crosses": "207",
+        "type": "Poly"
+    },
+    {
+        "pdb": "3PVE",
+        "protein": "Agrin",
+        "serial": 188,
+        "crosses": "177",
+        "type": "Poly"
+    },
+    {
+        "pdb": "6T3J",
+        "protein": "Tumor necrosis factor receptor superfamily member 10B",
+        "serial": 189,
+        "crosses": "190",
+        "type": "Poly"
+    },
+    {
+        "pdb": "1PZ7",
+        "protein": "Agrin",
+        "serial": 190,
+        "crosses": "212",
+        "type": "Poly"
+    },
+    {
+        "pdb": "1CN4",
+        "protein": "Erythropoietin",
+        "serial": 191,
+        "crosses": "218",
+        "type": "Poly"
+    },
+    {
+        "pdb": "2OEE",
+        "protein": "UPF0342 protein YheA",
+        "serial": 192,
+        "crosses": "146",
+        "type": "Poly"
+    },
+    {
+        "pdb": "2DCV",
+        "protein": "Tachystatin-B1",
+        "serial": 193,
+        "crosses": "25"
+    },
+    {
+        "pdb": "2MAG",
+        "protein": "Magainins",
+        "serial": 194,
+        "crosses": "13"
+    },
+    {
+        "pdb": "1YTR",
+        "protein": "Bacteriocin plantaricin-A",
+        "serial": 195,
+        "crosses": "31"
+    },
+    {
+        "pdb": "6PF0",
+        "protein": "Moronecidin",
+        "serial": 196,
+        "crosses": "15"
+    },
+    {
+        "pdb": "6FG9",
+        "protein": "VPS10 domain-containing receptor SorCS2",
+        "serial": 197,
+        "crosses": "202",
+        "type": "Poly"
+    },
+    {
+        "pdb": "1EWS",
+        "protein": "Corticostatin-related peptide RK-1",
+        "serial": 198,
+        "crosses": "18"
+    },
+    {
+        "pdb": "1Q90",
+        "protein": "Cytochrome b6-f complex subunit 8, chloroplastic",
+        "serial": 199,
+        "crosses": "210",
+        "type": "Poly"
+    },
+    {
+        "pdb": "5ZHX",
+        "protein": "Rap1 GTPase-GDP dissociation stimulator 1",
+        "serial": 200,
+        "crosses": "195",
+        "type": "Poly"
+    },
+    {
+        "pdb": "6Q0S",
+        "protein": "Fusion glycoprotein F0",
+        "serial": 201,
+        "crosses": "75"
+    },
+    {
+        "pdb": "6A6H",
+        "protein": "Genome polyprotein",
+        "serial": 202,
+        "crosses": "224",
+        "type": "Poly"
+    },
+    {
+        "pdb": "6YSL",
+        "protein": "Motility protein A",
+        "serial": 203,
+        "crosses": "209",
+        "type": "Poly"
+    },
+    {
+        "pdb": "4DOU",
+        "protein": "Adiponectin",
+        "serial": 204,
+        "crosses": "81"
+    },
+    {
+        "pdb": "2LG4",
+        "protein": "Antimicrobial peptide aurelin",
+        "serial": 205,
+        "crosses": "22"
+    },
+    {
+        "pdb": "2OM5",
+        "protein": "Contactin-2",
+        "serial": 206,
+        "crosses": "80"
+    },
+    {
+        "pdb": "2N9A",
+        "protein": "Decoralin",
+        "serial": 207,
+        "crosses": "14"
+    },
+    {
+        "pdb": "2MIJ",
+        "protein": "SPbeta prophage-derived bacteriocin sublancin-168",
+        "serial": 208,
+        "crosses": "19"
+    },
+    {
+        "pdb": "6WTD",
+        "protein": "ATP synthase subunit a",
+        "serial": 209,
+        "crosses": "211",
+        "type": "Poly"
+    },
+    {
+        "pdb": "6TD9",
+        "protein": "Uncharacterized protein PA1624",
+        "serial": 210,
+        "crosses": "221",
+        "type": "Poly"
+    },
+    {
+        "pdb": "4H1X",
+        "protein": "Phosphate-binding protein PstS 2",
+        "serial": 211,
+        "crosses": "82"
+    },
+    {
+        "pdb": "1N1F",
+        "protein": "Interleukin-19",
+        "serial": 212,
+        "crosses": "44"
+    },
+    {
+        "pdb": "6T9K",
+        "protein": "Protein SPT3",
+        "serial": 213,
+        "crosses": "202",
+        "type": "Poly"
+    },
+    {
+        "pdb": "4IXR",
+        "protein": "Cytochrome c-550",
+        "serial": 214,
+        "crosses": "190",
+        "type": "Poly"
+    },
+    {
+        "pdb": "5FHY",
+        "protein": "B-type flagellar hook-associated protein 2",
+        "serial": 215,
+        "crosses": "205",
+        "type": "Poly"
+    },
+    {
+        "pdb": "1UT3",
+        "protein": "Spheniscin-2",
+        "serial": 216,
+        "crosses": "23"
+    },
+    {
+        "pdb": "2AL3",
+        "protein": "Tether containing UBX domain for GLUT4",
+        "serial": 217,
+        "crosses": "23"
+    },
+    {
+        "pdb": "3CQX",
+        "protein": "Heat shock cognate 71 kDa protein",
+        "serial": 218,
+        "crosses": "208",
+        "type": "Poly"
+    },
+    {
+        "pdb": "6CH2",
+        "protein": "Flagellar protein FliT",
+        "serial": 219,
+        "crosses": "200",
+        "type": "Poly"
+    },
+    {
+        "pdb": "2O1M",
+        "protein": "L-cystine-binding protein TcyK",
+        "serial": 220,
+        "crosses": "223",
+        "type": "Poly"
+    },
+    {
+        "pdb": "5K31",
+        "protein": "Collagen alpha-1(I) chain",
+        "serial": 221,
+        "crosses": "202",
+        "type": "Poly"
+    },
+    {
+        "pdb": "2N2F",
+        "protein": "Proenkephalin-B",
+        "serial": 222,
+        "crosses": "3"
+    },
+    {
+        "pdb": "1EJO",
+        "protein": "Ig kappa chain V-III region PC 3741/TEPC 111",
+        "serial": 223,
+        "crosses": "219",
+        "type": "Poly"
+    },
+    {
+        "pdb": "1COL",
+        "protein": "Colicin-A",
+        "serial": 224,
+        "crosses": "213",
+        "type": "Poly"
+    },
+    {
+        "pdb": "4X9U",
+        "protein": "Kiwellin",
+        "serial": 225,
+        "crosses": "212",
+        "type": "Poly"
+    },
+    {
+        "pdb": "4TPS",
+        "protein": "Chromosomal replication initiator protein DnaA",
+        "serial": 226,
+        "crosses": "222",
+        "type": "Poly"
+    },
+    {
+        "pdb": "3FCH",
+        "protein": "Carboxysome shell protein CsoS1D",
+        "serial": 227,
+        "crosses": "213",
+        "type": "Poly"
+    },
+    {
+        "pdb": "6BNT",
+        "protein": "Insulin receptor substrate 1",
+        "serial": 228,
+        "crosses": "190",
+        "type": "Poly"
+    },
+    {
+        "pdb": "3NPP",
+        "protein": "Uncharacterized protein YxeA",
+        "serial": 229,
+        "crosses": "74",
+        "type": "Poly"
+    },
+    {
+        "pdb": "1KY6",
+        "protein": "Epsin-1",
+        "serial": 230,
+        "crosses": "149",
+        "type": "Poly"
+    },
+    {
+        "pdb": "2CSP",
+        "protein": "RIMS-binding protein 2",
+        "serial": 231,
+        "crosses": "75"
+    },
+    {
+        "pdb": "1Y23",
+        "protein": "Protein hit",
+        "serial": 232,
+        "crosses": "216",
+        "type": "Poly"
+    },
+    {
+        "pdb": "6GBH",
+        "protein": "Carcinoembryonic antigen-related cell adhesion molecule 1",
+        "serial": 233,
+        "crosses": "213",
+        "type": "Poly"
+    },
+    {
+        "pdb": "2MWT",
+        "protein": "Crotalicidin",
+        "serial": 234,
+        "crosses": "64"
+    },
+    {
+        "pdb": "2IEE",
+        "protein": "Probable ABC transporter extracellular-binding protein YckB",
+        "serial": 235,
+        "crosses": "223",
+        "type": "Poly"
+    },
+    {
+        "pdb": "4F1Z",
+        "protein": "Keratin, type I cytoskeletal 10",
+        "serial": 236,
+        "crosses": "197",
+        "type": "Poly"
+    },
+    {
+        "pdb": "3IX1",
+        "protein": "Formylaminopyrimidine-binding protein",
+        "serial": 237,
+        "crosses": "224",
+        "type": "Poly"
+    },
+    {
+        "pdb": "5V5V",
+        "protein": "Neuroligin-2",
+        "serial": 238,
+        "crosses": "187",
+        "type": "Poly"
+    },
+    {
+        "pdb": "4E0S",
+        "protein": "Complement C5",
+        "serial": 239,
+        "crosses": "181",
+        "type": "Poly"
+    },
+    {
+        "pdb": "2MJT",
+        "protein": "Anoplin",
+        "serial": 240,
+        "crosses": "1"
+    },
+    {
+        "pdb": "5H5V",
+        "protein": "Flagellar hook-associated protein 2",
+        "serial": 241,
+        "crosses": "194",
+        "type": "Poly"
+    },
+    {
+        "pdb": "6IWY",
+        "protein": "Flagellar hook-associated protein 2",
+        "serial": 242,
+        "crosses": "81"
+    },
+    {
+        "pdb": "2DCW",
+        "protein": "Tachystatin-B2",
+        "serial": 243,
+        "crosses": "26"
+    },
+    {
+        "pdb": "2N6U",
+        "protein": "Astexin-2",
+        "serial": 244,
+        "crosses": "2"
+    },
+    {
+        "pdb": "1RH1",
+        "protein": "Colicin-B",
+        "serial": 245,
+        "crosses": "75"
+    },
+    {
+        "pdb": "6WJ6",
+        "protein": "Photosystem II CP47 reaction center protein",
+        "serial": 246,
+        "crosses": "198",
+        "type": "Poly"
+    },
+    {
+        "pdb": "6EKK",
+        "protein": "Ras-related protein Rab-35",
+        "serial": 247,
+        "crosses": "207",
+        "type": "Poly"
+    },
+    {
+        "pdb": "5YNY",
+        "protein": "Mite allergen Der f 21.0101",
+        "serial": 248,
+        "crosses": "223",
+        "type": "Poly"
+    },
+    {
+        "pdb": "6NYQ",
+        "protein": "Glycosylated lysosomal membrane protein",
+        "serial": 249,
+        "crosses": "216",
+        "type": "Poly"
+    },
+    {
+        "pdb": "3F4M",
+        "protein": "Tumor necrosis factor alpha-induced protein 8-like protein 2",
+        "serial": 250,
+        "crosses": "68"
+    },
+    {
+        "pdb": "1SED",
+        "protein": "Uncharacterized protein YhaI",
+        "serial": 251,
+        "crosses": "217",
+        "type": "Poly"
+    },
+    {
+        "pdb": "5SUM",
+        "protein": "Ribosome biogenesis protein NSA1",
+        "serial": 252,
+        "crosses": "216",
+        "type": "Poly"
+    },
+    {
+        "pdb": "2NAY",
+        "protein": "Conotoxin Bt1.8",
+        "serial": 253,
+        "crosses": "0"
+    },
+    {
+        "pdb": "3SYV",
+        "protein": "Protein kinase C and casein kinase II substrate protein 3",
+        "serial": 254,
+        "crosses": "171",
+        "type": "Poly"
+    },
+    {
+        "pdb": "5MOU",
+        "protein": "Alpha-like toxin BeM9",
+        "serial": 255,
+        "crosses": "23"
+    },
+    {
+        "pdb": "2CK4",
+        "protein": "Potassium channel toxin alpha-KTx 3.7",
+        "serial": 256,
+        "crosses": "14"
+    },
+    {
+        "pdb": "3ZYM",
+        "protein": "Phosphatidylinositol-binding clathrin assembly protein",
+        "serial": 257,
+        "crosses": "213",
+        "type": "Poly"
+    },
+    {
+        "pdb": "1RON",
+        "protein": "Pro-neuropeptide Y",
+        "serial": 258,
+        "crosses": "32"
+    },
+    {
+        "pdb": "6N1G",
+        "protein": "Aquaporin-7",
+        "serial": 259,
+        "crosses": "212",
+        "type": "Poly"
+    },
+    {
+        "pdb": "1UUN",
+        "protein": "Porin MspA",
+        "serial": 260,
+        "crosses": "224",
+        "type": "Poly"
+    },
+    {
+        "pdb": "3OC5",
+        "protein": "Toxin coregulated pilus biosynthesis protein F",
+        "serial": 261,
+        "crosses": "81"
+    },
+    {
+        "pdb": "5DLM",
+        "protein": "Matrix protein 2",
+        "serial": 262,
+        "crosses": "213",
+        "type": "Poly"
+    },
+    {
+        "pdb": "2XOT",
+        "protein": "Amphoterin-induced protein 1",
+        "serial": 263,
+        "crosses": "212",
+        "type": "Poly"
+    },
+    {
+        "pdb": "1ZYI",
+        "protein": "Methylosome subunit pICln",
+        "serial": 264,
+        "crosses": "82"
+    },
+    {
+        "pdb": "4RLY",
+        "protein": "Ankyrin-2",
+        "serial": 265,
+        "crosses": "80"
+    },
+    {
+        "pdb": "4JKQ",
+        "protein": "Ryanodine receptor 2",
+        "serial": 266,
+        "crosses": "75"
+    },
+    {
+        "pdb": "3MW4",
+        "protein": "Neurexin-3",
+        "serial": 267,
+        "crosses": "224",
+        "type": "Poly"
+    },
+    {
+        "pdb": "6IRR",
+        "protein": "Cyclic AMP-dependent transcription factor ATF-4",
+        "serial": 268,
+        "crosses": "81"
+    },
+    {
+        "pdb": "2CTP",
+        "protein": "DnaJ homolog subfamily B member 12",
+        "serial": 269,
+        "crosses": "33"
+    },
+    {
+        "pdb": "3DRY",
+        "protein": "BTB/POZ domain-containing protein KCTD5",
+        "serial": 270,
+        "crosses": "208",
+        "type": "Poly"
+    },
+    {
+        "pdb": "1ONT",
+        "protein": "Conantokin-T",
+        "serial": 271,
+        "crosses": "18"
+    },
+    {
+        "pdb": "4LYA",
+        "protein": "ESX secretion system protein EccC",
+        "serial": 272,
+        "crosses": "75"
+    },
+    {
+        "pdb": "2WGB",
+        "protein": "HTH-type transcriptional repressor LfrR",
+        "serial": 273,
+        "crosses": "169",
+        "type": "Poly"
+    },
+    {
+        "pdb": "6YEJ",
+        "protein": "Huntingtin",
+        "serial": 274,
+        "crosses": "55"
+    },
+    {
+        "pdb": "2RRM",
+        "protein": "Tight junction protein ZO-1",
+        "serial": 275,
+        "crosses": "71"
+    },
+    {
+        "pdb": "3DNP",
+        "protein": "Stress response protein YhaX",
+        "serial": 276,
+        "crosses": "80"
+    },
+    {
+        "pdb": "4RLV",
+        "protein": "Ankyrin-2",
+        "serial": 277,
+        "crosses": "58"
+    },
+    {
+        "pdb": "7CYN",
+        "protein": "Protein unc-93 homolog B1",
+        "serial": 278,
+        "crosses": "195",
+        "type": "Poly"
+    },
+    {
+        "pdb": "3UZQ",
+        "protein": "Genome polyprotein",
+        "serial": 279,
+        "crosses": "162",
+        "type": "Poly"
+    },
+    {
+        "pdb": "3DZY",
+        "protein": "Retinoic acid receptor RXR-alpha",
+        "serial": 280,
+        "crosses": "219",
+        "type": "Poly"
+    },
+    {
+        "pdb": "2GTR",
+        "protein": "Chromodomain Y-like protein",
+        "serial": 281,
+        "crosses": "222",
+        "type": "Poly"
+    },
+    {
+        "pdb": "1RCI",
+        "protein": "Ferritin, lower subunit",
+        "serial": 282,
+        "crosses": "77"
+    },
+    {
+        "pdb": "7CA4",
+        "protein": "Bcl-2-like protein 1",
+        "serial": 283,
+        "crosses": "32"
+    },
+    {
+        "pdb": "5JSN",
+        "protein": "Apoptosis regulator Bcl-2",
+        "serial": 284,
+        "crosses": "222",
+        "type": "Poly"
+    },
+    {
+        "pdb": "3V3C",
+        "protein": "ATP synthase subunit c, chloroplastic",
+        "serial": 285,
+        "crosses": "213",
+        "type": "Poly"
+    },
+    {
+        "pdb": "5MYK",
+        "protein": "Amyloid-beta precursor protein",
+        "serial": 286,
+        "crosses": "224",
+        "type": "Poly"
+    },
+    {
+        "pdb": "1V27",
+        "protein": "Regulating synaptic membrane exocytosis protein 2",
+        "serial": 287,
+        "crosses": "82"
+    },
+    {
+        "pdb": "1IJD",
+        "protein": "Light-harvesting protein B-800/820 alpha chain",
+        "serial": 288,
+        "crosses": "199",
+        "type": "Poly"
+    },
+    {
+        "pdb": "6T41",
+        "protein": "Cyclin-C",
+        "serial": 289,
+        "crosses": "221",
+        "type": "Poly"
+    },
+    {
+        "pdb": "4U8H",
+        "protein": "Period circadian protein homolog 2",
+        "serial": 290,
+        "crosses": "203",
+        "type": "Poly"
+    },
+    {
+        "pdb": "3KFV",
+        "protein": "Tight junction protein ZO-3",
+        "serial": 291,
+        "crosses": "82"
+    },
+    {
+        "pdb": "5OJR",
+        "protein": "Photosystem II protein D1 1",
+        "serial": 292,
+        "crosses": "210",
+        "type": "Poly"
+    },
+    {
+        "pdb": "4B09",
+        "protein": "Transcriptional regulatory protein BaeR",
+        "serial": 293,
+        "crosses": "195",
+        "type": "Poly"
+    },
+    {
+        "pdb": "6ELM",
+        "protein": "Serine/threonine-protein kinase WNK2",
+        "serial": 294,
+        "crosses": "41"
+    },
+    {
+        "pdb": "5ABY",
+        "protein": "Eukaryotic translation initiation factor 4E-3",
+        "serial": 295,
+        "crosses": "216",
+        "type": "Poly"
+    },
+    {
+        "pdb": "1YBO",
+        "protein": "Syntenin-1",
+        "serial": 296,
+        "crosses": "192",
+        "type": "Poly"
+    },
+    {
+        "pdb": "6VJA",
+        "protein": "B-lymphocyte antigen CD20",
+        "serial": 297,
+        "crosses": "207",
+        "type": "Poly"
+    },
+    {
+        "pdb": "2XDN",
+        "protein": "HTH-type transcriptional regulator TtgR",
+        "serial": 298,
+        "crosses": "213",
+        "type": "Poly"
+    },
+    {
+        "pdb": "2HAN",
+        "protein": "Protein ultraspiracle",
+        "serial": 299,
+        "crosses": "77",
+        "type": "Poly"
+    },
+    {
+        "pdb": "2OSG",
+        "protein": "Tight junction protein ZO-2",
+        "serial": 300,
+        "crosses": "106",
+        "type": "Poly"
+    },
+    {
+        "pdb": "3WI3",
+        "protein": "DNA replication regulator SLD3",
+        "serial": 301,
+        "crosses": "216",
+        "type": "Poly"
+    },
+    {
+        "pdb": "3LLL",
+        "protein": "Protein kinase C and casein kinase substrate in neurons protein 2",
+        "serial": 302,
+        "crosses": "213",
+        "type": "Poly"
+    },
+    {
+        "pdb": "1LGH",
+        "protein": "Light-harvesting protein B-800/850 beta 1 chain",
+        "serial": 303,
+        "crosses": "215",
+        "type": "Poly"
+    },
+    {
+        "pdb": "2XKX",
+        "protein": "Disks large homolog 4",
+        "serial": 304,
+        "crosses": "209",
+        "type": "Poly"
+    },
+    {
+        "pdb": "6Z5S",
+        "protein": "Reaction center protein M chain",
+        "serial": 305,
+        "crosses": "203",
+        "type": "Poly"
+    },
+    {
+        "pdb": "6NX4",
+        "protein": "Eukaryotic elongation factor 2 kinase",
+        "serial": 306,
+        "crosses": "51"
+    },
+    {
+        "pdb": "5FWP",
+        "protein": "Heat shock protein HSP 90-beta",
+        "serial": 307,
+        "crosses": "202",
+        "type": "Poly"
+    },
+    {
+        "pdb": "1A87",
+        "protein": "Colicin-N",
+        "serial": 308,
+        "crosses": "81"
+    },
+    {
+        "pdb": "6M3R",
+        "protein": "Spectrin beta chain",
+        "serial": 309,
+        "crosses": "213",
+        "type": "Poly"
+    },
+    {
+        "pdb": "2D10",
+        "protein": "Na(+)/H(+) exchange regulatory cofactor NHE-RF1",
+        "serial": 310,
+        "crosses": "207",
+        "type": "Poly"
+    },
+    {
+        "pdb": "2FXA",
+        "protein": "DNA-binding transcriptional repressor ScoC",
+        "serial": 311,
+        "crosses": "216",
+        "type": "Poly"
+    },
+    {
+        "pdb": "1BG7",
+        "protein": "Ferritin, higher subunit",
+        "serial": 312,
+        "crosses": "71"
+    },
+    {
+        "pdb": "5MDX",
+        "protein": "Chlorophyll a-b binding protein 1, chloroplastic",
+        "serial": 313,
+        "crosses": "177",
+        "type": "Poly"
+    },
+    {
+        "pdb": "1IZL",
+        "protein": "Photosystem II CP47 reaction center protein",
+        "serial": 314,
+        "crosses": "187",
+        "type": "Poly"
+    },
+    {
+        "pdb": "2BZW",
+        "protein": "Bcl2-associated agonist of cell death",
+        "serial": 315,
+        "crosses": "27",
+        "type": "Poly"
+    },
+    {
+        "pdb": "2BHW",
+        "protein": "Chlorophyll a-b binding protein AB80, chloroplastic",
+        "serial": 316,
+        "crosses": "213",
+        "type": "Poly"
+    },
+    {
+        "pdb": "4XAV",
+        "protein": "Gliomedin",
+        "serial": 317,
+        "crosses": "213",
+        "type": "Poly"
+    },
+    {
+        "pdb": "1RPJ",
+        "protein": "D-allose-binding periplasmic protein",
+        "serial": 318,
+        "crosses": "82"
+    },
+    {
+        "pdb": "5O2C",
+        "protein": "Serine/threonine-protein kinase WNK3",
+        "serial": 319,
+        "crosses": "80"
+    },
+    {
+        "pdb": "1N2D",
+        "protein": "Myosin-2",
+        "serial": 320,
+        "crosses": "220",
+        "type": "Poly"
+    },
+    {
+        "pdb": "6YBL",
+        "protein": "Maltose/maltodextrin-binding periplasmic protein",
+        "serial": 321,
+        "crosses": "75"
+    },
+    {
+        "pdb": "3LQQ",
+        "protein": "Cell death protein 4",
+        "serial": 322,
+        "crosses": "211",
+        "type": "Poly"
+    },
+    {
+        "pdb": "3KMR",
+        "protein": "Retinoic acid receptor alpha",
+        "serial": 323,
+        "crosses": "84",
+        "type": "Poly"
+    },
+    {
+        "pdb": "4YO0",
+        "protein": "Podoplanin",
+        "serial": 324,
+        "crosses": "213",
+        "type": "Poly"
+    },
+    {
+        "pdb": "6X3L",
+        "protein": "Sortilin",
+        "serial": 325,
+        "crosses": "72"
+    },
+    {
+        "pdb": "2KLC",
+        "protein": "Ubiquilin-1",
+        "serial": 326,
+        "crosses": "29"
+    },
+    {
+        "pdb": "3R05",
+        "protein": "Neurexin-1",
+        "serial": 327,
+        "crosses": "195",
+        "type": "Poly"
+    },
+    {
+        "pdb": "2O1E",
+        "protein": "High-affinity zinc uptake system binding-protein ZnuA",
+        "serial": 328,
+        "crosses": "22",
+        "type": "Poly"
+    },
+    {
+        "pdb": "1HZ4",
+        "protein": "HTH-type transcriptional regulator MalT",
+        "serial": 329,
+        "crosses": "82"
+    }
+]

@@ -13,7 +13,7 @@ const Enzymespage = () => {
   //   onBack();
   // };
   const[currentPage,setCurrentPage] = useState(1);
-  const recordsPerPage = 5;
+  const recordsPerPage = 18;
   const lastIndex = currentPage * recordsPerPage;
   const firstIndex = lastIndex - recordsPerPage;
   const records = Data.slice(firstIndex,lastIndex);
@@ -67,26 +67,24 @@ const Enzymespage = () => {
   console.log(search)
   return (
     <div className="overflow-auto font-thin bg-gradient-to-br from-cyan-800 via-emerald-600 to-lime-400 h-screen">
-          <div className='bg-black font-mono flex justify-between items-center h-15 max-w-full mx-auto px-4 text-white'>
-          <a href='http://localhost:3000/' className='hover:cursor-pointer'><h1 className='w-full text-2xl font-light mx-10 tracking-widest'>Title Here</h1></a>
-            <ul className=' font-thin hidden md:flex'>
-                <li className='p-4'>Home</li>
-                <li className='p-4'>About</li>
-                <li className='p-4'>Functions</li>
-            </ul>
-            <div onClick={handleNav} className='block md:hidden'>
-                {!nav ? <AiOutlineClose size={20}/> : <AiOutlineMenu size={20}/> }
-                
-            </div>
-            <div className={!nav ? 'bg-gradient-to-br from-cyan-800 via-emerald-600 to-lime-400 font-mono md:hidden fixed left-0 top-0 w-[60%] h-full border-r border-r-gray-900 ease-in-out duration-500' : 'fixed left-[-100%]' }>
-            <a href='http://localhost:3000/'><h1 className='w-full text-3xl font-thin text-lime-50 m-4'>Title Here</h1></a>
+    <div className='bg-black font-mono flex justify-between items-center h-20 max-w-full mx-auto px-4 text-white'>
+        <a href='http://localhost:3000/' className='hover:cursor-pointer'><h1 className='w-full text-2xl mx-10 tracking-widest'>Title Here</h1></a>
+        <ul className=' font-thin hidden md:flex'>
+            <li className='p-4'><a href='http://localhost:3000/' className='hover:cursor-pointer'>Home</a></li>
+            <li className='p-4'>About</li>
+        </ul>
+        <div onClick={handleNav} className='block md:hidden'>
+            {!nav ? <AiOutlineMenu size={20}/> : <AiOutlineClose size={20}/> }
+            
+        </div>  
+        <div className={!nav ? 'fixed left-[-100%]' : 'md:hidden sm:hidden fixed left-0 top-0 w-[60%] h-full border-r border-r-gray-900 bg-cyan-700  ease-in-out duration-500'  }>
+            <a href='http://localhost:3000/'><h1 className='w-full text-3xl font-mono text-[#e0e0e0] m-4'>Title Here.</h1></a>
 
-                <ul className='text-lime-50 font-thin uppercase p-4'> 
-                    <li className='p-4 border-b border-lime-50'>Home</li>
-                    <li className='p-4 border-b border-lime-50'>About</li>
-                    <li className='p-4 border-b border-lime-50'>Functions</li>
-                </ul>
-            </div>
+            <ul className='text-[#e0e0e0] font-mono uppercase p-4'> 
+                <li className='p-4 border-b border-gray-600'><a href='http://localhost:3000/' className='hover:cursor-pointer'>Home</a></li>
+                <li className='p-4 border-b border-gray-600'>About</li>
+            </ul>
+        </div>
     </div>
       <button className="text-[#e0e0e0] flex  text-3xl  p-10 font-mono" onClick={handleBackClick}>
         Enzymes
@@ -100,7 +98,7 @@ const Enzymespage = () => {
             <Form.Control onChange={(e) => setSearch(e.target.value)} placeholder=' Search'/>
           </Form>
          
-        <table className="mt-3 bg-gradient-to-br from-cyan-900 via-cyan-800 to-cyan-600 w-full table-fixed">
+        <table className="mt-3 bg-gradient-to-br from-cyan-900 via-cyan-800 to-cyan-600 w-full table-fixed text-ellipsis overflow-hidden">
           <thead className="bg-gray-50">
             <tr className="text-clip tracking-widest">
               
@@ -152,7 +150,7 @@ const Enzymespage = () => {
             ))}
           </tbody>
         </table>
-        <nav>
+        <nav className="flex justify-center">
           <ul className="pagination text-white font-bold inline-flex -space-x-px py-3">
             <li className="page-item">
               <a href='#' className="page-link px-3 py-2 ml-0 leading-tight text-gray-500 bg-white border border-gray-300 rounded-l-lg hover:bg-gray-100 hover:text-gray-700 dark:bg-gray-800 dark:border-gray-700 dark:text-gray-400 dark:hover:bg-gray-700 dark:hover:text-white" onClick={prePage}>Prev</a>

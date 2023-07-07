@@ -15,6 +15,7 @@ function PDBViewer({ filePath }) {
     ],
     []
   );
+  // var stage = new Stage( "elementId", { backgroundColor: "white" } );
 
   const handleComponentLoad = () => {
     if (stageRef.current && componentRef.current) {
@@ -25,7 +26,7 @@ function PDBViewer({ filePath }) {
   return (
     <Stage
       // colorScheme = "bfactor"
-      
+      backgroundColor="white"
       width="600px"
       height="450px"
       ref={stageRef}

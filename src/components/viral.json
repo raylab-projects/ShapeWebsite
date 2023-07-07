@@ -1,0 +1,604 @@
+[
+    {
+        "pdb": "6H5S",
+        "protein": "Nucleoprotein",
+        "serial": 1,
+        "crosses": "63",
+        "type": "Poly"
+    },
+    {
+        "pdb": "6URI",
+        "protein": "T-cell surface glycoprotein CD4",
+        "serial": 2,
+        "crosses": "61",
+        "type": "Poly"
+    },
+    {
+        "pdb": "4AM0",
+        "protein": "Genome polyprotein",
+        "serial": 3,
+        "crosses": "61",
+        "type": "Poly"
+    },
+    {
+        "pdb": "5E4V",
+        "protein": "Phosphoprotein",
+        "serial": 4,
+        "crosses": "9",
+        "type": "Single"
+    },
+    {
+        "pdb": "4CCF",
+        "protein": "Fusion glycoprotein F0",
+        "serial": 5,
+        "crosses": "61",
+        "type": "Poly"
+    },
+    {
+        "pdb": "2YQ3",
+        "protein": "Genome polyprotein",
+        "serial": 6,
+        "crosses": "61",
+        "type": "Poly"
+    },
+    {
+        "pdb": "4O6B",
+        "protein": "Genome polyprotein",
+        "serial": 7,
+        "crosses": "61",
+        "type": "Poly"
+    },
+    {
+        "pdb": "2BAI",
+        "protein": "Genome polyprotein",
+        "serial": 8,
+        "crosses": "7",
+        "type": "Single"
+    },
+    {
+        "pdb": "3CDW",
+        "protein": "Genome polyprotein",
+        "serial": 9,
+        "crosses": "56",
+        "type": "Poly"
+    },
+    {
+        "pdb": "1FOU",
+        "protein": "Portal protein",
+        "serial": 10,
+        "crosses": "61",
+        "type": "Poly"
+    },
+    {
+        "pdb": "6VKM",
+        "protein": "Envelope glycoprotein",
+        "serial": 11,
+        "crosses": "10",
+        "type": "Single"
+    },
+    {
+        "pdb": "5X29",
+        "protein": "Envelope small membrane protein",
+        "serial": 12,
+        "crosses": "56",
+        "type": "Poly"
+    },
+    {
+        "pdb": "4GT0",
+        "protein": "Genome polyprotein",
+        "serial": 13,
+        "crosses": "61",
+        "type": "Poly"
+    },
+    {
+        "pdb": "2LZP",
+        "protein": "Genome polyprotein",
+        "serial": 14,
+        "crosses": "11",
+        "type": "Single"
+    },
+    {
+        "pdb": "6P6S",
+        "protein": "Genome polyprotein",
+        "serial": 15,
+        "crosses": "9",
+        "type": "Single"
+    },
+    {
+        "pdb": "6S2L",
+        "protein": "Genome polyprotein",
+        "serial": 16,
+        "crosses": "9",
+        "type": "Single"
+    },
+    {
+        "pdb": "7KNI",
+        "protein": "Spike glycoprotein",
+        "serial": 17,
+        "crosses": "59",
+        "type": "Poly"
+    },
+    {
+        "pdb": "6B3H",
+        "protein": "Gag-Pol polyprotein",
+        "serial": 18,
+        "crosses": "8",
+        "type": "Poly"
+    },
+    {
+        "pdb": "5HD9",
+        "protein": "DNA packaging protein",
+        "serial": 19,
+        "crosses": "8",
+        "type": "Single"
+    },
+    {
+        "pdb": "7BV2",
+        "protein": "Replicase polyprotein 1a",
+        "serial": 20,
+        "crosses": "61",
+        "type": "Poly"
+    },
+    {
+        "pdb": "5TDL",
+        "protein": "Fibritin",
+        "serial": 21,
+        "crosses": "8",
+        "type": "Single"
+    },
+    {
+        "pdb": "4EO0",
+        "protein": "Attachment protein G3P",
+        "serial": 22,
+        "crosses": "7",
+        "type": "Single"
+    },
+    {
+        "pdb": "3FOI",
+        "protein": "Tail sheath protein",
+        "serial": 23,
+        "crosses": "0",
+        "type": "Poly"
+    },
+    {
+        "pdb": "6Q69",
+        "protein": "Genome polyprotein",
+        "serial": 24,
+        "crosses": "63",
+        "type": "Poly"
+    },
+    {
+        "pdb": "6IBG",
+        "protein": "Portal protein",
+        "serial": 25,
+        "crosses": "61",
+        "type": "Poly"
+    },
+    {
+        "pdb": "4LIN",
+        "protein": "Tail needle protein gp26",
+        "serial": 26,
+        "crosses": "59",
+        "type": "Poly"
+    },
+    {
+        "pdb": "5A21",
+        "protein": "Head completion protein gp16",
+        "serial": 27,
+        "crosses": "61",
+        "type": "Poly"
+    },
+    {
+        "pdb": "5FEI",
+        "protein": "Tail knob protein gp9",
+        "serial": 28,
+        "crosses": "61",
+        "type": "Poly"
+    },
+    {
+        "pdb": "6QXM",
+        "protein": "Portal protein",
+        "serial": 29,
+        "crosses": "61",
+        "type": "Poly"
+    },
+    {
+        "pdb": "1TOL",
+        "protein": "Tol-Pal system protein TolA",
+        "serial": 30,
+        "crosses": "8",
+        "type": "Single"
+    },
+    {
+        "pdb": "6VSJ",
+        "protein": "Spike glycoprotein",
+        "serial": 31,
+        "crosses": "61",
+        "type": "Poly"
+    },
+    {
+        "pdb": "1FI0",
+        "protein": "Protein Vpr",
+        "serial": 32,
+        "crosses": "2",
+        "type": "Single"
+    },
+    {
+        "pdb": "7KDT",
+        "protein": "Mitochondrial import receptor subunit TOM70",
+        "serial": 33,
+        "crosses": "63",
+        "type": "Poly"
+    },
+    {
+        "pdb": "1G2C",
+        "protein": "Fusion glycoprotein F0",
+        "serial": 34,
+        "crosses": "61",
+        "type": "Poly"
+    },
+    {
+        "pdb": "3LJ5",
+        "protein": "Portal protein",
+        "serial": 35,
+        "crosses": "59",
+        "type": "Poly"
+    },
+    {
+        "pdb": "2X8K",
+        "protein": "Distal tail protein",
+        "serial": 36,
+        "crosses": "61",
+        "type": "Poly"
+    },
+    {
+        "pdb": "6QJT",
+        "protein": "Portal protein",
+        "serial": 37,
+        "crosses": "8",
+        "type": "Single"
+    },
+    {
+        "pdb": "2JES",
+        "protein": "Portal protein",
+        "serial": 38,
+        "crosses": "61",
+        "type": "Poly"
+    },
+    {
+        "pdb": "2BDS",
+        "protein": "Delta/kappa-actitoxin-Avd4a",
+        "serial": 39,
+        "crosses": "2",
+        "type": "Single"
+    },
+    {
+        "pdb": "5M1M",
+        "protein": "Polyprotein p42",
+        "serial": 40,
+        "crosses": "7",
+        "type": "Single"
+    },
+    {
+        "pdb": "2NB8",
+        "protein": "Small hydrophobic protein",
+        "serial": 41,
+        "crosses": "3",
+        "type": "Single"
+    },
+    {
+        "pdb": "2N29",
+        "protein": "Protein Vpu",
+        "serial": 42,
+        "crosses": "7",
+        "type": "Single"
+    },
+    {
+        "pdb": "5Y2E",
+        "protein": "Non-structural glycoprotein 4",
+        "serial": 43,
+        "crosses": "8",
+        "type": "Poly"
+    },
+    {
+        "pdb": "1PI7",
+        "protein": "Protein Vpu",
+        "serial": 44,
+        "crosses": "1",
+        "type": "Single"
+    },
+    {
+        "pdb": "1NYJ",
+        "protein": "Matrix protein 2",
+        "serial": 45,
+        "crosses": "2",
+        "type": "Poly"
+    },
+    {
+        "pdb": "2N28",
+        "protein": "Protein Vpu",
+        "serial": 46,
+        "crosses": "12",
+        "type": "Single"
+    },
+    {
+        "pdb": "3MIW",
+        "protein": "Non-structural glycoprotein 4",
+        "serial": 47,
+        "crosses": "63",
+        "type": "Poly"
+    },
+    {
+        "pdb": "1RVZ",
+        "protein": "Hemagglutinin",
+        "serial": 48,
+        "crosses": "61",
+        "type": "Poly"
+    },
+    {
+        "pdb": "3UAJ",
+        "protein": "Genome polyprotein",
+        "serial": 49,
+        "crosses": "61",
+        "type": "Poly"
+    },
+    {
+        "pdb": "5NHQ",
+        "protein": "Agnoprotein",
+        "serial": 50,
+        "crosses": "8",
+        "type": "Single"
+    },
+    {
+        "pdb": "4G1T",
+        "protein": "Interferon-induced protein with tetratricopeptide repeats 2",
+        "serial": 51,
+        "crosses": "61",
+        "type": "Poly"
+    },
+    {
+        "pdb": "6IZY",
+        "protein": "Genome polyprotein",
+        "serial": 52,
+        "crosses": "8",
+        "type": "Single"
+    },
+    {
+        "pdb": "5YVU",
+        "protein": "Genome polyprotein",
+        "serial": 53,
+        "crosses": "61",
+        "type": "Poly"
+    },
+    {
+        "pdb": "5MZ4",
+        "protein": "Genome polyprotein",
+        "serial": 54,
+        "crosses": "61",
+        "type": "Poly"
+    },
+    {
+        "pdb": "3QR8",
+        "protein": "Spike protein",
+        "serial": 55,
+        "crosses": "8",
+        "type": "Single"
+    },
+    {
+        "pdb": "4Y3C",
+        "protein": "Genome polyprotein",
+        "serial": 56,
+        "crosses": "61",
+        "type": "Poly"
+    },
+    {
+        "pdb": "1BEV",
+        "protein": "Genome polyprotein",
+        "serial": 57,
+        "crosses": "61",
+        "type": "Poly"
+    },
+    {
+        "pdb": "5LVC",
+        "protein": "Genome polyprotein",
+        "serial": 58,
+        "crosses": "61",
+        "type": "Poly"
+    },
+    {
+        "pdb": "3JD7",
+        "protein": "Genome polyprotein",
+        "serial": 59,
+        "crosses": "61",
+        "type": "Poly"
+    },
+    {
+        "pdb": "6ODF",
+        "protein": "Structural polyprotein",
+        "serial": 60,
+        "crosses": "61",
+        "type": "Poly"
+    },
+    {
+        "pdb": "5C8C",
+        "protein": "Genome polyprotein",
+        "serial": 61,
+        "crosses": "61",
+        "type": "Poly"
+    },
+    {
+        "pdb": "6I2K",
+        "protein": "Lysosome membrane protein 2",
+        "serial": 62,
+        "crosses": "61",
+        "type": "Poly"
+    },
+    {
+        "pdb": "1RHI",
+        "protein": "Genome polyprotein",
+        "serial": 63,
+        "crosses": "61",
+        "type": "Poly"
+    },
+    {
+        "pdb": "3J0C",
+        "protein": "Structural polyprotein",
+        "serial": 64,
+        "crosses": "59",
+        "type": "Poly"
+    },
+    {
+        "pdb": "1Z7S",
+        "protein": "Genome polyprotein",
+        "serial": 65,
+        "crosses": "61",
+        "type": "Poly"
+    },
+    {
+        "pdb": "1COV",
+        "protein": "Genome polyprotein",
+        "serial": 66,
+        "crosses": "61",
+        "type": "Poly"
+    },
+    {
+        "pdb": "4L3B",
+        "protein": "Genome polyprotein",
+        "serial": 67,
+        "crosses": "61",
+        "type": "Poly"
+    },
+    {
+        "pdb": "1OOP",
+        "protein": "Genome polyprotein",
+        "serial": 68,
+        "crosses": "61",
+        "type": "Poly"
+    },
+    {
+        "pdb": "3ZKO",
+        "protein": "Genome polyprotein",
+        "serial": 69,
+        "crosses": "59",
+        "type": "Poly"
+    },
+    {
+        "pdb": "1GFF",
+        "protein": "Capsid protein F",
+        "serial": 70,
+        "crosses": "61",
+        "type": "Poly"
+    },
+    {
+        "pdb": "2HWF",
+        "protein": "Genome polyprotein",
+        "serial": 71,
+        "crosses": "61",
+        "type": "Poly"
+    },
+    {
+        "pdb": "1EV1",
+        "protein": "Genome polyprotein",
+        "serial": 72,
+        "crosses": "61",
+        "type": "Poly"
+    },
+    {
+        "pdb": "5BNP",
+        "protein": "Genome polyprotein",
+        "serial": 73,
+        "crosses": "61",
+        "type": "Poly"
+    },
+    {
+        "pdb": "6ESB",
+        "protein": "Major capsid protein VP1",
+        "serial": 74,
+        "crosses": "61",
+        "type": "Poly"
+    },
+    {
+        "pdb": "1EAH",
+        "protein": "Genome polyprotein",
+        "serial": 75,
+        "crosses": "61",
+        "type": "Poly"
+    },
+    {
+        "pdb": "5CFD",
+        "protein": "Genome polyprotein",
+        "serial": 76,
+        "crosses": "61",
+        "type": "Poly"
+    },
+    {
+        "pdb": "4FTS",
+        "protein": "Capsid protein alpha",
+        "serial": 77,
+        "crosses": "61",
+        "type": "Poly"
+    },
+    {
+        "pdb": "5O5P",
+        "protein": "Genome polyprotein",
+        "serial": 78,
+        "crosses": "61",
+        "type": "Poly"
+    },
+    {
+        "pdb": "1M06",
+        "protein": "Capsid protein F",
+        "serial": 79,
+        "crosses": "61",
+        "type": "Poly"
+    },
+    {
+        "pdb": "1D4M",
+        "protein": "Genome polyprotein",
+        "serial": 80,
+        "crosses": "61",
+        "type": "Poly"
+    },
+    {
+        "pdb": "1RB8",
+        "protein": "Capsid protein F",
+        "serial": 81,
+        "crosses": "61",
+        "type": "Poly"
+    },
+    {
+        "pdb": "5MJV",
+        "protein": "Genome polyprotein",
+        "serial": 82,
+        "crosses": "61",
+        "type": "Poly"
+    },
+    {
+        "pdb": "1QQP",
+        "protein": "Genome polyprotein",
+        "serial": 83,
+        "crosses": "61",
+        "type": "Poly"
+    },
+    {
+        "pdb": "1TMF",
+        "protein": "Genome polyprotein",
+        "serial": 84,
+        "crosses": "61",
+        "type": "Poly"
+    },
+    {
+        "pdb": "5WTH",
+        "protein": "Genome polyprotein",
+        "serial": 85,
+        "crosses": "61",
+        "type": "Poly"
+    },
+    {
+        "pdb": "3IXY",
+        "protein": "Genome polyprotein",
+        "serial": 86,
+        "crosses": "5",
+        "type": "Poly"
+    }
+]

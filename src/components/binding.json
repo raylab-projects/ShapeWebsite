@@ -1,0 +1,1661 @@
+[
+    {
+        "pdb": "5LMG",
+        "protein_name": "DNA topoisomerase 2-associated protein PAT1",
+        "serial": 1,
+        "crosses": "149",
+        "type": "Poly"
+    },
+    {
+        "pdb": "2IPN",
+        "protein_name": "D-galactose/methyl-galactoside binding periplasmic protein MglB",
+        "serial": 2,
+        "crosses": "74",
+        "type": "Single"
+    },
+    {
+        "pdb": "4EQF",
+        "protein_name": "Potassium/sodium hyperpolarization-activated cyclic nucleotide-gated channel 2",
+        "serial": 3,
+        "crosses": "121",
+        "type": "Poly"
+    },
+    {
+        "pdb": "4FMM",
+        "protein_name": "Phosphatidylinositol transfer protein PDR16",
+        "serial": 4,
+        "crosses": "142",
+        "type": "Poly"
+    },
+    {
+        "pdb": "2M0P",
+        "protein_name": "Low-density lipoprotein receptor-related protein 2",
+        "serial": 5,
+        "crosses": "0",
+        "type": "Single"
+    },
+    {
+        "pdb": "5E1P",
+        "protein_name": "Calmodulin",
+        "serial": 6,
+        "crosses": "0",
+        "type": "Single"
+    },
+    {
+        "pdb": "2DMH",
+        "protein_name": "Myoferlin",
+        "serial": 7,
+        "crosses": "72",
+        "type": "Single"
+    },
+    {
+        "pdb": "3IWP",
+        "protein_name": "Copper homeostasis protein cutC homolog",
+        "serial": 8,
+        "crosses": "115",
+        "type": "Poly"
+    },
+    {
+        "pdb": "4WZG",
+        "protein_name": "Autophagy-related protein 101",
+        "serial": 9,
+        "crosses": "68",
+        "type": "Single"
+    },
+    {
+        "pdb": "5ANR",
+        "protein_name": "CCR4-NOT transcription complex subunit 1",
+        "serial": 10,
+        "crosses": "149",
+        "type": "Poly"
+    },
+    {
+        "pdb": "4KML",
+        "protein_name": "Major prion protein",
+        "serial": 11,
+        "crosses": "96",
+        "type": "Poly"
+    },
+    {
+        "pdb": "4OAJ",
+        "protein_name": "5-hydroxytryptamine receptor 2A",
+        "serial": 12,
+        "crosses": "1",
+        "type": "Poly"
+    },
+    {
+        "pdb": "3ASF",
+        "protein_name": "Magnetosome protein MamA",
+        "serial": 13,
+        "crosses": "146",
+        "type": "Poly"
+    },
+    {
+        "pdb": "1Z9O",
+        "protein_name": "Oxysterol-binding protein-related protein 1",
+        "serial": 14,
+        "crosses": "136",
+        "type": "Poly"
+    },
+    {
+        "pdb": "3FRU",
+        "protein_name": "Beta-2-microglobulin",
+        "serial": 15,
+        "crosses": "133",
+        "type": "Poly"
+    },
+    {
+        "pdb": "6I52",
+        "protein_name": "Replication factor A protein 1",
+        "serial": 16,
+        "crosses": "149",
+        "type": "Poly"
+    },
+    {
+        "pdb": "5HKO",
+        "protein_name": "Xylitol-binding protein",
+        "serial": 17,
+        "crosses": "75",
+        "type": "Single"
+    },
+    {
+        "pdb": "2EEI",
+        "protein_name": "Na(+)/H(+) exchange regulatory cofactor NHE-RF3",
+        "serial": 18,
+        "crosses": "69",
+        "type": "Single"
+    },
+    {
+        "pdb": "4C0O",
+        "protein_name": "Serine/arginine-rich splicing factor 1",
+        "serial": 19,
+        "crosses": "118",
+        "type": "Poly"
+    },
+    {
+        "pdb": "5AZG",
+        "protein_name": "Protein lgg-1",
+        "serial": 20,
+        "crosses": "124",
+        "type": "Poly"
+    },
+    {
+        "pdb": "1POT",
+        "protein_name": "Spermidine/putrescine-binding periplasmic protein",
+        "serial": 21,
+        "crosses": "73",
+        "type": "Single"
+    },
+    {
+        "pdb": "4S0G",
+        "protein_name": "Tyrosine-protein phosphatase non-receptor type 3",
+        "serial": 22,
+        "crosses": "100",
+        "type": "Poly"
+    },
+    {
+        "pdb": "6MRK",
+        "protein_name": "NTF2-related export protein",
+        "serial": 23,
+        "crosses": "145",
+        "type": "Poly"
+    },
+    {
+        "pdb": "6TWY",
+        "protein_name": "Annexin A2",
+        "serial": 24,
+        "crosses": "136",
+        "type": "Poly"
+    },
+    {
+        "pdb": "1J78",
+        "protein_name": "Vitamin D-binding protein",
+        "serial": 25,
+        "crosses": "135",
+        "type": "Poly"
+    },
+    {
+        "pdb": "3S01",
+        "protein_name": "Heterogeneous nuclear ribonucleoprotein L",
+        "serial": 26,
+        "crosses": "69",
+        "type": "Single"
+    },
+    {
+        "pdb": "7JSL",
+        "protein_name": "ETS domain-containing transcription factor ERF",
+        "serial": 27,
+        "crosses": "149",
+        "type": "Poly"
+    },
+    {
+        "pdb": "6C1Z",
+        "protein_name": "Fatty acid-binding protein homolog 8",
+        "serial": 28,
+        "crosses": "34",
+        "type": "Single"
+    },
+    {
+        "pdb": "5YQG",
+        "protein_name": "14-3-3 protein eta",
+        "serial": 29,
+        "crosses": "139",
+        "type": "Poly"
+    },
+    {
+        "pdb": "2VZ5",
+        "protein_name": "Tax1-binding protein 3",
+        "serial": 30,
+        "crosses": "40",
+        "type": "Single"
+    },
+    {
+        "pdb": "6KYB",
+        "protein_name": "Autophagy-related protein 18",
+        "serial": 31,
+        "crosses": "127",
+        "type": "Poly"
+    },
+    {
+        "pdb": "3Q6L",
+        "protein_name": "Fatty acid-binding protein, adipocyte",
+        "serial": 32,
+        "crosses": "19",
+        "type": "Single"
+    },
+    {
+        "pdb": "3V2O",
+        "protein_name": "Low-density lipoprotein receptor-related protein 2",
+        "serial": 33,
+        "crosses": "41",
+        "type": "Poly"
+    },
+    {
+        "pdb": "1N44",
+        "protein_name": "Annexin A5",
+        "serial": 34,
+        "crosses": "69",
+        "type": "Single"
+    },
+    {
+        "pdb": "4O9S",
+        "protein_name": "Retinol-binding protein 4",
+        "serial": 35,
+        "crosses": "149",
+        "type": "Poly"
+    },
+    {
+        "pdb": "2VP1",
+        "protein_name": "Iron uptake protein A2",
+        "serial": 36,
+        "crosses": "147",
+        "type": "Poly"
+    },
+    {
+        "pdb": "1M9I",
+        "protein_name": "Annexin A6",
+        "serial": 37,
+        "crosses": "61",
+        "type": "Single"
+    },
+    {
+        "pdb": "2LBP",
+        "protein_name": "Leucine-specific-binding protein",
+        "serial": 38,
+        "crosses": "69",
+        "type": "Single"
+    },
+    {
+        "pdb": "2Q3F",
+        "protein_name": "Ras-related GTP-binding protein D",
+        "serial": 39,
+        "crosses": "149",
+        "type": "Poly"
+    },
+    {
+        "pdb": "6B25",
+        "protein_name": "SH3 and cysteine-rich domain-containing protein",
+        "serial": 40,
+        "crosses": "45",
+        "type": "Single"
+    },
+    {
+        "pdb": "5TJ4",
+        "protein_name": "Gasdermin-B",
+        "serial": 41,
+        "crosses": "110",
+        "type": "Poly"
+    },
+    {
+        "pdb": "7CYZ",
+        "protein_name": "Oxysterol-binding protein-related protein 3",
+        "serial": 42,
+        "crosses": "142",
+        "type": "Poly"
+    },
+    {
+        "pdb": "2LAP",
+        "protein_name": "Calcium-binding protein 1",
+        "serial": 43,
+        "crosses": "19",
+        "type": "Single"
+    },
+    {
+        "pdb": "6B26",
+        "protein_name": "SH3 and cysteine-rich domain-containing protein 2",
+        "serial": 44,
+        "crosses": "28",
+        "type": "Single"
+    },
+    {
+        "pdb": "1Z87",
+        "protein_name": "Alpha-1-syntrophin",
+        "serial": 45,
+        "crosses": "61",
+        "type": "Single"
+    },
+    {
+        "pdb": "3WV6",
+        "protein_name": "Galectin-9",
+        "serial": 46,
+        "crosses": "149",
+        "type": "Poly"
+    },
+    {
+        "pdb": "3V64",
+        "protein_name": "Agrin",
+        "serial": 47,
+        "crosses": "133",
+        "type": "Poly"
+    },
+    {
+        "pdb": "1SBR",
+        "protein_name": "Putative HMP/thiamine-binding protein YkoF",
+        "serial": 48,
+        "crosses": "115",
+        "type": "Poly"
+    },
+    {
+        "pdb": "3TS2",
+        "protein_name": "Protein lin-28 homolog A",
+        "serial": 49,
+        "crosses": "149",
+        "type": "Poly"
+    },
+    {
+        "pdb": "4TOZ",
+        "protein_name": "Periplasmic murein peptide-binding protein",
+        "serial": 50,
+        "crosses": "133",
+        "type": "Poly"
+    },
+    {
+        "pdb": "6PWW",
+        "protein_name": "Histone H2B 1.1",
+        "serial": 51,
+        "crosses": "123",
+        "type": "Poly"
+    },
+    {
+        "pdb": "1T27",
+        "protein_name": "Phosphatidylinositol transfer protein alpha isoform",
+        "serial": 52,
+        "crosses": "69",
+        "type": "Single"
+    },
+    {
+        "pdb": "6IRE",
+        "protein_name": "1-phosphatidylinositol 4,5-bisphosphate phosphodiesterase",
+        "serial": 53,
+        "crosses": "149",
+        "type": "Poly"
+    },
+    {
+        "pdb": "2MQN",
+        "protein_name": "Heterogeneous nuclear ribonucleoprotein L",
+        "serial": 54,
+        "crosses": "72",
+        "type": "Single"
+    },
+    {
+        "pdb": "3V53",
+        "protein_name": "RNA-binding protein 25",
+        "serial": 55,
+        "crosses": "142",
+        "type": "Poly"
+    },
+    {
+        "pdb": "6KLR",
+        "protein_name": "Autophagy-related protein 2 homolog A",
+        "serial": 56,
+        "crosses": "100",
+        "type": "Poly"
+    },
+    {
+        "pdb": "1KCM",
+        "protein_name": "Phosphatidylinositol transfer protein alpha isoform",
+        "serial": 57,
+        "crosses": "66",
+        "type": "Single"
+    },
+    {
+        "pdb": "2NVO",
+        "protein_name": "RNA-binding protein RO60",
+        "serial": 58,
+        "crosses": "63",
+        "type": "Single"
+    },
+    {
+        "pdb": "1HSL",
+        "protein_name": "Histidine-binding periplasmic protein",
+        "serial": 59,
+        "crosses": "149",
+        "type": "Poly"
+    },
+    {
+        "pdb": "4DRW",
+        "protein_name": "Annexin A2",
+        "serial": 60,
+        "crosses": "144",
+        "type": "Poly"
+    },
+    {
+        "pdb": "6GY4",
+        "protein_name": "Protein bicaudal C homolog 1",
+        "serial": 61,
+        "crosses": "136",
+        "type": "Poly"
+    },
+    {
+        "pdb": "1ZHS",
+        "protein_name": "Lectin MVL",
+        "serial": 62,
+        "crosses": "140",
+        "type": "Poly"
+    },
+    {
+        "pdb": "6WX6",
+        "protein_name": "Ferritin light chain",
+        "serial": 63,
+        "crosses": "115",
+        "type": "Poly"
+    },
+    {
+        "pdb": "5AZF",
+        "protein_name": "Protein lgg-1",
+        "serial": 64,
+        "crosses": "109",
+        "type": "Poly"
+    },
+    {
+        "pdb": "6OWW",
+        "protein_name": "Calsequestrin-2",
+        "serial": 65,
+        "crosses": "117",
+        "type": "Poly"
+    },
+    {
+        "pdb": "6OB0",
+        "protein_name": "Lipoprotein lipase",
+        "serial": 66,
+        "crosses": "119",
+        "type": "Poly"
+    },
+    {
+        "pdb": "1V5K",
+        "protein_name": "Microtubule-associated protein RP/EB family member 1",
+        "serial": 67,
+        "crosses": "69",
+        "type": "Single"
+    },
+    {
+        "pdb": "4JDF",
+        "protein_name": "Putrescine-binding periplasmic protein PotF",
+        "serial": 68,
+        "crosses": "70",
+        "type": "Single"
+    },
+    {
+        "pdb": "1LB3",
+        "protein_name": "Ferritin light chain 1",
+        "serial": 69,
+        "crosses": "71",
+        "type": "Single"
+    },
+    {
+        "pdb": "5UR9",
+        "protein_name": "Fatty acid-binding protein 5",
+        "serial": 70,
+        "crosses": "132",
+        "type": "Poly"
+    },
+    {
+        "pdb": "4WSI",
+        "protein_name": "Protein crumbs",
+        "serial": 71,
+        "crosses": "140",
+        "type": "Poly"
+    },
+    {
+        "pdb": "4CI3",
+        "protein_name": "Protein cereblon",
+        "serial": 72,
+        "crosses": "129",
+        "type": "Poly"
+    },
+    {
+        "pdb": "5WQE",
+        "protein_name": "CRISPR-associated endonuclease Cas12b",
+        "serial": 73,
+        "crosses": "129",
+        "type": "Poly"
+    },
+    {
+        "pdb": "2KOH",
+        "protein_name": "Cadherin-5",
+        "serial": 74,
+        "crosses": "82",
+        "type": "Poly"
+    },
+    {
+        "pdb": "1S49",
+        "protein_name": "Genome polyprotein",
+        "serial": 75,
+        "crosses": "61",
+        "type": "Single"
+    },
+    {
+        "pdb": "5NUV",
+        "protein_name": "Autophagy-related protein 16-1",
+        "serial": 76,
+        "crosses": "73",
+        "type": "Single"
+    },
+    {
+        "pdb": "3UBW",
+        "protein_name": "Myeloid leukemia factor 1",
+        "serial": 77,
+        "crosses": "80",
+        "type": "Poly"
+    },
+    {
+        "pdb": "1JGC",
+        "protein_name": "Bacterioferritin",
+        "serial": 78,
+        "crosses": "149",
+        "type": "Poly"
+    },
+    {
+        "pdb": "5BVS",
+        "protein_name": "Fatty acid-binding protein, adipocyte",
+        "serial": 79,
+        "crosses": "127",
+        "type": "Poly"
+    },
+    {
+        "pdb": "3SK2",
+        "protein_name": "Phenazine antibiotic resistance protein EhpR",
+        "serial": 80,
+        "crosses": "134",
+        "type": "Poly"
+    },
+    {
+        "pdb": "3UAF",
+        "protein_name": "Transthyretin-like protein 52",
+        "serial": 81,
+        "crosses": "51",
+        "type": "Single"
+    },
+    {
+        "pdb": "2E6W",
+        "protein_name": "Calsenilin",
+        "serial": 82,
+        "crosses": "19",
+        "type": "Single"
+    },
+    {
+        "pdb": "3V1W",
+        "protein_name": "Calsequestrin-1",
+        "serial": 83,
+        "crosses": "66",
+        "type": "Single"
+    },
+    {
+        "pdb": "5YJ1",
+        "protein_name": "Protein cereblon",
+        "serial": 84,
+        "crosses": "121",
+        "type": "Poly"
+    },
+    {
+        "pdb": "4ZLK",
+        "protein_name": "Calmodulin-1",
+        "serial": 85,
+        "crosses": "131",
+        "type": "Poly"
+    },
+    {
+        "pdb": "1LN3",
+        "protein_name": "Phosphatidylcholine transfer protein",
+        "serial": 86,
+        "crosses": "149",
+        "type": "Poly"
+    },
+    {
+        "pdb": "6FIF",
+        "protein_name": "Protein BRASSINOSTEROID INSENSITIVE 1",
+        "serial": 87,
+        "crosses": "47",
+        "type": "Single"
+    },
+    {
+        "pdb": "3MA0",
+        "protein_name": "D-xylose-binding periplasmic protein",
+        "serial": 88,
+        "crosses": "141",
+        "type": "Poly"
+    },
+    {
+        "pdb": "6OF0",
+        "protein_name": "HTH-type transcriptional regulator MtrR",
+        "serial": 89,
+        "crosses": "139",
+        "type": "Poly"
+    },
+    {
+        "pdb": "6CTB",
+        "protein_name": "Calmodulin-1",
+        "serial": 90,
+        "crosses": "1",
+        "type": "Poly"
+    },
+    {
+        "pdb": "3HH8",
+        "protein_name": "Metal ABC transporter substrate-binding lipoprotein",
+        "serial": 91,
+        "crosses": "75",
+        "type": "Single"
+    },
+    {
+        "pdb": "5A2H",
+        "protein_name": "Calmodulin-7",
+        "serial": 92,
+        "crosses": "72",
+        "type": "Single"
+    },
+    {
+        "pdb": "3ODB",
+        "protein_name": "Iron-utilization periplasmic protein",
+        "serial": 93,
+        "crosses": "72",
+        "type": "Single"
+    },
+    {
+        "pdb": "6BJO",
+        "protein_name": "PRKCA-binding protein",
+        "serial": 94,
+        "crosses": "100",
+        "type": "Poly"
+    },
+    {
+        "pdb": "6ICV",
+        "protein_name": "Actin, cytoplasmic 1",
+        "serial": 95,
+        "crosses": "135",
+        "type": "Poly"
+    },
+    {
+        "pdb": "3QB9",
+        "protein_name": "Bacterioferritin BfrA",
+        "serial": 96,
+        "crosses": "135",
+        "type": "Poly"
+    },
+    {
+        "pdb": "3MH9",
+        "protein_name": "Lipoarabinomannan carrier protein LprG",
+        "serial": 97,
+        "crosses": "149",
+        "type": "Poly"
+    },
+    {
+        "pdb": "2ONS",
+        "protein_name": "Molybdate/tungstate-binding protein WtpA",
+        "serial": 98,
+        "crosses": "74",
+        "type": "Single"
+    },
+    {
+        "pdb": "3WPI",
+        "protein_name": "Toll-like receptor 9",
+        "serial": 99,
+        "crosses": "140",
+        "type": "Poly"
+    },
+    {
+        "pdb": "2CUP",
+        "protein_name": "Four and a half LIM domains protein 1",
+        "serial": 100,
+        "crosses": "69",
+        "type": "Single"
+    },
+    {
+        "pdb": "6K25",
+        "protein_name": "Annexin A5",
+        "serial": 101,
+        "crosses": "70",
+        "type": "Single"
+    },
+    {
+        "pdb": "1ZFO",
+        "protein_name": "LIM and SH3 domain protein 1",
+        "serial": 102,
+        "crosses": "0",
+        "type": "Single"
+    },
+    {
+        "pdb": "6EAZ",
+        "protein_name": "Calcium uptake protein 2, mitochondrial",
+        "serial": 103,
+        "crosses": "139",
+        "type": "Poly"
+    },
+    {
+        "pdb": "3VE6",
+        "protein_name": "Structural polyprotein",
+        "serial": 104,
+        "crosses": "149",
+        "type": "Poly"
+    },
+    {
+        "pdb": "1X4C",
+        "protein_name": "Serine/arginine-rich splicing factor 1",
+        "serial": 105,
+        "crosses": "66",
+        "type": "Single"
+    },
+    {
+        "pdb": "5WY8",
+        "protein_name": "Receptor-type tyrosine-protein phosphatase delta",
+        "serial": 106,
+        "crosses": "140",
+        "type": "Poly"
+    },
+    {
+        "pdb": "6KBN",
+        "protein_name": "Vacuolar protein 8",
+        "serial": 107,
+        "crosses": "133",
+        "type": "Poly"
+    },
+    {
+        "pdb": "2LW1",
+        "protein_name": "ATP-binding protein Uup",
+        "serial": 108,
+        "crosses": "75",
+        "type": "Single"
+    },
+    {
+        "pdb": "2AGC",
+        "protein_name": "Ganglioside GM2 activator",
+        "serial": 109,
+        "crosses": "73",
+        "type": "Single"
+    },
+    {
+        "pdb": "2V90",
+        "protein_name": "Na(+)/H(+) exchange regulatory cofactor NHE-RF4",
+        "serial": 110,
+        "crosses": "145",
+        "type": "Poly"
+    },
+    {
+        "pdb": "3TVT",
+        "protein_name": "Disks large 1 tumor suppressor protein",
+        "serial": 111,
+        "crosses": "128",
+        "type": "Poly"
+    },
+    {
+        "pdb": "4ORB",
+        "protein_name": "Protein phosphatase 3 catalytic subunit alpha",
+        "serial": 112,
+        "crosses": "149",
+        "type": "Poly"
+    },
+    {
+        "pdb": "3KWC",
+        "protein_name": "Carboxysome assembly protein CcmM",
+        "serial": 113,
+        "crosses": "123",
+        "type": "Poly"
+    },
+    {
+        "pdb": "2AG9",
+        "protein_name": "Ganglioside GM2 activator",
+        "serial": 114,
+        "crosses": "149",
+        "type": "Poly"
+    },
+    {
+        "pdb": "5XWP",
+        "protein_name": "CRISPR-associated endoribonuclease Cas13a",
+        "serial": 115,
+        "crosses": "119",
+        "type": "Poly"
+    },
+    {
+        "pdb": "5K7L",
+        "protein_name": "Calmodulin-1",
+        "serial": 116,
+        "crosses": "118",
+        "type": "Poly"
+    },
+    {
+        "pdb": "6TPI",
+        "protein_name": "Cell division protein FtsX",
+        "serial": 117,
+        "crosses": "130",
+        "type": "Poly"
+    },
+    {
+        "pdb": "3L4H",
+        "protein_name": "E3 ubiquitin-protein ligase HECW1",
+        "serial": 118,
+        "crosses": "20",
+        "type": "Single"
+    },
+    {
+        "pdb": "6XLP",
+        "protein_name": "Inner membrane protein YejM",
+        "serial": 119,
+        "crosses": "57",
+        "type": "Single"
+    },
+    {
+        "pdb": "3SJQ",
+        "protein_name": "Calmodulin-1",
+        "serial": 120,
+        "crosses": "147",
+        "type": "Poly"
+    },
+    {
+        "pdb": "6N64",
+        "protein_name": "Structural maintenance of chromosomes flexible hinge domain-containing protein 1",
+        "serial": 121,
+        "crosses": "135",
+        "type": "Poly"
+    },
+    {
+        "pdb": "2LM5",
+        "protein_name": "Calcium and integrin-binding protein 1",
+        "serial": 122,
+        "crosses": "72",
+        "type": "Single"
+    },
+    {
+        "pdb": "3SZR",
+        "protein_name": "Interferon-induced GTP-binding protein Mx1",
+        "serial": 123,
+        "crosses": "57",
+        "type": "Single"
+    },
+    {
+        "pdb": "2RKM",
+        "protein_name": "Periplasmic oligopeptide-binding protein",
+        "serial": 124,
+        "crosses": "66",
+        "type": "Single"
+    },
+    {
+        "pdb": "1ABE",
+        "protein_name": "L-arabinose-binding periplasmic protein",
+        "serial": 125,
+        "crosses": "74",
+        "type": "Single"
+    },
+    {
+        "pdb": "2LT9",
+        "protein_name": "Sodium/calcium exchanger 3",
+        "serial": 126,
+        "crosses": "75",
+        "type": "Single"
+    },
+    {
+        "pdb": "2XD3",
+        "protein_name": "Maltooligosaccharide ABC transporter solute-binding lipoprotein",
+        "serial": 127,
+        "crosses": "69",
+        "type": "Single"
+    },
+    {
+        "pdb": "4N5X",
+        "protein_name": "Calcium-binding mitochondrial carrier protein SCaMC-1",
+        "serial": 128,
+        "crosses": "63",
+        "type": "Single"
+    },
+    {
+        "pdb": "5K24",
+        "protein_name": "Protein tyrosine phosphatase type IVA 2",
+        "serial": 129,
+        "crosses": "147",
+        "type": "Poly"
+    },
+    {
+        "pdb": "1G29",
+        "protein_name": "Trehalose/maltose import ATP-binding protein MalK",
+        "serial": 130,
+        "crosses": "143",
+        "type": "Poly"
+    },
+    {
+        "pdb": "1UQW",
+        "protein_name": "Glutathione-binding protein GsiB",
+        "serial": 131,
+        "crosses": "131",
+        "type": "Poly"
+    },
+    {
+        "pdb": "2M7E",
+        "protein_name": "Calcium-transporting ATPase 2, plasma membrane-type",
+        "serial": 132,
+        "crosses": "3",
+        "type": "Single"
+    },
+    {
+        "pdb": "6F0E",
+        "protein_name": "SEC14 cytosolic factor",
+        "serial": 133,
+        "crosses": "74",
+        "type": "Single"
+    },
+    {
+        "pdb": "2MOQ",
+        "protein_name": "Iron-regulated surface determinant protein B",
+        "serial": 134,
+        "crosses": "73",
+        "type": "Single"
+    },
+    {
+        "pdb": "1LSH",
+        "protein_name": "Vitellogenin",
+        "serial": 135,
+        "crosses": "132",
+        "type": "Poly"
+    },
+    {
+        "pdb": "6ES1",
+        "protein_name": "Botulinum neurotoxin type A2",
+        "serial": 136,
+        "crosses": "149",
+        "type": "Poly"
+    },
+    {
+        "pdb": "1ELJ",
+        "protein_name": "Maltotriose-binding protein",
+        "serial": 137,
+        "crosses": "68",
+        "type": "Single"
+    },
+    {
+        "pdb": "4POV",
+        "protein_name": "Thiamine transporter ThiT",
+        "serial": 138,
+        "crosses": "149",
+        "type": "Poly"
+    },
+    {
+        "pdb": "1SBP",
+        "protein_name": "Sulfate-binding protein",
+        "serial": 139,
+        "crosses": "73",
+        "type": "Single"
+    },
+    {
+        "pdb": "4XXU",
+        "protein_name": "Molybdate-binding protein ModA",
+        "serial": 140,
+        "crosses": "149",
+        "type": "Poly"
+    },
+    {
+        "pdb": "3TIF",
+        "protein_name": "Uncharacterized ABC transporter ATP-binding protein MJ0796",
+        "serial": 141,
+        "crosses": "149",
+        "type": "Poly"
+    },
+    {
+        "pdb": "3US9",
+        "protein_name": "Sodium/calcium exchanger 1",
+        "serial": 142,
+        "crosses": "69",
+        "type": "Single"
+    },
+    {
+        "pdb": "1DPP",
+        "protein_name": "Dipeptide-binding protein",
+        "serial": 143,
+        "crosses": "125",
+        "type": "Poly"
+    },
+    {
+        "pdb": "5H2C",
+        "protein_name": "Oxysterol-binding protein homolog 1",
+        "serial": 144,
+        "crosses": "149",
+        "type": "Poly"
+    },
+    {
+        "pdb": "5HYW",
+        "protein_name": "SKP1-like protein 1A",
+        "serial": 145,
+        "crosses": "130",
+        "type": "Poly"
+    },
+    {
+        "pdb": "3TAC",
+        "protein_name": "Peripheral plasma membrane protein CASK",
+        "serial": 146,
+        "crosses": "147",
+        "type": "Poly"
+    },
+    {
+        "pdb": "4OE9",
+        "protein_name": "COMM domain-containing protein 9",
+        "serial": 147,
+        "crosses": "90",
+        "type": "Poly"
+    },
+    {
+        "pdb": "3FC0",
+        "protein_name": "Tumor necrosis factor ligand superfamily member 18",
+        "serial": 148,
+        "crosses": "86",
+        "type": "Poly"
+    },
+    {
+        "pdb": "4AQ4",
+        "protein_name": "sn-glycerol-3-phosphate-binding periplasmic protein UgpB",
+        "serial": 149,
+        "crosses": "66",
+        "type": "Single"
+    },
+    {
+        "pdb": "1EU8",
+        "protein_name": "Trehalose/maltose-binding protein MalE",
+        "serial": 150,
+        "crosses": "69",
+        "type": "Single"
+    },
+    {
+        "pdb": "3DEL",
+        "protein_name": "Probable ABC transporter arginine-binding protein ArtJ",
+        "serial": 151,
+        "crosses": "133",
+        "type": "Poly"
+    },
+    {
+        "pdb": "5IBQ",
+        "protein_name": "D-apiose import binding protein",
+        "serial": 152,
+        "crosses": "72",
+        "type": "Single"
+    },
+    {
+        "pdb": "5LV1",
+        "protein_name": "Probable ABC transporter phosphonate/phosphite binding protein PhnD2",
+        "serial": 153,
+        "crosses": "140",
+        "type": "Poly"
+    },
+    {
+        "pdb": "4GOT",
+        "protein_name": "Methionine-binding lipoprotein MetQ",
+        "serial": 154,
+        "crosses": "75",
+        "type": "Single"
+    },
+    {
+        "pdb": "4RT6",
+        "protein_name": "Hemopexin",
+        "serial": 155,
+        "crosses": "136",
+        "type": "Poly"
+    },
+    {
+        "pdb": "3ASD",
+        "protein_name": "Magnetosome protein MamA",
+        "serial": 156,
+        "crosses": "63",
+        "type": "Single"
+    },
+    {
+        "pdb": "5AWG",
+        "protein_name": "Probable ATP-dependent transporter SufC",
+        "serial": 157,
+        "crosses": "118",
+        "type": "Poly"
+    },
+    {
+        "pdb": "5TW9",
+        "protein_name": "Iron uptake system component EfeO",
+        "serial": 158,
+        "crosses": "150",
+        "type": "Poly"
+    },
+    {
+        "pdb": "5LQ8",
+        "protein_name": "Probable ABC transporter phosphite binding protein PhnD1",
+        "serial": 159,
+        "crosses": "74",
+        "type": "Single"
+    },
+    {
+        "pdb": "4USL",
+        "protein_name": "Sorcin",
+        "serial": 160,
+        "crosses": "91",
+        "type": "Poly"
+    },
+    {
+        "pdb": "4X9P",
+        "protein_name": "Annexin A2",
+        "serial": 161,
+        "crosses": "69",
+        "type": "Single"
+    },
+    {
+        "pdb": "5FJV",
+        "protein_name": "Neuronal acetylcholine receptor subunit alpha-2",
+        "serial": 162,
+        "crosses": "143",
+        "type": "Poly"
+    },
+    {
+        "pdb": "4AII",
+        "protein_name": "GTP-binding protein REM 2",
+        "serial": 163,
+        "crosses": "149",
+        "type": "Poly"
+    },
+    {
+        "pdb": "3WIP",
+        "protein_name": "Acetylcholine-binding protein",
+        "serial": 164,
+        "crosses": "119",
+        "type": "Poly"
+    },
+    {
+        "pdb": "1WDN",
+        "protein_name": "Glutamine-binding periplasmic protein",
+        "serial": 165,
+        "crosses": "73",
+        "type": "Single"
+    },
+    {
+        "pdb": "2M29",
+        "protein_name": "Calcium-binding protein 4",
+        "serial": 166,
+        "crosses": "34",
+        "type": "Single"
+    },
+    {
+        "pdb": "1ALA",
+        "protein_name": "Annexin A5",
+        "serial": 167,
+        "crosses": "70",
+        "type": "Single"
+    },
+    {
+        "pdb": "3CBQ",
+        "protein_name": "GTP-binding protein REM 2",
+        "serial": 168,
+        "crosses": "47",
+        "type": "Single"
+    },
+    {
+        "pdb": "6RMV",
+        "protein_name": "Guanine nucleotide-binding protein G(I)/G(S)/G(T) subunit beta-1",
+        "serial": 169,
+        "crosses": "140",
+        "type": "Poly"
+    },
+    {
+        "pdb": "3ULR",
+        "protein_name": "Lysozyme C",
+        "serial": 170,
+        "crosses": "71",
+        "type": "Poly"
+    },
+    {
+        "pdb": "6UY9",
+        "protein_name": "SH3 and cysteine-rich domain-containing protein 3",
+        "serial": 171,
+        "crosses": "60",
+        "type": "Single"
+    },
+    {
+        "pdb": "7A0C",
+        "protein_name": "Nickel-binding periplasmic protein",
+        "serial": 172,
+        "crosses": "143",
+        "type": "Poly"
+    },
+    {
+        "pdb": "1AVC",
+        "protein_name": "Annexin A6",
+        "serial": 173,
+        "crosses": "61",
+        "type": "Single"
+    },
+    {
+        "pdb": "4AZN",
+        "protein_name": "Fatty acid-binding protein 5",
+        "serial": 174,
+        "crosses": "146",
+        "type": "Poly"
+    },
+    {
+        "pdb": "4J2X",
+        "protein_name": "Recombining binding protein suppressor of hairless",
+        "serial": 175,
+        "crosses": "136",
+        "type": "Poly"
+    },
+    {
+        "pdb": "2D6P",
+        "protein_name": "Galectin-9",
+        "serial": 176,
+        "crosses": "127",
+        "type": "Poly"
+    },
+    {
+        "pdb": "2XRO",
+        "protein_name": "HTH-type transcriptional regulator TtgV",
+        "serial": 177,
+        "crosses": "135",
+        "type": "Poly"
+    },
+    {
+        "pdb": "5F5P",
+        "protein_name": "Rho-associated protein kinase 1",
+        "serial": 178,
+        "crosses": "119",
+        "type": "Poly"
+    },
+    {
+        "pdb": "5JK7",
+        "protein_name": "Protein Vpr",
+        "serial": 179,
+        "crosses": "118",
+        "type": "Poly"
+    },
+    {
+        "pdb": "5YH8",
+        "protein_name": "Metal-staphylopine-binding protein CntA",
+        "serial": 180,
+        "crosses": "63",
+        "type": "Single"
+    },
+    {
+        "pdb": "1UM7",
+        "protein_name": "Disks large homolog 3",
+        "serial": 181,
+        "crosses": "71",
+        "type": "Single"
+    },
+    {
+        "pdb": "1ZFS",
+        "protein_name": "Protein S100-A1",
+        "serial": 182,
+        "crosses": "70",
+        "type": "Poly"
+    },
+    {
+        "pdb": "1R9Q",
+        "protein_name": "Glycine betaine/proline betaine-binding periplasmic protein",
+        "serial": 183,
+        "crosses": "70",
+        "type": "Single"
+    },
+    {
+        "pdb": "4RM9",
+        "protein_name": "Ezrin",
+        "serial": 184,
+        "crosses": "68",
+        "type": "Single"
+    },
+    {
+        "pdb": "1ZHZ",
+        "protein_name": "Oxysterol-binding protein homolog 4",
+        "serial": 185,
+        "crosses": "66",
+        "type": "Single"
+    },
+    {
+        "pdb": "4UFT",
+        "protein_name": "Nucleoprotein",
+        "serial": 186,
+        "crosses": "149",
+        "type": "Poly"
+    },
+    {
+        "pdb": "3W3Y",
+        "protein_name": "Importin subunit beta-3",
+        "serial": 187,
+        "crosses": "129",
+        "type": "Poly"
+    },
+    {
+        "pdb": "5M6C",
+        "protein_name": "Neuron-specific calcium-binding protein hippocalcin",
+        "serial": 188,
+        "crosses": "149",
+        "type": "Poly"
+    },
+    {
+        "pdb": "4INQ",
+        "protein_name": "Oxysterol-binding protein homolog 3",
+        "serial": 189,
+        "crosses": "69",
+        "type": "Single"
+    },
+    {
+        "pdb": "3L1N",
+        "protein_name": "Cell wall mannoprotein 1",
+        "serial": 190,
+        "crosses": "71",
+        "type": "Single"
+    },
+    {
+        "pdb": "3R2S",
+        "protein_name": "Bacterioferritin",
+        "serial": 191,
+        "crosses": "69",
+        "type": "Single"
+    },
+    {
+        "pdb": "3VTO",
+        "protein_name": "Baseplate puncturing device gp45",
+        "serial": 192,
+        "crosses": "147",
+        "type": "Poly"
+    },
+    {
+        "pdb": "4UTP",
+        "protein_name": "Manganese ABC transporter substrate-binding lipoprotein",
+        "serial": 193,
+        "crosses": "149",
+        "type": "Poly"
+    },
+    {
+        "pdb": "2VRF",
+        "protein_name": "Beta-2-syntrophin",
+        "serial": 194,
+        "crosses": "149",
+        "type": "Poly"
+    },
+    {
+        "pdb": "1ZV6",
+        "protein_name": "Dematin",
+        "serial": 195,
+        "crosses": "11",
+        "type": "Single"
+    },
+    {
+        "pdb": "3HPK",
+        "protein_name": "PRKCA-binding protein",
+        "serial": 196,
+        "crosses": "80",
+        "type": "Poly"
+    },
+    {
+        "pdb": "5ZRX",
+        "protein_name": "Ephrin type-A receptor 2",
+        "serial": 197,
+        "crosses": "128",
+        "type": "Poly"
+    },
+    {
+        "pdb": "2HZL",
+        "protein_name": "Alpha-keto acid-binding periplasmic protein TakP",
+        "serial": 198,
+        "crosses": "149",
+        "type": "Poly"
+    },
+    {
+        "pdb": "1WF8",
+        "protein_name": "Neurabin-1",
+        "serial": 199,
+        "crosses": "72",
+        "type": "Single"
+    },
+    {
+        "pdb": "6EOJ",
+        "protein_name": "Polyadenylation factor subunit 2",
+        "serial": 200,
+        "crosses": "131",
+        "type": "Poly"
+    },
+    {
+        "pdb": "2HKA",
+        "protein_name": "NPC intracellular cholesterol transporter 2",
+        "serial": 201,
+        "crosses": "149",
+        "type": "Poly"
+    },
+    {
+        "pdb": "5IZU",
+        "protein_name": "SH3 and multiple ankyrin repeat domains protein 3",
+        "serial": 202,
+        "crosses": "132",
+        "type": "Poly"
+    },
+    {
+        "pdb": "4MJS",
+        "protein_name": "Protein kinase C zeta type",
+        "serial": 203,
+        "crosses": "117",
+        "type": "Poly"
+    },
+    {
+        "pdb": "2A1L",
+        "protein_name": "Phosphatidylinositol transfer protein beta isoform",
+        "serial": 204,
+        "crosses": "74",
+        "type": "Single"
+    },
+    {
+        "pdb": "2QM9",
+        "protein_name": "Fatty acid-binding protein, adipocyte",
+        "serial": 205,
+        "crosses": "109",
+        "type": "Poly"
+    },
+    {
+        "pdb": "7JJ9",
+        "protein_name": "Zinc-binding lipoprotein AdcA",
+        "serial": 206,
+        "crosses": "63",
+        "type": "Single"
+    },
+    {
+        "pdb": "2O60",
+        "protein_name": "Calmodulin",
+        "serial": 207,
+        "crosses": "35",
+        "type": "Poly"
+    },
+    {
+        "pdb": "3OUX",
+        "protein_name": "Lymphoid enhancer-binding factor 1",
+        "serial": 208,
+        "crosses": "147",
+        "type": "Poly"
+    },
+    {
+        "pdb": "5FOA",
+        "protein_name": "Complement C3",
+        "serial": 209,
+        "crosses": "115",
+        "type": "Poly"
+    },
+    {
+        "pdb": "4O6X",
+        "protein_name": "Ankyrin-3",
+        "serial": 210,
+        "crosses": "82",
+        "type": "Poly"
+    },
+    {
+        "pdb": "6IRD",
+        "protein_name": "InaD-like protein",
+        "serial": 211,
+        "crosses": "143",
+        "type": "Poly"
+    },
+    {
+        "pdb": "3O72",
+        "protein_name": "Deferrochelatase",
+        "serial": 212,
+        "crosses": "124",
+        "type": "Poly"
+    },
+    {
+        "pdb": "4DJ2",
+        "protein_name": "Period circadian protein homolog 1",
+        "serial": 213,
+        "crosses": "133",
+        "type": "Poly"
+    },
+    {
+        "pdb": "3TO8",
+        "protein_name": "Heterogeneous nuclear ribonucleoprotein L",
+        "serial": 214,
+        "crosses": "74",
+        "type": "Single"
+    },
+    {
+        "pdb": "2O98",
+        "protein_name": "14-3-3-like protein C",
+        "serial": 215,
+        "crosses": "149",
+        "type": "Poly"
+    },
+    {
+        "pdb": "7CDB",
+        "protein_name": "Gamma-aminobutyric acid receptor subunit gamma-2",
+        "serial": 216,
+        "crosses": "118",
+        "type": "Poly"
+    },
+    {
+        "pdb": "1SJI",
+        "protein_name": "Calsequestrin-2",
+        "serial": 217,
+        "crosses": "147",
+        "type": "Poly"
+    },
+    {
+        "pdb": "3RBQ",
+        "protein_name": "Guanine nucleotide-binding protein G(t) subunit alpha-1",
+        "serial": 218,
+        "crosses": "130",
+        "type": "Poly"
+    },
+    {
+        "pdb": "3NV0",
+        "protein_name": "NTF2-related export protein",
+        "serial": 219,
+        "crosses": "104",
+        "type": "Poly"
+    },
+    {
+        "pdb": "1XVY",
+        "protein_name": "Fe(3+)-binding periplasmic protein",
+        "serial": 220,
+        "crosses": "73",
+        "type": "Single"
+    },
+    {
+        "pdb": "4WTM",
+        "protein_name": "Genome polyprotein",
+        "serial": 221,
+        "crosses": "149",
+        "type": "Poly"
+    },
+    {
+        "pdb": "3NC0",
+        "protein_name": "Snurportin-1",
+        "serial": 222,
+        "crosses": "115",
+        "type": "Poly"
+    },
+    {
+        "pdb": "5ORG",
+        "protein_name": "Octopine-binding periplasmic protein",
+        "serial": 223,
+        "crosses": "149",
+        "type": "Poly"
+    },
+    {
+        "pdb": "2I91",
+        "protein_name": "RNA-binding protein RO60",
+        "serial": 224,
+        "crosses": "139",
+        "type": "Poly"
+    },
+    {
+        "pdb": "2HSM",
+        "protein_name": "Glutamate--tRNA ligase, cytoplasmic",
+        "serial": 225,
+        "crosses": "149",
+        "type": "Poly"
+    },
+    {
+        "pdb": "3GFO",
+        "protein_name": "Energy-coupling factor transporter ATP-binding protein EcfA3",
+        "serial": 226,
+        "crosses": "73",
+        "type": "Single"
+    },
+    {
+        "pdb": "5IJH",
+        "protein_name": "Xenotropic and polytropic retrovirus receptor 1",
+        "serial": 227,
+        "crosses": "147",
+        "type": "Poly"
+    },
+    {
+        "pdb": "4QLP",
+        "protein_name": "Outer membrane channel protein CpnT",
+        "serial": 228,
+        "crosses": "130",
+        "type": "Poly"
+    },
+    {
+        "pdb": "3H4S",
+        "protein_name": "Kinesin-like protein KIN-14E",
+        "serial": 229,
+        "crosses": "147",
+        "type": "Poly"
+    },
+    {
+        "pdb": "3EU9",
+        "protein_name": "Palmitoyltransferase ZDHHC17",
+        "serial": 230,
+        "crosses": "142",
+        "type": "Poly"
+    },
+    {
+        "pdb": "2N6F",
+        "protein_name": "Pleiotrophin",
+        "serial": 231,
+        "crosses": "59",
+        "type": "Single"
+    },
+    {
+        "pdb": "5CRH",
+        "protein_name": "Calsequestrin-1",
+        "serial": 232,
+        "crosses": "148",
+        "type": "Poly"
+    },
+    {
+        "pdb": "6NID",
+        "protein_name": "Neurexin-1",
+        "serial": 233,
+        "crosses": "134",
+        "type": "Poly"
+    },
+    {
+        "pdb": "4HRE",
+        "protein_name": "Annexin A2",
+        "serial": 234,
+        "crosses": "121",
+        "type": "Poly"
+    },
+    {
+        "pdb": "3K4E",
+        "protein_name": "mRNA-binding protein PUF3",
+        "serial": 235,
+        "crosses": "132",
+        "type": "Poly"
+    },
+    {
+        "pdb": "4OJK",
+        "protein_name": "Ras-related protein Rab-11B",
+        "serial": 236,
+        "crosses": "149",
+        "type": "Poly"
+    },
+    {
+        "pdb": "4DFC",
+        "protein_name": "UvrABC system protein A",
+        "serial": 237,
+        "crosses": "14",
+        "type": "Poly"
+    }
+]

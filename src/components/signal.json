@@ -2,426 +2,511 @@
     {
         "pdb": "5KCA",
         "protein": "Glutamate receptor ionotropic, delta-2",
-        "serial": 1
+        "serial": 1,
+        "type": "Single"
     },
     {
         "pdb": "6JJZ",
         "protein": "Dendrin",
-        "serial": 2
+        "serial": 2,
+        "type": "Poly"
     },
     {
         "pdb": "6PYH",
         "protein": "Insulin-like growth factor I",
-        "serial": 3
+        "serial": 3,
+        "type": "Poly"
     },
     {
         "pdb": "6KZH",
         "protein": "14-3-3 protein theta",
-        "serial": 4
+        "serial": 4,
+        "type": "Poly"
     },
     {
         "pdb": "6C0A",
         "protein": "Voltage-dependent L-type calcium channel subunit alpha-1C",
-        "serial": 5
+        "serial": 5,
+        "type": "Poly"
     },
     {
         "pdb": "6HYL",
         "protein": "Gamma-aminobutyric acid receptor-associated protein",
-        "serial": 6
+        "serial": 6,
+        "type": "Poly"
     },
     {
         "pdb": "4V11",
         "protein": "Synaptotagmin-1",
-        "serial": 7
+        "serial": 7,
+        "type": "Poly"
     },
     {
         "pdb": "4BK4",
         "protein": "Ephrin type-A receptor 4",
-        "serial": 8
+        "serial": 8,
+        "type": "Poly"
     },
     {
         "pdb": "1U3D",
         "protein": "Cryptochrome-1",
-        "serial": 9
+        "serial": 9,
+        "type": "Single"
     },
     {
         "pdb": "6KUY",
         "protein": "Alpha-2A adrenergic receptor",
-        "serial": 10
+        "serial": 10,
+        "type": "Single"
     },
     {
         "pdb": "6PWC",
         "protein": "Neurotensin receptor type 1",
-        "serial": 11
+        "serial": 11,
+        "type": "Poly"
     },
     {
         "pdb": "5XQ0",
         "protein": "Integrin beta-1",
-        "serial": 12
+        "serial": 12,
+        "type": "Poly"
     },
     {
         "pdb": "4APO",
         "protein": "AH receptor-interacting protein",
-        "serial": 13
+        "serial": 13,
+        "type": "Poly"
     },
     {
         "pdb": "5K5T",
         "protein": "Extracellular calcium-sensing receptor",
-        "serial": 14
+        "serial": 14,
+        "type": "Single"
     },
     {
         "pdb": "2C74",
         "protein": "14-3-3 protein eta",
-        "serial": 15
+        "serial": 15,
+        "type": "Poly"
     },
     {
         "pdb": "6N9G",
         "protein": "Regulator of G-protein signaling 7",
-        "serial": 16
+        "serial": 16,
+        "type": "Poly"
     },
     {
         "pdb": "3S2K",
         "protein": "Low-density lipoprotein receptor-related protein 6",
-        "serial": 17
+        "serial": 17,
+        "type": "Poly"
     },
     {
         "pdb": "5MTJ",
         "protein": "Tyrosine-protein kinase Yes",
-        "serial": 18
+        "serial": 18,
+        "type": "Poly"
     },
     {
         "pdb": "1T34",
         "protein": "Natriuretic peptides A",
-        "serial": 19
+        "serial": 19,
+        "type": "Poly"
     },
     {
         "pdb": "3ML4",
         "protein": "Protein Dok-7",
-        "serial": 20
+        "serial": 20,
+        "type": "Poly"
     },
     {
         "pdb": "4D7C",
         "protein": "Gliomedin",
-        "serial": 21
+        "serial": 21,
+        "type": "Poly"
     },
     {
         "pdb": "3SOE",
         "protein": "Membrane-associated guanylate kinase, WW and PDZ domain-containing protein 3",
-        "serial": 22
+        "serial": 22,
+        "type": "Single"
     },
     {
         "pdb": "3PZ8",
         "protein": "Segment polarity protein dishevelled homolog DVL-1",
-        "serial": 23
+        "serial": 23,
+        "type": "Poly"
     },
     {
         "pdb": "3ZRT",
         "protein": "Disks large homolog 4",
-        "serial": 24
+        "serial": 24,
+        "type": "Poly"
     },
     {
         "pdb": "6Q0K",
         "protein": "Serine/threonine-protein kinase B-raf",
-        "serial": 25
+        "serial": 25,
+        "type": "Poly"
     },
     {
         "pdb": "6B8O",
         "protein": "Triggering receptor expressed on myeloid cells 2",
-        "serial": 26
+        "serial": 26,
+        "type": "Poly"
     },
     {
         "pdb": "3T95",
         "protein": "Autoinducer 2-binding protein LsrB",
-        "serial": 27
+        "serial": 27,
+        "type": "Single"
     },
     {
         "pdb": "5JJN",
         "protein": "Sensory rhodopsin-2",
-        "serial": 28
+        "serial": 28,
+        "type": "Poly"
     },
     {
         "pdb": "1X69",
         "protein": "Src substrate cortactin",
-        "serial": 29
+        "serial": 29,
+        "type": "Single"
     },
     {
         "pdb": "6F3F",
         "protein": "Proto-oncogene tyrosine-protein kinase Src",
-        "serial": 30
+        "serial": 30,
+        "type": "Single"
     },
     {
         "pdb": "3GNI",
         "protein": "STE20-related kinase adapter protein alpha",
-        "serial": 31
+        "serial": 31,
+        "type": "Poly"
     },
     {
         "pdb": "6UJC",
         "protein": "Integrin alpha-V",
-        "serial": 32
+        "serial": 32,
+        "type": "Poly"
     },
     {
         "pdb": "2E4Y",
         "protein": "Metabotropic glutamate receptor 3",
-        "serial": 33
+        "serial": 33,
+        "type": "Poly"
     },
     {
         "pdb": "5KZQ",
         "protein": "Metabotropic glutamate receptor 2",
-        "serial": 34
+        "serial": 34,
+        "type": "Single"
     },
     {
         "pdb": "3KS9",
         "protein": "Metabotropic glutamate receptor 1",
-        "serial": 35
+        "serial": 35,
+        "type": "Poly"
     },
     {
         "pdb": "5FPN",
         "protein": "Heat shock-related 70 kDa protein 2",
-        "serial": 36
+        "serial": 36,
+        "type": "Poly"
     },
     {
         "pdb": "2E4Z",
         "protein": "Metabotropic glutamate receptor 7",
-        "serial": 37
+        "serial": 37,
+        "type": "Single"
     },
     {
         "pdb": "3TUF",
         "protein": "Stage III sporulation protein AH",
-        "serial": 38
+        "serial": 38,
+        "type": "Poly"
     },
     {
         "pdb": "6WJG",
         "protein": "cAMP-dependent protein kinase type II-beta regulatory subunit",
-        "serial": 39
+        "serial": 39,
+        "type": "Poly"
     },
     {
         "pdb": "2ENK",
         "protein": "Proton-coupled zinc antiporter SLC30A9, mitochondrial",
-        "serial": 40
+        "serial": 40,
+        "type": "Single"
     },
     {
         "pdb": "6QK8",
         "protein": "Protein BMH1",
-        "serial": 41
+        "serial": 41,
+        "type": "Poly"
     },
     {
         "pdb": "4YBH",
         "protein": "Protein S100-A6",
-        "serial": 42
+        "serial": 42,
+        "type": "Poly"
     },
     {
         "pdb": "6OSA",
         "protein": "Neurotensin receptor type 1",
-        "serial": 43
+        "serial": 43,
+        "type": "Poly"
     },
     {
         "pdb": "6U1N",
         "protein": "Muscarinic acetylcholine receptor M2",
-        "serial": 44
+        "serial": 44,
+        "type": "Poly"
     },
     {
         "pdb": "4MF3",
         "protein": "Glutamate receptor ionotropic, kainate 1",
-        "serial": 45
+        "serial": 45,
+        "type": "Poly"
     },
     {
         "pdb": "5KC9",
         "protein": "Glutamate receptor ionotropic, delta-1",
-        "serial": 46
+        "serial": 46,
+        "type": "Poly"
     },
     {
         "pdb": "6QB7",
         "protein": "BTB/POZ domain-containing protein KCTD16",
-        "serial": 47
+        "serial": 47,
+        "type": "Poly"
     },
     {
         "pdb": "6WJ3",
         "protein": "Ragulator complex protein LAMTOR5",
-        "serial": 48
+        "serial": 48,
+        "type": "Poly"
     },
     {
         "pdb": "2MVL",
         "protein": "Tumor-associated calcium signal transducer 2",
-        "serial": 49
+        "serial": 49,
+        "type": "Single"
     },
     {
         "pdb": "2A05",
         "protein": "Cysteine-rich secretory protein 2",
-        "serial": 50
+        "serial": 50,
+        "type": "Single"
     },
     {
         "pdb": "1TM2",
         "protein": "Autoinducer 2-binding protein LsrB",
-        "serial": 51
+        "serial": 51,
+        "type": "Single"
     },
     {
         "pdb": "6U62",
         "protein": "Ragulator complex protein LAMTOR5",
-        "serial": 52
+        "serial": 52,
+        "type": "Poly"
     },
     {
         "pdb": "5GTA",
         "protein": "Autoinducer 2-binding protein LsrB",
-        "serial": 53
+        "serial": 53,
+        "type": "Single"
     },
     {
         "pdb": "7BV6",
         "protein": "Synaptosomal-associated protein 29",
-        "serial": 54
+        "serial": 54,
+        "type": "Poly"
     },
     {
         "pdb": "3Q85",
         "protein": "GTP-binding protein REM 2",
-        "serial": 55
+        "serial": 55,
+        "type": "Poly"
     },
     {
         "pdb": "3GJ9",
         "protein": "Tax1-binding protein 3",
-        "serial": 56
+        "serial": 56,
+        "type": "Poly"
     },
     {
         "pdb": "6PW7",
         "protein": "Stromal interaction molecule 1",
-        "serial": 57
+        "serial": 57,
+        "type": "Poly"
     },
     {
         "pdb": "3JXT",
         "protein": "Voltage-dependent calcium channel gamma-2 subunit",
-        "serial": 58
+        "serial": 58,
+        "type": "Poly"
     },
     {
         "pdb": "2L5Y",
         "protein": "Stromal interaction molecule 2",
-        "serial": 59
+        "serial": 59,
+        "type": "Single"
     },
     {
         "pdb": "2NZJ",
         "protein": "GTP-binding protein REM 1",
-        "serial": 60
+        "serial": 60,
+        "type": "Poly"
     },
     {
         "pdb": "6GHP",
         "protein": "14-3-3 protein sigma",
-        "serial": 61
+        "serial": 61,
+        "type": "Poly"
     },
     {
         "pdb": "2G3Y",
         "protein": "GTP-binding protein GEM",
-        "serial": 62
+        "serial": 62,
+        "type": "Single"
     },
     {
         "pdb": "2K60",
         "protein": "Stromal interaction molecule 1",
-        "serial": 63
+        "serial": 63,
+        "type": "Single"
     },
     {
         "pdb": "2GJS",
         "protein": "GTP-binding protein RAD",
-        "serial": 64
+        "serial": 64,
+        "type": "Poly"
     },
     {
         "pdb": "2FU5",
         "protein": "Guanine nucleotide exchange factor MSS4",
-        "serial": 65
+        "serial": 65,
+        "type": "Poly"
     },
     {
         "pdb": "1N7L",
         "protein": "Cardiac phospholamban",
-        "serial": 66
+        "serial": 66,
+        "type": "Single"
     },
     {
         "pdb": "1C3H",
         "protein": "Adiponectin",
-        "serial": 67
+        "serial": 67,
+        "type": "Poly"
     },
     {
         "pdb": "6HOL",
         "protein": "Beclin 1-associated autophagy-related key regulator",
-        "serial": 68
+        "serial": 68,
+        "type": "Poly"
     },
     {
         "pdb": "3TVD",
         "protein": "Transforming protein RhoA",
-        "serial": 69
+        "serial": 69,
+        "type": "Poly"
     },
     {
         "pdb": "5AFP",
         "protein": "Neuronal calcium sensor 1",
-        "serial": 70
+        "serial": 70,
+        "type": "Poly"
     },
     {
         "pdb": "5VAQ",
         "protein": "Beta-klotho",
-        "serial": 71
+        "serial": 71,
+        "type": "Poly"
     },
     {
         "pdb": "3CX8",
         "protein": "Guanine nucleotide-binding protein subunit alpha-13",
-        "serial": 72
+        "serial": 72,
+        "type": "Poly"
     },
     {
         "pdb": "6IS2",
         "protein": "Response regulator ArlR",
-        "serial": 73
+        "serial": 73,
+        "type": "Poly"
     },
     {
         "pdb": "1T3E",
         "protein": "Glycine receptor subunit beta",
-        "serial": 74
+        "serial": 74,
+        "type": "Poly"
     },
     {
         "pdb": "6PXW",
         "protein": "Insulin",
-        "serial": 75
+        "serial": 75,
+        "type": "Poly"
     },
     {
         "pdb": "4IM8",
         "protein": "Advanced glycosylation end product-specific receptor",
-        "serial": 76
+        "serial": 76,
+        "type": "Single"
     },
     {
         "pdb": "1UEQ",
         "protein": "Membrane-associated guanylate kinase, WW and PDZ domain-containing protein 2",
-        "serial": 77
+        "serial": 77,
+        "type": "Single"
     },
     {
         "pdb": "6S4L",
         "protein": "BTB/POZ domain-containing protein KCTD1",
-        "serial": 78
+        "serial": 78,
+        "type": "Poly"
     },
     {
         "pdb": "1OR6",
         "protein": "Heme-based aerotactic transducer HemAT",
-        "serial": 79
+        "serial": 79,
+        "type": "Poly"
     },
     {
         "pdb": "2EDZ",
         "protein": "Na(+)/H(+) exchange regulatory cofactor NHE-RF3",
-        "serial": 80
+        "serial": 80,
+        "type": "Single"
     },
     {
         "pdb": "6JK8",
         "protein": "Insulin",
-        "serial": 81
+        "serial": 81,
+        "type": "Poly"
     },
     {
         "pdb": "5YBY",
         "protein": "Gliomedin",
-        "serial": 82
+        "serial": 82,
+        "type": "Single"
     },
     {
         "pdb": "1I2H",
         "protein": "Homer protein homolog 1",
-        "serial": 83
+        "serial": 83,
+        "type": "Single"
     },
     {
         "pdb": "5J12",
         "protein": "Interleukin-7 receptor subunit alpha",
-        "serial": 84
+        "serial": 84,
+        "type": "Poly"
     },
     {
         "pdb": "3HGM",
         "protein": "TRAP-T-associated universal stress protein TeaD",
-        "serial": 85
+        "serial": 85,
+        "type": "Poly"
     }
 ]

@@ -1762,5 +1762,49 @@
         "serial": 252,
         "crosses": "17",
         "type": "Poly"
+    },
+    
+    {
+        "pdb": "6TT7",
+        "protein_name": "Ovine ATP synthase 1a state",
+        "serial": 253,
+        "crosses": "160",
+        "type": "Poly"
+        
+    },
+    {
+        "pdb": "6QV2",
+        "protein_name": "ATPgS-bound outward-facing TM287/288 in complex with nanobody Nb_TM#2",
+        "serial": 254,
+        "crosses": "162",
+        "type": "Poly"
+    },
+    {
+        "pdb": "6TEJ",
+        "protein_name": "apo IrtAB devoid SID in complex with sybody Syb_NL5",
+        "serial": 255,
+        "crosses": "165",
+        "type": "Poly"
+    },
+    {
+        "pdb": "6PS6",
+        "protein_name": "XFEL beta2 AR structure by ligand exchange from Timolol to Timolol",
+        "serial": 256,
+        "crosses": "64",
+        "type": "Single"
+    },
+    {
+        "pdb": "5XSY",
+        "protein_name": "Nav1.4-beta1 complex",
+        "serial": 257,
+        "crosses": "161",
+        "type": "Poly"
+    },
+    {
+        "pdb": "7K48",
+        "protein_name": "NavAb/Nav1.7-VS2A",
+        "serial": 258,
+        "crosses": "165",
+        "type": "Poly"
     }
 ]

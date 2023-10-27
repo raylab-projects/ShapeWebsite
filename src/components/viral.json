@@ -600,5 +600,12 @@
         "serial": 86,
         "crosses": "5",
         "type": "Poly"
+    },
+    {
+        "pdb": "2X53",
+        "protein_name": "phage p2 baseplate in its activated conformation with Sr",
+        "serial": 87,
+        "crosses": "59",
+        "type": "Poly"
     }
 ]

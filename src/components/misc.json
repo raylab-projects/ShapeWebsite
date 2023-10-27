@@ -2188,5 +2188,153 @@
         "protein": "HTH-type transcriptional regulator MalT",
         "serial": 329,
         "crosses": "82"
+    },
+    {
+        "pdb": "6GBG",
+        "protein_name": "Helicobacter pylori adhesin HopQ type I bound to the N-terminal domain of human CEACAM1",
+        "serial": 330,
+        "crosses": "224",
+        "type": "Poly"
+    },
+    {
+        "pdb": "1YG1",
+        "protein_name": "HUMAN FACILITATIVE GLUCOSE TRANSPORTER V (GLUT5)",
+        "serial": 331,
+        "crosses": "74",
+        "type": "Single"
+    },
+    {
+        "pdb": "1NVZ",
+        "protein_name": "ATP synthase beta-chainHOMOLOGY PREDICTED MODEL ATP SYNTHASE BETA-CHAIN",
+        "serial": 332,
+        "crosses": "80",
+        "type": "Single"
+    },
+    {
+        "pdb": "6KAC",
+        "protein_name": "Cryo-EM structure of the C2S2-type PSII-LHCII supercomplex from Chlamydomonas reihardtii",
+        "serial": 333,
+        "crosses": "175",
+        "type": "Poly"
+    },
+    {
+        "pdb": "1Q1X",
+        "protein_name": "Coronavirus Main Proteinase (3CLPRO) structure",
+        "serial": 334,
+        "crosses": "202",
+        "type": "Poly"
+    },
+    {
+        "pdb": "6RLB",
+        "protein_name": "Structure of the dynein-2 complex; tail domain",
+        "serial": 335,
+        "crosses": "172",
+        "type": "Poly"
+    },
+    {
+        "pdb": "1ZC7",
+        "protein_name": "Oxalate Transporter of Oxalobacter formigenesHOMOLOGY MODEL FOR OXLT, THE OXALATE TRANSPORTER OF OXALOBACTER FORMIGENES",
+        "serial": 336,
+        "crosses": "80",
+        "type": "Single"
+    },
+    {
+        "pdb": "2IQ4",
+        "protein_name": "Multi drug Resistant ProteinMULTI DRUG RESISTANT PROTEIN",
+        "serial": 337,
+        "crosses": "66",
+        "type": "Single"
+    },
+    {
+        "pdb": "2J39",
+        "protein_name": "Bacillus thurigiensis (P21256)cry 11",
+        "serial": 338,
+        "crosses": "75",
+        "type": "Single"
+    },
+    {
+        "pdb": "2B6R",
+        "protein_name": "human P2Y6 receptor",
+        "serial": 339,
+        "crosses": "81",
+        "type": "Single"
+    },
+    {
+        "pdb": "2B0X",
+        "protein_name": "Platelet-activating Factor Receptor",
+        "serial": 340,
+        "crosses": "81",
+        "type": "Single"
+    },
+    {
+        "pdb": "4AM9",
+        "protein_name": "YERSINIA ENTEROCOLITICA TYPE III SECRETION CHAPERONE SYCD IN COMPLEX WITH A PEPTIDE OF THE TRANSLOCATOR YOPD",
+        "serial":  341,
+        "crosses": "31",
+        "type": "Poly"
+    },
+    {
+        "pdb": "1R25",
+        "protein_name": "hypothetical ABC transporter extracellular binding protein from Pyrococcus horikoshii",
+        "serial": 342,
+        "crosses": "81",
+        "type": "Single"
+    },
+    {
+        "pdb": "1UFD",
+        "protein_name": "Nodulin 26 from Glycine max",
+        "serial": 343,
+        "crosses": "221",
+        "type": "Poly"
+    },
+    {
+        "pdb": "2IK3",
+        "protein_name": "Neuropeptide Y2 receptor",
+        "serial": 344,
+        "crosses": "81",
+        "type": "Single"
+    },
+    {
+        "pdb": "2AFL",
+        "protein_name": "Voltage Gated Potassium Channel (Kv1.1) from Human",
+        "serial": 345,
+        "crosses": "140",
+        "type": "Poly"
+    },
+    {
+        "pdb": "1SR1",
+        "protein_name": "SENSORY RHODOPSIN I FROM HALOBACTERIUM SALINARIUM",
+        "serial": 346,
+        "crosses": "64",
+        "type": "Single"
+    },
+    {
+        "pdb": "4Y28",
+        "protein_name": "plant photosystem I super-complex at 2.8 angstrom resolution",
+        "serial": 347,
+        "crosses": "191",
+        "type": "Poly"
+    },
+    {
+        "pdb": "1OLE",
+        "protein_name": "rat alpha4beta2 nicotinic receptor",
+        "serial": 348,
+        "crosses": "216",
+        "type": "Poly"
+    },
+    {
+        "pdb": "2FF9",
+        "protein_name": "Beta-1 Adrenergic Receptor",
+        "serial": 349,
+        "crosses": "81",
+        "type": "Single"
+    },
+    {
+        "pdb": "5LGD",
+        "protein_name": "The CIDRa domain from MCvar1 PfEMP1 bound to CD36",
+        "serial": 350,
+        "crosses": "221",
+        "type": "Poly"
     }
+
 ]

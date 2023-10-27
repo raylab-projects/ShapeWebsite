@@ -3589,5 +3589,27 @@
         "serial": 513,
         "crosses": "25",
         "type": "Poly"
+    },
+    {
+        "pdb": "6VRL",
+        "protein_name": "Cryo-EM structure of the wild-type human serotonin transporter complexed with I-paroxetine and 8B6 Fab",
+        "serial": 514,
+        "crosses": "318",
+        "type": "Poly"
+    },
+    {
+        "pdb": "5WUA",
+        "protein_name": "Pancreatic ATP-sensitive Potassium Channel",
+        "serial": 515,
+        "crosses": "289",
+        "type": "Poly"
+    },
+    {
+        "pdb": "6OWT",
+        "protein_name": "SIVsmm Nef and SMM tetherin bound to the clathrin adaptor AP-2 complex",
+        "serial": 516,
+        "crosses": "310",
+        "type": "Poly"
     }
+
 ]

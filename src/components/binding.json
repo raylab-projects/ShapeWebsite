@@ -1657,5 +1657,26 @@
         "serial": 237,
         "crosses": "14",
         "type": "Poly"
+    },
+    {
+        "pdb": "6LB8",
+        "protein_name": "Ca2+-free T4L-MICU1-MICU2 complex",
+        "serial": 238,
+        "crosses": "124",
+        "type": "Poly"
+    },
+    {
+        "pdb": "3UAT",
+        "protein_name": "Guanylate kinase domains of the MAGUK family scaffold proteins",
+        "serial": 239,
+        "crosses": "136",
+        "type": "Poly"
+    },
+    {
+        "pdb": "5SY1",
+        "protein_name": "STRA6 receptor for retinol uptake in complex with calmodulin",
+        "serial": 240,
+        "crosses": "125",
+        "type": "Poly"
     }
 ]
